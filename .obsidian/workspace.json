@@ -11,12 +11,8 @@
             "id": "dfbb94f9511ee3b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "README.md"
               }
             }
           }
@@ -150,13 +144,13 @@
   },
   "active": "02fc0896febc69a2",
   "lastOpenFiles": [
+    "Untitled.md",
     "README.md",
     "Templates",
     "Apptitude",
     "Computer Networks",
     "Operating System",
     "Data Structure",
-    "conflict-files-obsidian-git.md",
-    "Untitled.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
