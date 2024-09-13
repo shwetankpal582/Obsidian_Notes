@@ -1,4 +1,6 @@
 ---
 tags: 
-Date:
+Date: 
+Topic: 
+Subject:
 ---
