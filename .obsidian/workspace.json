@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Just Know the Details.md",
+                "file": "Templates/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Just Know the Details.md",
+                "file": "Templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Just Know the Details.md",
+                "file": "Templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Just Know the Details.md"
+                "file": "Templates/Untitled.md"
               }
             }
           }
@@ -150,24 +150,12 @@
   },
   "active": "dfbb94f9511ee3b7",
   "lastOpenFiles": [
+    "Data Structure/Index.md",
+    "Templates/Untitled.md",
     "Just Know the Details.md",
-    "Work",
-    "DS/array/Operations in Array.md",
-    "DS/array/Arrays.md",
-    "DS/SpaceAndTime/Time Complexity.md",
-    "DS/SpaceAndTime/TC Questions.md",
-    "DS/SpaceAndTime/Calculating Time Complexity.md",
-    "DS/SpaceAndTime/Asymptotic Notation.md",
-    "DS/HashTable/Hash Table.md",
-    "DS/HashTable/Hash Function.md",
-    "DS/HashTable/Collision Resolution Techniques.md",
-    "DS/array",
-    "DS/Untitled database.md",
-    "DS/README.md",
-    "DS/SpaceAndTime",
-    "DS/HashTable",
     "DS",
     "README.md",
+    "Untitled.md",
     "Templates",
     "Apptitude",
     "Computer Networks",
