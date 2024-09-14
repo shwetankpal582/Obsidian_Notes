@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Structure/Recursion/Recursion Intro.md",
+                "file": "Templates/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data_Structure/Recursion/Recursion Intro.md",
+                "file": "Templates/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data_Structure/Recursion/Recursion Intro.md",
+                "file": "Templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data_Structure/Recursion/Recursion Intro.md",
+                "file": "Templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data_Structure/Recursion/Recursion Intro.md"
+                "file": "Templates/Untitled.md"
               }
             }
           },
@@ -217,17 +217,18 @@
   },
   "active": "ad0f075c4dd13f75",
   "lastOpenFiles": [
+    "Work To Do.md",
+    "Templates/Untitled.md",
+    "Just Know the Details.md",
+    "Data_Structure/Recursion/Recursion Intro.md",
     "Data_Structure/Untitled database.md",
     "Data_Structure/README.md",
-    "Data_Structure/Recursion/Recursion Intro.md",
-    "Templates/Untitled.md",
     "Data_Structure/array/Operations in Array.md",
     "Data_Structure/Recursion",
     "Data_Structure/array/Arrays.md",
     "Data_Structure/HashTable/Collision Resolution Techniques.md",
     "Data_Structure/HashTable/Hash Table.md",
     "Data_Structure/HashTable/Hash Function.md",
-    "Just Know the Details.md",
     "Data_Structure/array",
     "Data_Structure/SpaceAndTime/Time Complexity.md",
     "Data_Structure/SpaceAndTime/TC Questions.md",
@@ -250,7 +251,6 @@
     "DS/array",
     "DS/SpaceAndTime/Calculating Time Complexity.md",
     "PicturesFromValt/Pasted image 20240902191144.png",
-    "DS/SpaceAndTime/TC Questions.md",
     "Templates/NotesStructure",
     "DS/TimeComplexity",
     "website work/Untitled.canvas",
