@@ -11,12 +11,8 @@
             "id": "ad0f075c4dd13f75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Just Know the Details.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Just Know the Details.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Just Know the Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Just Know the Details.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Just Know the Details.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,6 +206,22 @@
   },
   "active": "ad0f075c4dd13f75",
   "lastOpenFiles": [
+    "Just Know the Details.md",
+    "Data Structure/array/Operations in Array.md",
+    "Data Structure/array/Arrays.md",
+    "Data Structure/array",
+    "Data Structure/Untitled database.md",
+    "Data Structure/README.md",
+    "Data Structure/SpaceAndTime/Time Complexity.md",
+    "Data Structure/SpaceAndTime/TC Questions.md",
+    "Data Structure/SpaceAndTime/Calculating Time Complexity.md",
+    "Data Structure/SpaceAndTime/Asymptotic Notation.md",
+    "Data Structure/SpaceAndTime",
+    "Data Structure/HashTable/Hash Table.md",
+    "Data Structure/HashTable/Hash Function.md",
+    "Data Structure/HashTable/Collision Resolution Techniques.md",
+    "Data Structure/HashTable",
+    "Data Structure",
     "DS/HashTable/Hash Table.md",
     "DS/Untitled database.md",
     "DS/array/Arrays.md",
@@ -235,32 +242,16 @@
     "DS/TimeComplexity",
     "Index.md",
     "website work/Untitled.canvas",
-    "Excalidraw/Drawing 2024-07-19 10.43.43.excalidraw.md",
     "researchwork.png",
-    "website work/Review.md",
     "Review.pdf",
     "PicturesFromValt/Pasted image 20240715093826.png",
     "PicturesFromValt/Pasted image 20240715093426.png",
-    "Excalidraw/contactpage.excalidraw.md",
-    "website work/navbar.excalidraw.md",
-    "Excalidraw/projectPge.excalidraw.md",
-    "work to complete.md",
-    "Syro tech work.md",
-    "DS/HashTable/Hash Function.md",
-    "DS/HashTable/Collision Resolution Techniques.md",
-    "Data structure/HashTable/Untitled.md",
     "DS/HashTable",
     "PicturesFromValt/Pasted image 20240707221846.png",
-    "Templates/File structure/Data Structure.md",
-    "Templates/File structure/Untitled",
-    "Web3/Solidity/Events and Address.md",
     "PicturesFromValt/Pasted image 20240705224714.png",
-    "Web3/Solidity",
-    "website work",
     "PicturesFromValt/Pasted image 20240625141017.png",
     "PicturesFromValt/Pasted image 20240625135537.png",
     "PicturesFromValt/Pasted image 20240625135351.png",
-    "PicturesFromValt/Pasted image 20240625135335.png",
-    "Web3/Cryptograhy"
+    "PicturesFromValt/Pasted image 20240625135335.png"
   ]
 }
