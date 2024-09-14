@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/HashTable/Hash Table.md",
+                "file": "Just Know the Details.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DS/HashTable/Hash Table.md",
+                "file": "Just Know the Details.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/HashTable/Hash Table.md",
+                "file": "Just Know the Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/HashTable/Hash Table.md",
+                "file": "Just Know the Details.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/HashTable/Hash Table.md"
+                "file": "Just Know the Details.md"
               }
             }
           },
@@ -215,6 +215,7 @@
   },
   "active": "ad0f075c4dd13f75",
   "lastOpenFiles": [
+    "DS/HashTable/Hash Table.md",
     "DS/Untitled database.md",
     "DS/array/Arrays.md",
     "DS/array/Operations in Array.md",
@@ -242,7 +243,6 @@
     "PicturesFromValt/Pasted image 20240715093426.png",
     "Excalidraw/contactpage.excalidraw.md",
     "website work/navbar.excalidraw.md",
-    "DS/HashTable/Hash Table.md",
     "Excalidraw/projectPge.excalidraw.md",
     "work to complete.md",
     "Syro tech work.md",
