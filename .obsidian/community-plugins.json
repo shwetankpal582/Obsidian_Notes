@@ -6,5 +6,7 @@
   "obsidian-kanban",
   "obsidian-list-callouts",
   "obsidian-git",
-  "obsidian-charts"
+  "obsidian-charts",
+  "obsidian-projects",
+  "callout-manager"
 ]

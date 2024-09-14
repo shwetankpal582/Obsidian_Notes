@@ -11,16 +11,20 @@ Before Learning Data Structure:
 ## Index
 ### Array
 ```dataview
-table date as Date, Topics as Topic from "DS/array"
+table date as Date, Topics as Topic from "Data_Structure/array"
 ```
 
 ### Hash Table
 ```dataview
-table date as Date, Topics as Topic from "DS/HashTable"
+table date as Date, Topics as Topic from "Data_Structure/HashTable"
 ```
 ### Time Complexity
 ```dataview
-table date as Date, Topics as Topic from "DS/SpaceAndTime"
+table date as Date, Topics as Topic from "Data_Structure/SpaceAndTime"
 ```
 
+### Recursion
 
+```dataview
+table date as Date, Topics as Topic from "Data_Structure/Recursion"
+```

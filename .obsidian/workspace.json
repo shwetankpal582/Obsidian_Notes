@@ -11,8 +11,12 @@
             "id": "ad0f075c4dd13f75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Templates/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -121,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/Untitled.md"
+              }
             }
           },
           {
@@ -182,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -201,27 +210,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "callout-manager:Insert Callout": false
     }
   },
   "active": "ad0f075c4dd13f75",
   "lastOpenFiles": [
+    "Data_Structure/Recursion/Recursion Intro.md",
+    "Data_Structure/README.md",
+    "Data_Structure/array/Operations in Array.md",
+    "Data_Structure/Recursion",
+    "Data_Structure/array/Arrays.md",
+    "Data_Structure/HashTable/Collision Resolution Techniques.md",
+    "Data_Structure/HashTable/Hash Table.md",
+    "Data_Structure/HashTable/Hash Function.md",
     "Just Know the Details.md",
-    "Data Structure/array/Operations in Array.md",
-    "Data Structure/array/Arrays.md",
-    "Data Structure/array",
-    "Data Structure/Untitled database.md",
-    "Data Structure/README.md",
-    "Data Structure/SpaceAndTime/Time Complexity.md",
-    "Data Structure/SpaceAndTime/TC Questions.md",
-    "Data Structure/SpaceAndTime/Calculating Time Complexity.md",
-    "Data Structure/SpaceAndTime/Asymptotic Notation.md",
-    "Data Structure/SpaceAndTime",
-    "Data Structure/HashTable/Hash Table.md",
-    "Data Structure/HashTable/Hash Function.md",
-    "Data Structure/HashTable/Collision Resolution Techniques.md",
-    "Data Structure/HashTable",
-    "Data Structure",
+    "Data_Structure/array",
+    "Data_Structure/Untitled database.md",
+    "Data_Structure/SpaceAndTime/Time Complexity.md",
+    "Data_Structure/SpaceAndTime/TC Questions.md",
+    "Data_Structure/SpaceAndTime/Calculating Time Complexity.md",
+    "Data_Structure/SpaceAndTime/Asymptotic Notation.md",
+    "Data_Structure/SpaceAndTime",
+    "Data_Structure/HashTable",
+    "Data_Structure",
     "DS/HashTable/Hash Table.md",
     "DS/Untitled database.md",
     "DS/array/Arrays.md",
@@ -240,13 +253,11 @@
     "Templates/NotesStructure/CodeBlockStructure.md",
     "Templates/NotesStructure",
     "DS/TimeComplexity",
-    "Index.md",
     "website work/Untitled.canvas",
     "researchwork.png",
     "Review.pdf",
     "PicturesFromValt/Pasted image 20240715093826.png",
     "PicturesFromValt/Pasted image 20240715093426.png",
-    "DS/HashTable",
     "PicturesFromValt/Pasted image 20240707221846.png",
     "PicturesFromValt/Pasted image 20240705224714.png",
     "PicturesFromValt/Pasted image 20240625141017.png",
