@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#blockchain",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#DataStructure  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#Arrays  ",
+      "color": {
+        "a": 1,
+        "rgb": 1159297
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 0.958181818181818,
+  "lineSizeMultiplier": 1.16763636363636,
+  "collapse-forces": false,
+  "centerStrength": 0.422115027829314,
+  "repelStrength": 9.33471933471933,
+  "linkStrength": 1,
+  "linkDistance": 169,
+  "scale": 0.3730546992743349,
+  "close": true
+}

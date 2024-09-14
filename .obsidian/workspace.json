@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "09ba39d896d0cfa4",
+    "id": "0159a6c08c04d9d9",
     "type": "split",
     "children": [
       {
-        "id": "5da03a97eacfa688",
+        "id": "00b9359586742e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "dfbb94f9511ee3b7",
+            "id": "ad0f075c4dd13f75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "DS/HashTable/Hash Table.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d110f205f2304e21",
+    "id": "68af84ba2b52d6fa",
     "type": "split",
     "children": [
       {
-        "id": "57b6e4caec961911",
+        "id": "ed638b37bf1d347c",
         "type": "tabs",
         "children": [
           {
-            "id": "02fc0896febc69a2",
+            "id": "f33d41674945bd19",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "339a380ccda69ac5",
+            "id": "f992c7fdf913d30d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arrays",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "04b9d76d4de93434",
+            "id": "f03714a96f406307",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -66,26 +66,67 @@
             }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "b53ea1a2bed3e3b2",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "baf28df5bd5738c6",
+        "id": "5be542208482016b",
         "type": "tabs",
         "children": [
           {
-            "id": "3626fb9f1a08296e",
+            "id": "f3e0c335bd37d740",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "DS/HashTable/Hash Table.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6554983534946917,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "850ddd17e04b66fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a76541fbbdc5f020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fadfa4a69937b9c2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "DS/HashTable/Hash Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +138,19 @@
             }
           },
           {
-            "id": "81253311889a33b9",
+            "id": "1faa60619352a877",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "DS/HashTable/Hash Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d54cffd6ebce1aff",
+            "id": "a1d5609bede0864e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,16 +161,37 @@
             }
           },
           {
-            "id": "b538799a58650ddb",
+            "id": "c1fc0af48cc89817",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Untitled.md"
+                "file": "DS/HashTable/Hash Table.md"
               }
             }
+          },
+          {
+            "id": "6165e82f30f09b3f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "567ec99de9f9e7db",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -144,23 +206,61 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfbb94f9511ee3b7",
+  "active": "ad0f075c4dd13f75",
   "lastOpenFiles": [
-    "Data Structure/Index.md",
-    "Templates/Untitled.md",
-    "Just Know the Details.md",
-    "DS",
-    "README.md",
-    "Untitled.md",
-    "Templates",
-    "Apptitude",
-    "Computer Networks",
-    "Operating System",
-    "Data Structure",
-    "conflict-files-obsidian-git.md"
+    "DS/Untitled database.md",
+    "DS/array/Arrays.md",
+    "DS/array/Operations in Array.md",
+    "Todo work.md",
+    "website work/HomePage.excalidraw.md",
+    "website work/Untitled Kanban.md",
+    "DS/README.md",
+    "DS/SpaceAndTime/Asymptotic Notation.md",
+    "DS/SpaceAndTime",
+    "DS/SpaceAndTime/Time Complexity.md",
+    "DS/array",
+    "DS/SpaceAndTime/Calculating Time Complexity.md",
+    "PicturesFromValt/Pasted image 20240902191144.png",
+    "DS/SpaceAndTime/TC Questions.md",
+    "Templates/NotesStructure/CodeBlockStructure.md",
+    "Templates/NotesStructure",
+    "DS/TimeComplexity",
+    "Index.md",
+    "website work/Untitled.canvas",
+    "Excalidraw/Drawing 2024-07-19 10.43.43.excalidraw.md",
+    "researchwork.png",
+    "website work/Review.md",
+    "Review.pdf",
+    "PicturesFromValt/Pasted image 20240715093826.png",
+    "PicturesFromValt/Pasted image 20240715093426.png",
+    "Excalidraw/contactpage.excalidraw.md",
+    "website work/navbar.excalidraw.md",
+    "DS/HashTable/Hash Table.md",
+    "Excalidraw/projectPge.excalidraw.md",
+    "work to complete.md",
+    "Syro tech work.md",
+    "DS/HashTable/Hash Function.md",
+    "DS/HashTable/Collision Resolution Techniques.md",
+    "Data structure/HashTable/Untitled.md",
+    "DS/HashTable",
+    "PicturesFromValt/Pasted image 20240707221846.png",
+    "Templates/File structure/Data Structure.md",
+    "Templates/File structure/Untitled",
+    "Web3/Solidity/Events and Address.md",
+    "PicturesFromValt/Pasted image 20240705224714.png",
+    "Web3/Solidity",
+    "website work",
+    "PicturesFromValt/Pasted image 20240625141017.png",
+    "PicturesFromValt/Pasted image 20240625135537.png",
+    "PicturesFromValt/Pasted image 20240625135351.png",
+    "PicturesFromValt/Pasted image 20240625135335.png",
+    "Web3/Cryptograhy"
   ]
 }

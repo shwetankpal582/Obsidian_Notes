@@ -1,5 +1,10 @@
 [
-  "obsidian-git",
+  "dataview",
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
+  "dbfolder",
   "obsidian-kanban",
-  "dataview"
+  "obsidian-list-callouts",
+  "obsidian-git",
+  "obsidian-charts"
 ]
