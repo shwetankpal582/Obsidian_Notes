@@ -31,7 +31,7 @@ columns:
       footer_type: none
       persist_changes: false
   Date:
-    input: calendar
+    input: text
     accessorKey: Date
     key: Date
     id: Date
@@ -42,6 +42,7 @@ columns:
     sortIndex: -1
     isSorted: false
     isSortedDesc: false
+    width: 168
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -89,6 +90,7 @@ columns:
       - { label: "hashing", value: "hashing", color: "hsl(67, 95%, 90%)"}
       - { label: "hashtable", value: "hashtable", color: "hsl(143, 95%, 90%)"}
       - { label: "TimeComplexity", value: "TimeComplexity", color: "hsl(232, 95%, 90%)"}
+      - { label: "Recursion", value: "Recursion", color: "hsl(118, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -115,6 +117,7 @@ columns:
       - { label: "Array", value: "array", color: "hsl(68, 95%, 90%)"}
       - { label: "hashTable", value: "HashTable", color: "hsl(44, 95%, 90%)"}
       - { label: "SpaceAndTime", value: "SpaceAndTime", color: "hsl(15, 95%, 90%)"}
+      - { label: "Recursion", value: "Recursion", color: "hsl(215, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

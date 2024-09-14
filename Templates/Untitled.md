@@ -1,6 +1,6 @@
 ---
 tags: 
-Date: 
+Date: "{{date}}"
 Topic: 
 Subject:
 ---
