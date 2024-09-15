@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networks/Unit1/Transmission Mode.md",
-                "mode": "preview",
+                "file": "Computer Networks/Index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer Networks/Unit1/Transmission Mode.md",
+                "file": "Computer Networks/Index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "850ddd17e04b66fb",
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networks/Unit1/Transmission Mode.md",
+                "file": "Computer Networks/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networks/Unit1/Transmission Mode.md",
+                "file": "Computer Networks/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networks/Unit1/Transmission Mode.md"
+                "file": "Computer Networks/Index.md"
               }
             }
           },
@@ -241,8 +240,9 @@
   },
   "active": "5522c34e27a1feb6",
   "lastOpenFiles": [
-    "Computer Networks/Unit1/Data Communication.md",
     "Computer Networks/Unit1/Transmission Mode.md",
+    "Computer Networks/Index.md",
+    "Computer Networks/Unit1/Data Communication.md",
     "Images From Vault/Pasted image 20240915095334.png",
     "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
     "Images From Vault",
@@ -276,7 +276,6 @@
     "DS/array/Arrays.md",
     "DS/array/Operations in Array.md",
     "Todo work.md",
-    "website work/HomePage.excalidraw.md",
     "DS/SpaceAndTime",
     "DS/array",
     "PicturesFromValt/Pasted image 20240902191144.png",
