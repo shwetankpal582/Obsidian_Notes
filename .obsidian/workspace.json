@@ -11,9 +11,11 @@
             "id": "ad0f075c4dd13f75",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Computer Networks/Untitled database.md"
+                "file": "Computer Networks/Unit1/Computer Networks.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer Networks/Untitled database.md",
+                "file": "Computer Networks/Unit1/Computer Networks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -108,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "850ddd17e04b66fb",
@@ -124,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networks/Untitled database.md",
+                "file": "Computer Networks/Unit1/Computer Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networks/Untitled database.md",
+                "file": "Computer Networks/Unit1/Computer Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networks/Untitled database.md"
+                "file": "Computer Networks/Unit1/Computer Networks.md"
               }
             }
           },
@@ -213,11 +216,12 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f33d41674945bd19",
+  "active": "ad0f075c4dd13f75",
   "lastOpenFiles": [
-    "Computer Networks/Unit1",
     "Templates/Untitled.md",
+    "Computer Networks/Unit1/Computer Networks.md",
     "Computer Networks/Untitled database.md",
+    "Computer Networks/Unit1",
     "Work To Do.md",
     "Just Know the Details.md",
     "Data_Structure/Recursion/Recursion Intro.md",
@@ -253,7 +257,6 @@
     "DS/TimeComplexity",
     "website work/Untitled.canvas",
     "researchwork.png",
-    "Review.pdf",
     "PicturesFromValt/Pasted image 20240715093826.png",
     "PicturesFromValt/Pasted image 20240715093426.png",
     "PicturesFromValt/Pasted image 20240707221846.png",
