@@ -16,3 +16,5 @@ Subject: Computer Networks
 - **Reciever** - device how receives the message (computer, phone, television, etc.)
 - **Transmission medium** - is the physical path by which a message travels from sender to receiver.
 - **Protocol**  - Which includes syntax, semantics, timing, De facto, De jure.
+
+![500](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200625134316/1118.png)
