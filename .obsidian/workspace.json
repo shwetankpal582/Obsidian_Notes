@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "850ddd17e04b66fb",
@@ -226,8 +225,9 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "6fd03c22d2d5a4f5",
+  "active": "f33d41674945bd19",
   "lastOpenFiles": [
+    "Images From Vault",
     "Pasted image 20240915094207.png",
     "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
     "Computer Networks/Unit1/Data Communication.md",
@@ -273,7 +273,6 @@
     "PicturesFromValt/Pasted image 20240705224714.png",
     "PicturesFromValt/Pasted image 20240625141017.png",
     "PicturesFromValt/Pasted image 20240625135537.png",
-    "PicturesFromValt/Pasted image 20240625135351.png",
-    "PicturesFromValt/Pasted image 20240625135335.png"
+    "PicturesFromValt/Pasted image 20240625135351.png"
   ]
 }

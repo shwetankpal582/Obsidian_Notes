@@ -21,3 +21,4 @@ Subject: Computer Networks
 
 
 ## Transmission Mode
+- Data flow between two systems can be categorised into three types:-
