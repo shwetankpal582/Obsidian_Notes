@@ -8,14 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad0f075c4dd13f75",
+            "id": "6fd03c22d2d5a4f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networks/Unit1/Computer Networks.md",
-                "mode": "preview",
+                "file": "Computer Networks/Unit1/Data Communication.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "de420cc96eda3c16",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md"
               }
             }
           }
@@ -77,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer Networks/Unit1/Computer Networks.md",
+                "file": "Computer Networks/Unit1/Data Communication.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -127,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networks/Unit1/Computer Networks.md",
+                "file": "Computer Networks/Unit1/Data Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networks/Unit1/Computer Networks.md",
+                "file": "Computer Networks/Unit1/Data Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networks/Unit1/Computer Networks.md"
+                "file": "Computer Networks/Unit1/Data Communication.md"
               }
             }
           },
@@ -216,10 +226,14 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "ad0f075c4dd13f75",
+  "active": "6fd03c22d2d5a4f5",
   "lastOpenFiles": [
-    "Templates/Untitled.md",
+    "Pasted image 20240915094207.png",
+    "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
+    "Computer Networks/Unit1/Data Communication.md",
+    "Excalidraw",
     "Computer Networks/Unit1/Computer Networks.md",
+    "Templates/Untitled.md",
     "Computer Networks/Untitled database.md",
     "Computer Networks/Unit1",
     "Work To Do.md",
@@ -247,14 +261,10 @@
     "DS/array/Operations in Array.md",
     "Todo work.md",
     "website work/HomePage.excalidraw.md",
-    "website work/Untitled Kanban.md",
-    "DS/README.md",
-    "DS/SpaceAndTime/Asymptotic Notation.md",
     "DS/SpaceAndTime",
     "DS/array",
     "PicturesFromValt/Pasted image 20240902191144.png",
     "Templates/NotesStructure",
-    "DS/TimeComplexity",
     "website work/Untitled.canvas",
     "researchwork.png",
     "PicturesFromValt/Pasted image 20240715093826.png",
