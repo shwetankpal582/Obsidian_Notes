@@ -18,3 +18,6 @@ Subject: Computer Networks
 - **Protocol**  - Which includes syntax, semantics, timing, De facto, De jure.
 
 ![500](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200625134316/1118.png)
+
+
+## Transmission Mode
