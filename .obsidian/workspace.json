@@ -11,11 +11,9 @@
             "id": "ad0f075c4dd13f75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Templates/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Computer Networks/Untitled database.md"
               }
             }
           }
@@ -77,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Computer Networks/Untitled database.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Computer Networks/Untitled database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Computer Networks/Untitled database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Untitled.md"
+                "file": "Computer Networks/Untitled database.md"
               }
             }
           },
@@ -215,10 +213,12 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "ad0f075c4dd13f75",
+  "active": "f33d41674945bd19",
   "lastOpenFiles": [
-    "Work To Do.md",
+    "Computer Networks/Unit1",
     "Templates/Untitled.md",
+    "Computer Networks/Untitled database.md",
+    "Work To Do.md",
     "Just Know the Details.md",
     "Data_Structure/Recursion/Recursion Intro.md",
     "Data_Structure/Untitled database.md",
@@ -247,9 +247,7 @@
     "DS/README.md",
     "DS/SpaceAndTime/Asymptotic Notation.md",
     "DS/SpaceAndTime",
-    "DS/SpaceAndTime/Time Complexity.md",
     "DS/array",
-    "DS/SpaceAndTime/Calculating Time Complexity.md",
     "PicturesFromValt/Pasted image 20240902191144.png",
     "Templates/NotesStructure",
     "DS/TimeComplexity",
