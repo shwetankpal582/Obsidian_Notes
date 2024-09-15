@@ -5,6 +5,7 @@ tags:
 Date: 2024 - 09 - 15
 Topic:
   - Data Communication intro
+  - Transmission mode
 Subject: Computer Networks
 ---
 # Data Communication
@@ -22,3 +23,5 @@ Subject: Computer Networks
 
 ## Transmission Mode
 - Data flow between two systems can be categorised into three types:-
+![[Pasted image 20240915095334.png]]
+

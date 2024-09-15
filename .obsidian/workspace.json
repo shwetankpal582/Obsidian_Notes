@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5522c34e27a1feb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networks/Unit1/Transmission Mode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "de420cc96eda3c16",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer Networks/Unit1/Data Communication.md",
+                "file": "Computer Networks/Unit1/Transmission Mode.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -120,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "850ddd17e04b66fb",
@@ -136,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networks/Unit1/Data Communication.md",
+                "file": "Computer Networks/Unit1/Transmission Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networks/Unit1/Data Communication.md",
+                "file": "Computer Networks/Unit1/Transmission Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networks/Unit1/Data Communication.md"
+                "file": "Computer Networks/Unit1/Transmission Mode.md"
               }
             }
           },
@@ -225,12 +239,14 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f33d41674945bd19",
+  "active": "5522c34e27a1feb6",
   "lastOpenFiles": [
-    "Images From Vault",
-    "Pasted image 20240915094207.png",
-    "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
     "Computer Networks/Unit1/Data Communication.md",
+    "Computer Networks/Unit1/Transmission Mode.md",
+    "Images From Vault/Pasted image 20240915095334.png",
+    "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
+    "Images From Vault",
+    "Images From Vault/Pasted image 20240915094207.png",
     "Excalidraw",
     "Computer Networks/Unit1/Computer Networks.md",
     "Templates/Untitled.md",
@@ -264,7 +280,6 @@
     "DS/SpaceAndTime",
     "DS/array",
     "PicturesFromValt/Pasted image 20240902191144.png",
-    "Templates/NotesStructure",
     "website work/Untitled.canvas",
     "researchwork.png",
     "PicturesFromValt/Pasted image 20240715093826.png",
@@ -272,7 +287,6 @@
     "PicturesFromValt/Pasted image 20240707221846.png",
     "PicturesFromValt/Pasted image 20240705224714.png",
     "PicturesFromValt/Pasted image 20240625141017.png",
-    "PicturesFromValt/Pasted image 20240625135537.png",
-    "PicturesFromValt/Pasted image 20240625135351.png"
+    "PicturesFromValt/Pasted image 20240625135537.png"
   ]
 }
