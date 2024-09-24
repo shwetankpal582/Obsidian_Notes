@@ -38,4 +38,6 @@ Lets consider the following array as an example: **`arr[]` = {64, 25, 12, 22, 1
 - At last the largest value present in the array automatically get placed at the last position in the array.
 - The resulted array is the sorted array.
 ![500](https://media.geeksforgeeks.org/wp-content/uploads/20230526165320/5.webp)
-j
+
+
+---
