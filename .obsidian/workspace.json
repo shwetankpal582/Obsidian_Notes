@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networks/Index.md",
+                "file": "Data_Structure/Sorting/Selection Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer Networks/Index.md",
+                "file": "Data_Structure/Sorting/Selection Sort.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networks/Index.md",
+                "file": "Data_Structure/Sorting/Selection Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networks/Index.md",
+                "file": "Data_Structure/Sorting/Selection Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networks/Index.md"
+                "file": "Data_Structure/Sorting/Selection Sort.md"
               }
             }
           },
@@ -240,8 +240,10 @@
   },
   "active": "5522c34e27a1feb6",
   "lastOpenFiles": [
-    "Computer Networks/Unit1/Transmission Mode.md",
     "Computer Networks/Index.md",
+    "Data_Structure/Sorting/Selection Sort.md",
+    "Data_Structure/Sorting",
+    "Computer Networks/Unit1/Transmission Mode.md",
     "Computer Networks/Unit1/Data Communication.md",
     "Images From Vault/Pasted image 20240915095334.png",
     "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
@@ -275,9 +277,7 @@
     "DS/Untitled database.md",
     "DS/array/Arrays.md",
     "DS/array/Operations in Array.md",
-    "Todo work.md",
     "DS/SpaceAndTime",
-    "DS/array",
     "PicturesFromValt/Pasted image 20240902191144.png",
     "website work/Untitled.canvas",
     "researchwork.png",
