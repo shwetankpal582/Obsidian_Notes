@@ -14,7 +14,9 @@
               "type": "database-plugin",
               "state": {
                 "file": "Data_Structure/Untitled database.md"
-              }
+              },
+              "icon": "database-folder-icon",
+              "title": "Untitled database"
             }
           },
           {
@@ -26,7 +28,9 @@
                 "file": "Data_Structure/Sorting/Selection Sort.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Selection Sort"
             }
           },
           {
@@ -36,10 +40,25 @@
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md"
-              }
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-09-15 09.39.12.excalidraw"
+            }
+          },
+          {
+            "id": "969a12779188442f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -59,7 +78,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -74,7 +95,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -82,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -123,7 +148,9 @@
                   "scale": 0.6554983534946917,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Untitled database"
             }
           }
         ]
@@ -154,7 +181,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled database"
             }
           },
           {
@@ -166,7 +195,9 @@
                 "file": "Data_Structure/Untitled database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled database"
             }
           },
           {
@@ -177,7 +208,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -187,7 +220,9 @@
               "type": "outline",
               "state": {
                 "file": "Data_Structure/Untitled database.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled database"
             }
           },
           {
@@ -199,7 +234,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -207,7 +244,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -235,8 +274,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "6fd03c22d2d5a4f5",
+  "active": "969a12779188442f",
   "lastOpenFiles": [
+    "Practical FIle/OS",
+    "Practical FIle/CG",
+    "Practical FIle",
     "Data_Structure/README.md",
     "Data_Structure/Recursion/Recursion Intro.md",
     "Computer Networks/Unit1/Data Communication.md",
@@ -269,12 +311,9 @@
     "Data_Structure/SpaceAndTime/Asymptotic Notation.md",
     "Data_Structure/SpaceAndTime",
     "Data_Structure/HashTable",
-    "Data_Structure",
     "DS/HashTable/Hash Table.md",
     "DS/Untitled database.md",
     "DS/array/Arrays.md",
-    "DS/array/Operations in Array.md",
-    "DS/SpaceAndTime",
     "PicturesFromValt/Pasted image 20240902191144.png",
     "website work/Untitled.canvas",
     "researchwork.png",
