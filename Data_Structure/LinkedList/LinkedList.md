@@ -24,3 +24,5 @@ Subject: Data Structure
 2. **Deletion:**
 3. **Searching:**
 
+# Types of Linked List:
+[[SinglyLinkedList]]
