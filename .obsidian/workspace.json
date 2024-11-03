@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "de420cc96eda3c16",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-09-15 09.39.12.excalidraw"
-            }
-          },
-          {
             "id": "969a12779188442f",
             "type": "leaf",
             "state": {
@@ -48,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "850ddd17e04b66fb",
@@ -236,8 +223,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -258,17 +245,18 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "dbfolder:Create a new database table": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
       "callout-manager:Insert Callout": false
     }
   },
   "active": "969a12779188442f",
   "lastOpenFiles": [
-    "Data_Structure/README.md",
+    "Data_Structure/Sorting/Selection Sort.md",
     "Data_Structure/LinkedList/Untitled.md",
+    "Data_Structure/README.md",
     "Data_Structure/LinkedList",
     "Data_Structure/Untitled database.md",
     "Practical FIle/OS",
@@ -276,7 +264,6 @@
     "Practical FIle",
     "Data_Structure/Recursion/Recursion Intro.md",
     "Computer Networks/Unit1/Data Communication.md",
-    "Data_Structure/Sorting/Selection Sort.md",
     "Computer Networks/Index.md",
     "Data_Structure/Sorting",
     "Computer Networks/Unit1/Transmission Mode.md",
