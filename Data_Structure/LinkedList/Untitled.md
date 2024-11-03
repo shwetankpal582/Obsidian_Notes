@@ -24,4 +24,3 @@ Subject: Data Structure
 2. **Deletion:**
 3. **Searching:**
 
-this is giving shit
