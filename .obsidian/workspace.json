@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Unit 3/Untitled.md",
+                "file": "Operating System/Unit 3/Memory Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Memory Management"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arrays",
+                "query": "tag:CollisionResolutionTechniques",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5be542208482016b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Operating System/Unit 3/Untitled.md",
+                "file": "Operating System/Unit 3/Memory Management.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +114,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Memory Management"
             }
           }
         ]
@@ -237,10 +238,10 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "5522c34e27a1feb6",
+  "active": "f992c7fdf913d30d",
   "lastOpenFiles": [
     "Data_Structure/Sorting/Selection Sort.md",
-    "Operating System/Unit 3/Untitled.md",
+    "Operating System/Unit 3/Memory Management.md",
     "Operating System/Unit 3",
     "Untitled",
     "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
