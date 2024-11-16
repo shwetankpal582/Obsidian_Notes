@@ -82,3 +82,4 @@ In a multiprogramming computer, the Operating System resides in a part of memor
 
 
 
+
