@@ -16,7 +16,7 @@ Subject: Data Structure
 1. **Data:** It holds the actual value or data associated with the node.
 2. **Next Pointer or Reference :** It stores the memory address (reference) of the next node in the sequence.
 
-**Head and Tail:** The linked list is accessed through the head node, which points to the first node in the list. The last node in the list points to NULL or nullptr, indicating the end of the list. This node is known as the tail node.
+**Head and Tail:** The linked list is accessed through the head node, which points to the first node in the list. The last node in the list points to NULL or `nullptr`, indicating the end of the list. This node is known as the tail node.
 
 
 ## Operations in Linked List:
@@ -24,6 +24,7 @@ Subject: Data Structure
 2. **Deletion:**
 3. **Searching:**
 
+<<<<<<< HEAD:Data_Structure/LinkedList/Untitled.md
 
 ## Types Of Linked List:
 1.  Singly Linked List
@@ -34,3 +35,7 @@ Subject: Data Structure
 
 
 
+=======
+# Types of Linked List:
+[[SinglyLinkedList]]
+>>>>>>> origin/main:Data_Structure/LinkedList/LinkedList.md
