@@ -50,14 +50,12 @@ In a multiprogramming computer, the Operating System resides in a part of memor
 | **Editable**      | Logical address can be change.                                                                    | Physical address will not change.                                                                |
 | **Also called**   | virtual address.                                                                                  | real address.                                                                                    |
 
-
-
 # Swapping:
 
-
-
-
-
+- Swapping in an OS is process that moves data or program between the computer's main memory (RAM) and secondary storage(SSD or HD). 
+- Helps in managing the limited space of RAM and allows the system to run more programs than it could otherwise handle simultaneously.
+- ! It is only used when data isn't available in RAM. Although the swapping process degrades system performance, it allows larger and multiple processes to run concurrently. 
+- Because of this, swapping is also known as memory compaction.
 
 
 
