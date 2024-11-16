@@ -20,6 +20,17 @@ Subject: Data Structure
 
 
 ## Operations in Linked List:
-1. **Insertion:**
+1. **Insertion:** [[LinkedListInsertion|go]]:
 2. **Deletion:**
 3. **Searching:**
+
+
+## Types Of Linked List:
+1.  Singly Linked List
+2. Doubly Linked List
+3. Circular Linked List
+4. Circular doubly linked list
+
+
+
+
