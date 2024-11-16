@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "850ddd17e04b66fb",
@@ -238,7 +239,7 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "f992c7fdf913d30d",
+  "active": "5522c34e27a1feb6",
   "lastOpenFiles": [
     "Data_Structure/Sorting/Selection Sort.md",
     "Operating System/Unit 3/Memory Management.md",
