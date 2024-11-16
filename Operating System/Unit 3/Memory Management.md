@@ -57,6 +57,28 @@ In a multiprogramming computer, the Operating System resides in a part of memor
 - ! It is only used when data isn't available in RAM. Although the swapping process degrades system performance, it allows larger and multiple processes to run concurrently. 
 - Because of this, swapping is also known as memory compaction.
 
+![Swapping|400](https://media.geeksforgeeks.org/wp-content/uploads/20200406111356/Untitled-Diagram66-3.jpg)
+
+### Process of Swapping:
+- when the RAM is full and a new program needs to run, the OS selects a program or data that is currently in RAM but not actively being used.
+- The selected data is moved to the secondary storage, making space in RAM for the new program.
+- When the swapped-out program is needed again, it can be swapped back into RAM, replacing another inactive program or data if necessary.
+
+# Contiguous Memory Allocation:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
