@@ -66,6 +66,37 @@ In a multiprogramming computer, the Operating System resides in a part of memor
 
 # Contiguous Memory Allocation:
 
+- Contiguous memory allocation is a memory allocation strategy. 
+- Technique to assign contiguous blocks of memory to each task. Thus, whenever a process asks to access the main memory, we allocate a continuous segment from the empty region to the process based on its size. 
+- In this technique, memory is allotted in a continuous way to the processes. 
+- Contiguous Memory Management has two types:
+	- *Fixed(or Static) Partition*
+	- *Variable(or Dynamic) Partitioning*
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/20200413104124/pp128.png)
+
+### Types of contiguous memory allocation:
+1. **Fixed Partition Scheme**
+	- Memory is divided into fixed number of partitions.
+	- fixed means number of partitions are fixed in the memory.
+	- In every partition only one process will be accommodated.
+	- Degree of multi-programming is restricted by number of partitions in the memory. Maximum size of the process is restricted by maximum size of the partition. Every partition is associated with the limit registers.
+		- **Limit Registers:** It has two limit:
+		- **Lower Limit:** Starting address of the partition.
+		- **Upper Limit:** Ending address of the partition.
+
+
+![fixedPartition|500](https://media.geeksforgeeks.org/wp-content/uploads/20200413104221/pp216.png)
+
+
+2. **Variable Partition Scheme:**
+- Initially memory will be single continuous free block. whenever the request by the process arrives, accordingly partition will be made in the memory.
+- If the smaller processes keep on coming then the larger partitions will be made into smaller partitions.
+
+
+
+
+
 
 
 
