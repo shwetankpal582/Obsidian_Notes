@@ -42,9 +42,11 @@ for (int i=0;i<n;i++)
    }
 }
 ```
+- $ **count number of simple operations**
 First of all we can break the program into 2 fragments. *The first fragment is the first loop and the second fragment is the second loop (nested loop). Our final answer would be the sum of both fragments.*
 As we know running time for simple statements like *declaration, assignment, arithmetic/logical operations is O(1).*
 Therefore the time complexity of the first fragment would be $O(n)$, as the loop would run n times, the time complexity of the statements inside the loop is O(1).
 Whereas the time complexity of the second fragment would be $O(n^2)$.
 
 *Time complexity of the program*= $O(n) + O(n^2) = O(n^2)$
+![[Pasted image 20241215201542.png]]

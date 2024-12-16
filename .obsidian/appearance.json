@@ -1,4 +1,6 @@
 {
   "accentColor": "#e55d5d",
-  "cssTheme": "Things"
+  "cssTheme": "Wasp",
+  "theme": "obsidian",
+  "baseFontSize": 16
 }

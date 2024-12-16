@@ -10,8 +10,11 @@ Category: SpaceAndTime
 ---
 ## What is Time Complexity?
 - @ The valid algorithm takes a finite amount of time for execution.
+A same algorithm at different instances take different time on same machine .
+A same algorithm at different hardware also takes different time.
 [[Asymptotic Notation]]
 [[Calculating Time Complexity]]
+
 
 ### Example: 
 
