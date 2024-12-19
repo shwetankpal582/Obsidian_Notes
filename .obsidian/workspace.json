@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5522c34e27a1feb6",
+            "id": "9e0ba904c77518c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Structure/SpaceAndTime/Asymptotic Notation.md",
-                "mode": "source",
+                "file": "Data_Structure/Recursion/Recursive Leap of faith.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Asymptotic Notation"
+              "title": "Recursive Leap of faith"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data_Structure/SpaceAndTime/Asymptotic Notation.md",
+                "file": "Data_Structure/Recursion/Recursive Leap of faith.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +113,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Asymptotic Notation"
+              "title": "Graph of Recursive Leap of faith"
             }
           }
         ]
@@ -237,24 +237,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5522c34e27a1feb6",
+  "active": "9e0ba904c77518c4",
   "lastOpenFiles": [
+    "Images From Vault/Pasted image 20241219112054.png",
+    "Data_Structure/Recursion/Recursion Intro.md",
+    "Data_Structure/Recursion/Recursive Leap of faith.md",
+    "Images From Vault/Pasted image 20241219105736.png",
+    "Data_Structure/SpaceAndTime/Asymptotic Notation.md",
+    "Data_Structure/Untitled",
+    "Images From Vault/Pasted image 20241219105141.png",
+    "Data_Structure/SpaceAndTime/Logrithems.md",
+    "Data_Structure/SpaceAndTime/Time Complexity.md",
+    "Data_Structure/SpaceAndTime/Space complexity.md",
+    "Data_Structure/README.md",
+    "Data_Structure/SpaceAndTime/TC Questions.md",
+    "Backend/API.md",
+    "Backend/Basic Project.md",
+    "Data_Structure/SpaceAndTime/Untitled",
     "Images From Vault/Pasted image 20241215203655.png",
     "Images From Vault/Pasted image 20241215203611.png",
     "Images From Vault/Pasted image 20241215202935.png",
     "Images From Vault/Pasted image 20241215202729.png",
-    "Data_Structure/SpaceAndTime/Time Complexity.md",
     "Data_Structure/SpaceAndTime/Calculating Time Complexity.md",
     "Images From Vault/Pasted image 20241215201542.png",
     "Data_Structure/SpaceAndTime/Complexity Analysis.md",
     "Images From Vault/Pasted image 20241215200236.png",
-    "Data_Structure/SpaceAndTime/Asymptotic Notation.md",
     "Backend/URLs-and-Views.md",
     "Project/Challenger-Project.md",
     "Backend/Django and Framework.md",
     "Project",
     "Backend/Django and Framework.epub",
-    "Backend/API.md",
     "Operating System/Unit 1/Introduction to operating System.md",
     "Operating System/Unit 1/Untitled.md",
     "Backend",
@@ -271,20 +283,8 @@
     "conflict-files-obsidian-git.md",
     "Data_Structure/LinkedList/Untitled.md",
     "Data_Structure/LinkedList/SinglyLinkedList.md",
-    "Data_Structure/LinkedList/LinkedList.md",
-    "Data_Structure/README.md",
-    "Data_Structure/LinkedList",
-    "Data_Structure/Untitled database.md",
-    "Practical FIle/OS",
-    "Data_Structure/Recursion/Recursion Intro.md",
-    "Computer Networks/Unit1/Data Communication.md",
-    "Computer Networks/Index.md",
-    "Computer Networks/Unit1/Transmission Mode.md",
     "Images From Vault/Pasted image 20240915095334.png",
     "Images From Vault/Pasted image 20240915094207.png",
-    "PicturesFromValt/Pasted image 20240902191144.png",
-    "website work/Untitled.canvas",
-    "researchwork.png",
-    "PicturesFromValt/Pasted image 20240715093826.png"
+    "website work/Untitled.canvas"
   ]
 }

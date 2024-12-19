@@ -100,3 +100,9 @@ Another point to note here is that running time and time complexity are two diff
 | [Radix Sort](http://en.wikipedia.org/wiki/Radix_sort "Constant number of digits 'k'")                            | `Ω(nk)`         | `Θ(nk)`          | `O(nk)`          | `O(n+k)`         |
 | [Counting Sort](https://en.wikipedia.org/wiki/Counting_sort "Difference between maximum and minimum number 'k'") | `Ω(n+k)`        | `Θ(n+k)`         | `O(n+k)`         | `O(k)`           |
 | [Cubesort](https://en.wikipedia.org/wiki/Cubesort)                                                               | `Ω(n)`          | `Θ(n log(n))`    | `O(n log(n))`    | `O(n)`           |
+## BigO complexity Chart
+![bigO comlexity chart](https://paper-attachments.dropbox.com/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png)
+
+
+#### Example
+![[Pasted image 20241219105141.png|700]]

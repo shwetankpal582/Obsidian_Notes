@@ -63,3 +63,16 @@ Raj
 
 **Space Complexity:** $O(N)$
 - In the worst case, *the recursion stack space would be full with all the function calls waiting to get completed* and that would make it an $O(N)$ recursion stack space
+#### When to use Recursion?
+
+![[Pasted image 20241219105736.png|700]]
+Recursion is *best used in situations* where:
+1. The problem can be broken down into smaller versions of itself. For example, calculating a factorial: n! can be expressed as n * (n-1)!
+2. Tree or graph traversal, where you need to explore branches or paths that have a similar structure. Like traversing a file system, where each folder can contain more folders.
+3. When the solution is naturally expressed in recursive terms. The Fibonacci sequence is a classic example: each number is the sum of the two previous numbers.
+4. Problems involving fractal patterns or self-similar structures, like generating the Koch snowflake or Sierpinski triangle.
+However, *you should avoid recursion when*:
+1. The problem can be solved more clearly with iteration (loops)
+2. You're dealing with deep recursion that might cause stack overflow
+3. Performance is critical (recursive calls have overhead)
+4. The problem doesn't naturally break down into smaller, similar subproblems
