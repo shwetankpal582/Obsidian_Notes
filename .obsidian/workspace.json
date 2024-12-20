@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Visualizing Recursion"
             }
+          },
+          {
+            "id": "dc8444b512639312",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +110,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data_Structure/Recursion/Visualizing Recursion.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +137,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Visualizing Recursion"
+              "title": "Graph view"
             }
           }
         ]
@@ -253,12 +262,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9fa9be154899d89",
+  "active": "dc8444b512639312",
   "lastOpenFiles": [
-    "Data_Structure/Recursion/Untitled.md",
+    "Data_Structure/Recursion/Recursion vs Iteration.md",
     "Data_Structure/Recursion/Visualizing Recursion.md",
-    "Images From Vault/Pasted image 20241220111303.png",
     "Data_Structure/Recursion/Recursive Leap of faith.md",
+    "Images From Vault/Pasted image 20241220111303.png",
     "Data_Structure/README.md",
     "Backend/Nodejs/Nodejs/2. Crud.md",
     "Backend/Nodejs/Nodejs/code.md",
