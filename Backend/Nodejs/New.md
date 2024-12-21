@@ -7,4 +7,6 @@ $$\sqrt{x^n + y^n = z^n}$$
 
 ==kbfkjasbfjkv==smbsbvnvnms 
 
-
+- [x] hdalfleBKCJB
+- [ ] mdcbsmdc
+- [x] csC
