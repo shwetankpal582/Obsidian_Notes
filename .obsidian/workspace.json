@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Nodejs/1. MongoDB.md",
-                "mode": "preview",
+                "file": "Backend/Nodejs/2. Crud.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. MongoDB"
+              "title": "2. Crud"
             }
           }
         ],
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend/Nodejs/1. MongoDB.md",
+                "file": "Backend/Nodejs/2. Crud.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +128,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1. MongoDB"
+              "title": "Graph of 2. Crud"
             }
           }
         ]
@@ -255,10 +255,13 @@
   },
   "active": "7ac9499f4855a40f",
   "lastOpenFiles": [
+    "Backend/Nodejs/1. MongoDB.md",
+    "Data_Structure/SpaceAndTime/Logrithems.md",
+    "Data_Structure/SpaceAndTime/Complexity Analysis.md",
     "Backend/Nodejs/2. Crud.md",
     "Backend/Nodejs/New.md",
+    "Templates/T1.md",
     "Backend/ReadMe.md",
-    "Backend/Nodejs/1. MongoDB.md",
     "Images From Vault/Pasted image 20240915094207.png",
     "Images From Vault/Pasted image 20241221213424.png",
     "Images From Vault/Pasted image 20240915095334.png",
@@ -271,7 +274,6 @@
     "Backend/Untitled 1",
     "Backend/Untitled",
     "Backend/Nodejs/Nodejs/1. MongoDB.md",
-    "Templates/Untitled.md",
     "Data_Structure/array/Arrays.md",
     "Backend/Nodejs/Nodejs/2. Crud.md",
     "Images From Vault/Pasted image 20241220111303.png",
@@ -299,8 +301,6 @@
     "Obsidian_Notes/Images From Vault/Pasted image 20241215203611.png",
     "Obsidian_Notes/Data_Structure/SpaceAndTime/Time Complexity.md",
     "Obsidian_Notes/Data_Structure/SpaceAndTime/TC Questions.md",
-    "Obsidian_Notes/Data_Structure/SpaceAndTime/Space complexity.md",
-    "Obsidian_Notes/Data_Structure/SpaceAndTime/Logrithems.md",
     "website work/Untitled.canvas"
   ]
 }
