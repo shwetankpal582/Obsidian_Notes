@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bcfdcf3b1555818b",
+        "id": "00b9359586742e1b",
         "type": "tabs",
         "children": [
           {
-            "id": "536f4a08f0cf54f4",
+            "id": "9e0ba904c77518c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -69,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5be542208482016b",
@@ -233,17 +234,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "536f4a08f0cf54f4",
+  "active": "f992c7fdf913d30d",
   "lastOpenFiles": [
-    "Data_Structure/Recursion/Recursive Leap of faith.md",
+    "Backend/Nodejs/Nodejs/1. MongoDB.md",
+    "Templates/Untitled.md",
+    "Data_Structure/array/Arrays.md",
+    "Backend/Nodejs/Nodejs/2. Crud.md",
+    "Images From Vault/Pasted image 20241220111303.png",
     "Data_Structure/Recursion/Visualizing Recursion.md",
     "Data_Structure/Recursion/Recursion vs Iteration.md",
-    "Images From Vault/Pasted image 20241220111303.png",
-    "Data_Structure/README.md",
-    "Backend/Nodejs/Nodejs/2. Crud.md",
     "Backend/Nodejs/Nodejs/code.md",
-    "Backend/Nodejs/Nodejs/1. MongoDB.md",
-    "Data_Structure/array/Arrays.md",
     "Data_Structure/array/Operations in Array.md",
     "Backend/Nodejs/Nodejs",
     "Backend/Nodejs",
@@ -280,6 +280,7 @@
     "Obsidian_Notes/Data_Structure/Recursion/Recursive Leap of faith.md",
     "Obsidian_Notes/Data_Structure/Recursion/Recursion Intro.md",
     "Obsidian_Notes/Data_Structure/LinkedList/SinglyLinkedList.md",
+    "Obsidian_Notes/Data_Structure/LinkedList/LinkedList.md",
     "Obsidian_Notes/Data_Structure/SpaceAndTime",
     "website work/Untitled.canvas"
   ]
