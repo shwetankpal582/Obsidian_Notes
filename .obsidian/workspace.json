@@ -231,11 +231,11 @@
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-projects:Open projects": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9e0ba904c77518c4",
