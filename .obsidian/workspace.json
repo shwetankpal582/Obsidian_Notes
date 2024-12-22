@@ -11,10 +11,10 @@
             "id": "536f4a08f0cf54f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -235,14 +235,15 @@
   },
   "active": "536f4a08f0cf54f4",
   "lastOpenFiles": [
+    "Data_Structure/Recursion/Recursion vs Iteration.md",
+    "Data_Structure/Recursion/Recursion Intro.md",
+    "Backend/Nodejs/Nodejs/1. MongoDB.md",
+    "Backend/Nodejs/Nodejs/2. Crud.md",
     "Data_Structure/Recursion/Recursive Leap of faith.md",
     "Data_Structure/Recursion/Visualizing Recursion.md",
-    "Data_Structure/Recursion/Recursion vs Iteration.md",
     "Images From Vault/Pasted image 20241220111303.png",
     "Data_Structure/README.md",
-    "Backend/Nodejs/Nodejs/2. Crud.md",
     "Backend/Nodejs/Nodejs/code.md",
-    "Backend/Nodejs/Nodejs/1. MongoDB.md",
     "Data_Structure/array/Arrays.md",
     "Data_Structure/array/Operations in Array.md",
     "Backend/Nodejs/Nodejs",
@@ -279,7 +280,6 @@
     "Obsidian_Notes/Data_Structure/Sorting/Selection Sort.md",
     "Obsidian_Notes/Data_Structure/Recursion/Recursive Leap of faith.md",
     "Obsidian_Notes/Data_Structure/Recursion/Recursion Intro.md",
-    "Obsidian_Notes/Data_Structure/LinkedList/SinglyLinkedList.md",
     "Obsidian_Notes/Data_Structure/SpaceAndTime",
     "website work/Untitled.canvas"
   ]
