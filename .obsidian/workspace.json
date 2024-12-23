@@ -21,14 +21,10 @@
             "id": "162b8761df792556",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ],
@@ -96,7 +92,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +119,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of conflict-files-obsidian-git"
+              "title": "Graph view"
             }
           }
         ]
