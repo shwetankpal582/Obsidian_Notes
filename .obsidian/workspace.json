@@ -4,53 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "00b9359586742e1b",
+        "id": "bcfdcf3b1555818b",
         "type": "tabs",
         "children": [
           {
-            "id": "9e0ba904c77518c4",
+            "id": "536f4a08f0cf54f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Nodejs/1. MongoDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. MongoDB"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "7ac9499f4855a40f",
+            "id": "162b8761df792556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Nodejs/2. MongoDB.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. MongoDB"
-            }
-          },
-          {
-            "id": "146290e889766c89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Nodejs/1. Setting UP Nodejs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Setting UP Nodejs"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:CollisionResolutionTechniques",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend/Nodejs/1. Setting UP Nodejs.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +124,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1. Setting UP Nodejs"
+              "title": "Graph of conflict-files-obsidian-git"
             }
           }
         ]
@@ -267,39 +249,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "146290e889766c89",
+  "active": "162b8761df792556",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Untitled Kanban.md",
+    "Templates/T1.md",
     "Images From Vault/Pasted image 20241222120358.png",
     "Images From Vault/Pasted image 20241222120150.png",
     "Images From Vault/Pasted image 20241222120105.png",
-    "Backend/Nodejs/Untitled.md",
-    "Backend/Nodejs/1. Setting UP Nodejs.md",
     "Images From Vault/Pasted image 20241222120046.png",
-    "Backend/Nodejs/3. Crud.md",
-    "Backend/Nodejs/2. MongoDB.md",
     "Backend/ReadMe.md",
     "Backend/Notes/New.md",
-    "Data_Structure/SpaceAndTime/Logrithems.md",
-    "Data_Structure/SpaceAndTime/Complexity Analysis.md",
-    "Templates/T1.md",
-    "Images From Vault/Pasted image 20240915094207.png",
-    "Images From Vault/Pasted image 20241221213424.png",
-    "Images From Vault/Pasted image 20240915095334.png",
-    "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
-    "Data_Structure/README.md",
     "Backend/Notes",
-    "Backend/New folder",
-    "Backend/Notes.md",
-    "Untitled Kanban.md",
-    "Backend/Untitled 1",
-    "Backend/Untitled",
-    "Backend/Nodejs/Nodejs/1. MongoDB.md",
-    "Data_Structure/array/Arrays.md",
-    "Backend/Nodejs/Nodejs/2. Crud.md",
-    "Images From Vault/Pasted image 20241220111303.png",
-    "Data_Structure/Recursion/Visualizing Recursion.md",
+    "Backend/Nodejs/3. Crud.md",
+    "Backend/Nodejs/2. MongoDB.md",
+    "Backend/Nodejs/1. Setting UP Nodejs.md",
     "Data_Structure/Recursion/Recursion vs Iteration.md",
+    "Data_Structure/Recursion/Recursion Intro.md",
+    "Backend/Nodejs/Nodejs/1. MongoDB.md",
+    "Backend/Nodejs/Nodejs/2. Crud.md",
+    "Data_Structure/Recursion/Recursive Leap of faith.md",
+    "Data_Structure/Recursion/Visualizing Recursion.md",
+    "Images From Vault/Pasted image 20241220111303.png",
+    "Data_Structure/README.md",
     "Backend/Nodejs/Nodejs/code.md",
+    "Data_Structure/array/Arrays.md",
     "Data_Structure/array/Operations in Array.md",
     "Backend/Nodejs/Nodejs",
     "Backend/Nodejs",
@@ -311,10 +285,18 @@
     "Obsidian_Notes/Templates",
     "Obsidian_Notes/Operating System/Unit 3/Memory Management.md",
     "Obsidian_Notes/Operating System/Unit 1/Untitled.md",
+    "Obsidian_Notes/Operating System/Unit 1/Introduction to operating System.md",
     "Obsidian_Notes/Operating System/Unit 3",
+    "Obsidian_Notes/Operating System/Unit 1",
+    "Obsidian_Notes/Operating System",
     "Obsidian_Notes/Images From Vault/Pasted image 20241219112054.png",
     "Obsidian_Notes/Images From Vault/Pasted image 20241219105141.png",
     "Obsidian_Notes/Images From Vault/Pasted image 20241219105736.png",
+    "Obsidian_Notes/Images From Vault/Pasted image 20241215203655.png",
+    "Obsidian_Notes/Images From Vault/Pasted image 20241215202935.png",
+    "Obsidian_Notes/Images From Vault",
+    "Obsidian_Notes/Data_Structure/SpaceAndTime/Time Complexity.md",
+    "Obsidian_Notes/Data_Structure/SpaceAndTime/TC Questions.md",
     "website work/Untitled.canvas"
   ]
 }
