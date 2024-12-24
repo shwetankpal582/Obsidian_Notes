@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Nodejs/1. Setting UP Nodejs.md",
+                "file": "100xdev/Week 1/JS Foundation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Setting UP Nodejs"
+              "title": "JS Foundation"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend/Nodejs/1. Setting UP Nodejs.md",
+                "file": "100xdev/Week 1/JS Foundation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1. Setting UP Nodejs"
+              "title": "Graph of JS Foundation"
             }
           }
         ]
@@ -249,11 +249,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f33d41674945bd19",
+  "active": "162b8761df792556",
   "lastOpenFiles": [
+    "Backend/Nodejs/1. Setting UP Nodejs.md",
+    "100xdev/Week 1/JS Foundation.md",
     "100xdev/Untitled.md",
     "100xdev/Week 1",
-    "Backend/Nodejs/1. Setting UP Nodejs.md",
     "100xdev",
     "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
