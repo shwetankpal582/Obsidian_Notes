@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100xdev/Week 1/JS Foundation.md",
+                "file": "Backend/Nodejs/1. Setting UP Nodejs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JS Foundation"
+              "title": "1. Setting UP Nodejs"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100xdev/Week 1/JS Foundation.md",
+                "file": "Backend/Nodejs/1. Setting UP Nodejs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of JS Foundation"
+              "title": "Graph of 1. Setting UP Nodejs"
             }
           }
         ]
@@ -251,7 +251,13 @@
   },
   "active": "162b8761df792556",
   "lastOpenFiles": [
+    "Images From Vault/Pasted image 20241224124408.png",
+    "Images From Vault/Pasted image 20241222120046.png",
+    "Images From Vault/Pasted image 20241222120150.png",
+    "Images From Vault/Pasted image 20241222120105.png",
+    "Images From Vault/Pasted image 20241220111303.png",
     "Backend/Nodejs/1. Setting UP Nodejs.md",
+    "Images From Vault/Pasted image 20241222120358.png",
     "100xdev/Week 1/JS Foundation.md",
     "100xdev/Untitled.md",
     "100xdev/Week 1",
@@ -259,10 +265,6 @@
     "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
     "Templates/T1.md",
-    "Images From Vault/Pasted image 20241222120358.png",
-    "Images From Vault/Pasted image 20241222120150.png",
-    "Images From Vault/Pasted image 20241222120105.png",
-    "Images From Vault/Pasted image 20241222120046.png",
     "Backend/ReadMe.md",
     "Backend/Notes/New.md",
     "Backend/Notes",
@@ -274,7 +276,6 @@
     "Backend/Nodejs/Nodejs/2. Crud.md",
     "Data_Structure/Recursion/Recursive Leap of faith.md",
     "Data_Structure/Recursion/Visualizing Recursion.md",
-    "Images From Vault/Pasted image 20241220111303.png",
     "Data_Structure/README.md",
     "Backend/Nodejs/Nodejs/code.md",
     "Data_Structure/array/Arrays.md",
@@ -289,7 +290,6 @@
     "Obsidian_Notes/Templates",
     "Obsidian_Notes/Operating System/Unit 3/Memory Management.md",
     "Obsidian_Notes/Operating System/Unit 1/Untitled.md",
-    "Obsidian_Notes/Operating System/Unit 1/Introduction to operating System.md",
     "Obsidian_Notes/Operating System/Unit 3",
     "Obsidian_Notes/Operating System/Unit 1",
     "Obsidian_Notes/Images From Vault/Pasted image 20241219112054.png",
