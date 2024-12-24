@@ -249,8 +249,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "162b8761df792556",
+  "active": "f33d41674945bd19",
   "lastOpenFiles": [
+    "100xdev/Untitled.md",
+    "100xdev/Week 1",
+    "Backend/Nodejs/1. Setting UP Nodejs.md",
+    "100xdev",
     "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
     "Templates/T1.md",
@@ -263,7 +267,6 @@
     "Backend/Notes",
     "Backend/Nodejs/3. Crud.md",
     "Backend/Nodejs/2. MongoDB.md",
-    "Backend/Nodejs/1. Setting UP Nodejs.md",
     "Data_Structure/Recursion/Recursion vs Iteration.md",
     "Data_Structure/Recursion/Recursion Intro.md",
     "Backend/Nodejs/Nodejs/1. MongoDB.md",
@@ -288,15 +291,11 @@
     "Obsidian_Notes/Operating System/Unit 1/Introduction to operating System.md",
     "Obsidian_Notes/Operating System/Unit 3",
     "Obsidian_Notes/Operating System/Unit 1",
-    "Obsidian_Notes/Operating System",
     "Obsidian_Notes/Images From Vault/Pasted image 20241219112054.png",
     "Obsidian_Notes/Images From Vault/Pasted image 20241219105141.png",
     "Obsidian_Notes/Images From Vault/Pasted image 20241219105736.png",
     "Obsidian_Notes/Images From Vault/Pasted image 20241215203655.png",
     "Obsidian_Notes/Images From Vault/Pasted image 20241215202935.png",
-    "Obsidian_Notes/Images From Vault",
-    "Obsidian_Notes/Data_Structure/SpaceAndTime/Time Complexity.md",
-    "Obsidian_Notes/Data_Structure/SpaceAndTime/TC Questions.md",
     "website work/Untitled.canvas"
   ]
 }
