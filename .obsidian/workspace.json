@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Structure/Recursion/Base condition.md",
+                "file": "Data_Structure/Recursion/Recursive Leap of faith.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base condition"
+              "title": "Recursive Leap of faith"
             }
           }
         ]
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data_Structure/Recursion/Base condition.md",
+                "file": "Data_Structure/Recursion/Recursive Leap of faith.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +113,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Base condition"
+              "title": "Graph of Recursive Leap of faith"
             }
           }
         ]
@@ -238,14 +238,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "536f4a08f0cf54f4",
+  "active": "f33d41674945bd19",
   "lastOpenFiles": [
-    "Data_Structure/Recursion/Recursion Intro.md",
-    "Data_Structure/Recursion/Solve Question Of recursion.md",
+    "Backend/Docker",
+    "Data_Structure/Recursion/Recursion vs Iteration.md",
     "Data_Structure/Recursion/Recursion Tree.md",
     "Data_Structure/Recursion/Base condition.md",
+    "Data_Structure/Recursion/Recursion Intro.md",
+    "Data_Structure/Recursion/Solve Question Of recursion.md",
     "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md",
-    "Data_Structure/Recursion/Recursion vs Iteration.md",
     "Data_Structure/README.md",
     "Backend/ReadMe.md",
     "conflict-files-obsidian-git.md",
@@ -278,7 +279,6 @@
     "Obsidian_Notes/Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
     "Obsidian_Notes/Excalidraw",
     "Obsidian_Notes/Work To Do.md",
-    "Obsidian_Notes/Templates/Untitled.md",
     "Obsidian_Notes/Templates",
     "Obsidian_Notes/Operating System/Unit 3",
     "Obsidian_Notes/Operating System/Unit 1",
