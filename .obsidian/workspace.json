@@ -34,6 +34,18 @@
               "icon": "lucide-file",
               "title": "Base condition"
             }
+          },
+          {
+            "id": "75ee9c68a06f9f63",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-26 13.11.30.excalidraw"
+            }
           }
         ],
         "currentTab": 1
@@ -255,8 +267,9 @@
   },
   "active": "1a2850b1e1ac857e",
   "lastOpenFiles": [
-    "Data_Structure/Recursion/Recursion vs Iteration.md",
+    "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md",
     "Data_Structure/Recursion/Base condition.md",
+    "Data_Structure/Recursion/Recursion vs Iteration.md",
     "Data_Structure/README.md",
     "Backend/ReadMe.md",
     "conflict-files-obsidian-git.md",
@@ -294,7 +307,6 @@
     "Obsidian_Notes/Templates",
     "Obsidian_Notes/Operating System/Unit 3/Memory Management.md",
     "Obsidian_Notes/Operating System/Unit 1/Untitled.md",
-    "Obsidian_Notes/Operating System/Unit 1/Introduction to operating System.md",
     "Obsidian_Notes/Operating System/Unit 3",
     "Obsidian_Notes/Operating System/Unit 1",
     "Obsidian_Notes/Images From Vault/Pasted image 20241219112054.png",
