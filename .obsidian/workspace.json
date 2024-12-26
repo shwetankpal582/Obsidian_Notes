@@ -11,17 +11,28 @@
             "id": "536f4a08f0cf54f4",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "162b8761df792556",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Structure/Recursion/Base condition.md",
+                "file": "Backend/Nodejs/1. Setting UP Nodejs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base condition"
+              "title": "1. Setting UP Nodejs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data_Structure/Recursion/Base condition.md",
+                "file": "Backend/Nodejs/1. Setting UP Nodejs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +124,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Base condition"
+              "title": "Graph of 1. Setting UP Nodejs"
             }
           }
         ]
@@ -238,37 +249,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "536f4a08f0cf54f4",
+  "active": "162b8761df792556",
   "lastOpenFiles": [
-    "Data_Structure/Recursion/Recursion Intro.md",
+    "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md",
     "Data_Structure/Recursion/Solve Question Of recursion.md",
     "Data_Structure/Recursion/Recursion Tree.md",
     "Data_Structure/Recursion/Base condition.md",
-    "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md",
-    "Data_Structure/Recursion/Recursion vs Iteration.md",
-    "Data_Structure/README.md",
-    "Backend/ReadMe.md",
-    "conflict-files-obsidian-git.md",
-    "100xdev/Week 1/JS Foundation.md",
     "Images From Vault/Pasted image 20241224124408.png",
-    "100xdev/Week 1",
-    "100xdev",
-    "Backend/Nodejs/3. Crud.md",
-    "Backend/Nodejs/2. MongoDB.md",
-    "Backend/Nodejs/1. Setting UP Nodejs.md",
-    "Backend/Notes/New.md",
-    "Untitled Kanban.md",
-    "Templates/T1.md",
-    "Images From Vault/Pasted image 20241222120358.png",
+    "Images From Vault/Pasted image 20241222120046.png",
     "Images From Vault/Pasted image 20241222120150.png",
     "Images From Vault/Pasted image 20241222120105.png",
-    "Images From Vault/Pasted image 20241222120046.png",
+    "Images From Vault/Pasted image 20241220111303.png",
+    "Backend/Nodejs/1. Setting UP Nodejs.md",
+    "Images From Vault/Pasted image 20241222120358.png",
+    "100xdev/Week 1/JS Foundation.md",
+    "100xdev/Untitled.md",
+    "100xdev/Week 1",
+    "100xdev",
+    "conflict-files-obsidian-git.md",
+    "Untitled Kanban.md",
+    "Templates/T1.md",
+    "Backend/ReadMe.md",
+    "Backend/Notes/New.md",
     "Backend/Notes",
+    "Backend/Nodejs/3. Crud.md",
+    "Backend/Nodejs/2. MongoDB.md",
+    "Data_Structure/Recursion/Recursion vs Iteration.md",
+    "Data_Structure/Recursion/Recursion Intro.md",
     "Backend/Nodejs/Nodejs/1. MongoDB.md",
     "Backend/Nodejs/Nodejs/2. Crud.md",
     "Data_Structure/Recursion/Recursive Leap of faith.md",
     "Data_Structure/Recursion/Visualizing Recursion.md",
-    "Images From Vault/Pasted image 20241220111303.png",
+    "Data_Structure/README.md",
     "Backend/Nodejs/Nodejs/code.md",
     "Data_Structure/array/Arrays.md",
     "Data_Structure/array/Operations in Array.md",
@@ -278,7 +290,6 @@
     "Obsidian_Notes/Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
     "Obsidian_Notes/Excalidraw",
     "Obsidian_Notes/Work To Do.md",
-    "Obsidian_Notes/Templates/Untitled.md",
     "Obsidian_Notes/Templates",
     "Obsidian_Notes/Operating System/Unit 3",
     "Obsidian_Notes/Operating System/Unit 1",
