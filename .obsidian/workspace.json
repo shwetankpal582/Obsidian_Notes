@@ -13,56 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Structure/Recursion/Recursion Intro.md",
+                "file": "Data_Structure/Recursion/Base condition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursion Intro"
-            }
-          },
-          {
-            "id": "1a2850b1e1ac857e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data_Structure/Recursion/Recursion Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recursion Tree"
-            }
-          },
-          {
-            "id": "f011b601f92928b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data_Structure/Recursion/Recursion Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recursion Tree"
-            }
-          },
-          {
-            "id": "75ee9c68a06f9f63",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-26 13.11.30.excalidraw"
+              "title": "Base condition"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data_Structure/Recursion/Recursion Tree.md",
+                "file": "Data_Structure/Recursion/Base condition.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,7 +113,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Recursion Tree"
+              "title": "Graph of Base condition"
             }
           }
         ]
@@ -279,17 +238,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f011b601f92928b2",
+  "active": "536f4a08f0cf54f4",
   "lastOpenFiles": [
-    "Data_Structure/Recursion/Base condition.md",
+    "Data_Structure/Recursion/Recursion Intro.md",
+    "Data_Structure/Recursion/Solve Question Of recursion.md",
     "Data_Structure/Recursion/Recursion Tree.md",
+    "Data_Structure/Recursion/Base condition.md",
     "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md",
     "Data_Structure/Recursion/Recursion vs Iteration.md",
     "Data_Structure/README.md",
     "Backend/ReadMe.md",
     "conflict-files-obsidian-git.md",
     "100xdev/Week 1/JS Foundation.md",
-    "Data_Structure/Recursion/Recursion Intro.md",
     "Images From Vault/Pasted image 20241224124408.png",
     "100xdev/Week 1",
     "100xdev",
@@ -320,7 +280,6 @@
     "Obsidian_Notes/Work To Do.md",
     "Obsidian_Notes/Templates/Untitled.md",
     "Obsidian_Notes/Templates",
-    "Obsidian_Notes/Operating System/Unit 3/Memory Management.md",
     "Obsidian_Notes/Operating System/Unit 3",
     "Obsidian_Notes/Operating System/Unit 1",
     "Obsidian_Notes/Images From Vault/Pasted image 20241219112054.png",
