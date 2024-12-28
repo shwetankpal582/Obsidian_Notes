@@ -1,3 +1,3 @@
 ```dataview
-table date as Date, Topics as Topic from "100xdev/Week 1"
+table date as Date, Topic as Topic from "100xdev/Week 1"
 ```

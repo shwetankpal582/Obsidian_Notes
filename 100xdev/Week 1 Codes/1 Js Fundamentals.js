@@ -114,16 +114,16 @@
 
 // Example 2: This code explains the use of the const keyword to declare the JavaScript objects.
 
-const a = {
-    prop1: 10,
-    prop2: 9
-}
+// const a = {
+//     prop1: 10,
+//     prop2: 9
+// }
 
-// It is allowed
-a.prop1 = 3
+// // It is allowed
+// a.prop1 = 3
 
-// It is not allowed
-a = {
-    b: 10,
-    prop2: 9
-}
+// // It is not allowed
+// a = {
+//     b: 10,
+//     prop2: 9
+// }
