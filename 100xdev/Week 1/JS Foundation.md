@@ -231,3 +231,6 @@ a = {
 | It can be declared without initialization.                                                                      | It can be declared without initialization.                                                       | It cannot be declared without initialization.                                                        |
 | It can be accessed without initialization as its default value is “undefined”.                                  | It cannot be accessed without initialization otherwise it will give ‘referenceError’.            | It cannot be accessed without initialization, as it cannot be declared without initialization.       |
 | These variables are hoisted.                                                                                    | These variables are hoisted but stay in the temporal dead zone untill the initialization.        | These variables are hoisted but stays in the temporal dead zone until the initialization.            |
+
+## Data Types
+	strings, numbers and booleans
