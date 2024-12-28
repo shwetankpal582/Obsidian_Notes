@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Nodejs/1. Setting UP Nodejs.md",
+                "file": "Backend/ReadMe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Setting UP Nodejs"
+              "title": "ReadMe"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Backend/Nodejs/1. Setting UP Nodejs.md",
+                "file": "Backend/ReadMe.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1. Setting UP Nodejs"
+              "title": "Graph of ReadMe"
             }
           }
         ]
@@ -251,6 +251,12 @@
   },
   "active": "162b8761df792556",
   "lastOpenFiles": [
+    "Backend/Notes/New.md",
+    "Backend/ReadMe.md",
+    "Backend/Nodejs/1. Setting UP Nodejs.md",
+    "100xdev/Week 1/JS Foundation.md",
+    "100xdev/Week 1 Codes",
+    "100xdev/New folder",
     "Backend/Docker/Docker.md",
     "Backend/Docker",
     "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md",
@@ -262,17 +268,13 @@
     "Images From Vault/Pasted image 20241222120150.png",
     "Images From Vault/Pasted image 20241222120105.png",
     "Images From Vault/Pasted image 20241220111303.png",
-    "Backend/Nodejs/1. Setting UP Nodejs.md",
     "Images From Vault/Pasted image 20241222120358.png",
-    "100xdev/Week 1/JS Foundation.md",
     "100xdev/Untitled.md",
     "100xdev/Week 1",
     "100xdev",
     "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
     "Templates/T1.md",
-    "Backend/ReadMe.md",
-    "Backend/Notes/New.md",
     "Backend/Notes",
     "Backend/Nodejs/3. Crud.md",
     "Backend/Nodejs/2. MongoDB.md",
@@ -289,10 +291,7 @@
     "Backend/Nodejs/Nodejs",
     "Backend/Nodejs",
     "Backend",
-    "Obsidian_Notes/Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
     "Obsidian_Notes/Excalidraw",
-    "Obsidian_Notes/Templates",
-    "Obsidian_Notes/Operating System/Unit 3",
     "Obsidian_Notes/Images From Vault/Pasted image 20241219112054.png",
     "Obsidian_Notes/Images From Vault/Pasted image 20241219105141.png",
     "Obsidian_Notes/Images From Vault/Pasted image 20241219105736.png",
