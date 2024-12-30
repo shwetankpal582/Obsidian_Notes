@@ -21,10 +21,14 @@
             "id": "162b8761df792556",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "100xdev/Week 1/JS Foundation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JS Foundation"
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "100xdev/Week 1/JS Foundation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -121,7 +126,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of JS Foundation"
             }
           }
         ]
@@ -248,8 +253,8 @@
   },
   "active": "162b8761df792556",
   "lastOpenFiles": [
-    "100xdev/Week 1/JS Foundation.md",
     "100xdev/Notes/Readme.md",
+    "100xdev/Week 1/JS Foundation.md",
     "Images From Vault/Pasted image 20241228211513.png",
     "Images From Vault/Pasted image 20241228211401.png",
     "Images From Vault/Pasted image 20241228211229.png",
