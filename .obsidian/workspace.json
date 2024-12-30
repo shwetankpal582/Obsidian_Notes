@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100xdev/Week 1/riugh.md",
-                "mode": "source",
+                "file": "100xdev/Week 1/JS Foundation.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "riugh"
+              "title": "JS Foundation"
             }
           }
         ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100xdev/Week 1/riugh.md",
+                "file": "100xdev/Week 1/JS Foundation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -140,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of riugh"
+              "title": "Graph of JS Foundation"
             }
           }
         ]
@@ -267,8 +267,11 @@
   },
   "active": "14ea3df4b386a167",
   "lastOpenFiles": [
-    "100xdev/Week 1/JS Foundation.md",
+    "Data_Structure/HashTable/Collision Resolution Techniques.md",
+    "Data_Structure/array/Operations in Array.md",
+    "Data_Structure/array/Arrays.md",
     "100xdev/Week 1/riugh.md",
+    "100xdev/Week 1/JS Foundation.md",
     "100xdev/Notes/Readme.md",
     "Images From Vault/Pasted image 20241228211513.png",
     "Images From Vault/Pasted image 20241228211401.png",
@@ -309,9 +312,6 @@
     "Backend/Nodejs/Nodejs/2. Crud.md",
     "Data_Structure/Recursion/Recursive Leap of faith.md",
     "Data_Structure/Recursion/Visualizing Recursion.md",
-    "Data_Structure/README.md",
-    "Backend/Nodejs/Nodejs/code.md",
-    "Data_Structure/array/Arrays.md",
     "Backend/Nodejs/Nodejs",
     "website work/Untitled.canvas"
   ]
