@@ -16,37 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "162b8761df792556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100xdev/Week 1/JS Foundation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JS Foundation"
-            }
-          },
-          {
-            "id": "14ea3df4b386a167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100xdev/Week 1/JS Foundation.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JS Foundation"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +29,6 @@
       {
         "id": "ed638b37bf1d347c",
         "type": "tabs",
-        "dimension": 73.51421188630492,
         "children": [
           {
             "id": "f33d41674945bd19",
@@ -78,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:CollisionResolutionTechniques",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +74,6 @@
       {
         "id": "5be542208482016b",
         "type": "tabs",
-        "dimension": 26.485788113695083,
         "children": [
           {
             "id": "f3e0c335bd37d740",
@@ -112,7 +81,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100xdev/Week 1/JS Foundation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -140,7 +108,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of JS Foundation"
+              "title": "Graph view"
             }
           }
         ]
@@ -208,11 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data_Structure/LinkedList/Untitled.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -235,16 +201,26 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "0c7ccecec30c4c1b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 282.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -265,14 +241,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14ea3df4b386a167",
+  "active": "f33d41674945bd19",
   "lastOpenFiles": [
-    "Data_Structure/HashTable/Collision Resolution Techniques.md",
-    "Data_Structure/array/Operations in Array.md",
-    "Data_Structure/array/Arrays.md",
-    "100xdev/Week 1/riugh.md",
-    "100xdev/Week 1/JS Foundation.md",
-    "100xdev/Notes/Readme.md",
+    "Backend/Nodejs/1. Setting UP Nodejs.md",
     "Images From Vault/Pasted image 20241228211513.png",
     "Images From Vault/Pasted image 20241228211401.png",
     "Images From Vault/Pasted image 20241228211229.png",
@@ -280,29 +251,29 @@
     "Images From Vault/Pasted image 20241228210828.png",
     "Images From Vault/Pasted image 20241228210658.png",
     "Images From Vault/Pasted image 20241228210521.png",
-    "100xdev/Week 1 Codes/1 Js Fundamentals.js",
     "Images From Vault/Pasted image 20241228210022.png",
     "Images From Vault/Pasted image 20241228205650.png",
     "Images From Vault/Pasted image 20241228205457.png",
-    "100xdev/Week 1 Codes/1 Var.js",
-    "Backend/Nodejs/1. Setting UP Nodejs.md",
-    "Backend/ReadMe.md",
-    "100xdev/Notes",
-    "Backend/Notes/New.md",
+    "100xdev/Week 1/riugh.md",
+    "100xdev/Week 1 Codes/1 Js Fundamentals.js",
     "100xdev/Week 1 Codes",
-    "100xdev/New folder",
+    "100xdev/Notes/Readme.md",
+    "100xdev/Notes",
     "Backend/Docker/Docker.md",
     "Backend/Docker",
     "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md",
     "Data_Structure/Recursion/Solve Question Of recursion.md",
     "Data_Structure/Recursion/Recursion Tree.md",
     "Data_Structure/Recursion/Base condition.md",
+    "100xdev/Week 1/JS Foundation.md",
     "100xdev/Untitled.md",
     "100xdev/Week 1",
     "100xdev",
     "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
     "Templates/T1.md",
+    "Backend/ReadMe.md",
+    "Backend/Notes/New.md",
     "Backend/Notes",
     "Backend/Nodejs/3. Crud.md",
     "Backend/Nodejs/2. MongoDB.md",
@@ -312,7 +283,11 @@
     "Backend/Nodejs/Nodejs/2. Crud.md",
     "Data_Structure/Recursion/Recursive Leap of faith.md",
     "Data_Structure/Recursion/Visualizing Recursion.md",
+    "Data_Structure/README.md",
+    "Backend/Nodejs/Nodejs/code.md",
     "Backend/Nodejs/Nodejs",
+    "Backend/Nodejs",
+    "Backend",
     "website work/Untitled.canvas"
   ]
 }
