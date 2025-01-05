@@ -5,6 +5,7 @@ tags:
 Date: 2025 - 01 - 05
 Topic:
   - backtracking
+  - Backtracking Vs Recursion
 Subject: Data Structure
 Code:
 ---
@@ -23,3 +24,26 @@ Backtracking can be defined as a general algorithmic technique that considers se
 - **Backtrack:** Backtracking involves undoing previous decisions and returning to a prior decision point.
 - **Search Space:** The search space includes all possible combinations of candidates and choices.
 - **Optimal Solution:** In optimization problems, the optimal solution is the best possible solution.
+
+#### Example :
+As we know *backtracking algorithm explores each and every possible path in order to find a valid solution*, this exploration of path can be easily understood via given images:
+![backtracking_example|700](https://media.geeksforgeeks.org/wp-content/uploads/20231010124142/backtracking.png)
+As shown in the image, “**IS** represents the **Initial State** where the recursion call starts to find a valid solution.  
+**C :** it represents different **Checkpoints** for recursive calls
+
+**TN**: it represents the **Terminal Nodes** where no further recursive calls can be made, these nodes act as base case of recursion and we determine whether the current solution is valid or not at this state.
+
+At each Checkpoint, our program makes some decisions and move to other checkpoints until it reaches a terminal Node, after determining whether a solution is valid or not, the program starts to revert back to the checkpoints and try to explore other paths. For example in the above image **TN1…TN5** are the terminal node where the solution is not acceptable, while **TN6** is the state where we found a valid solution.
+
+The back arrows in the images shows backtracking in actions, where we revert the changes made by some checkpoint.
+
+## How Backtracking is different from Recursion?
+
+Recursion and Backtracking are related concepts in computer science and programming, but they are not the same thing. Let’s explore the key differences between them:
+
+| Recursion                                                                                                                                           | Backtracking                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Recursion does not always need backtracking                                                                                                         | Backtracking always uses recursion to solve problems                                                                                        |
+| Solving problems by breaking them into smaller, similar subproblems and solving them recursively.                                                   | Solving problems with multiple choices and exploring options systematically, backtracking when needed.                                      |
+| Controlled by function calls and call stack.                                                                                                        | Managed explicitly with loops and state.                                                                                                    |
+| **Applications of Recursion:** Tree and Graph Traversal, Towers of Hanoi, Divide and Conquer Algorithms, Merge Sort, Quick Sort, and Binary Search. | **Application of Backtracking:** N Queen problem, Rat in a Maze problem, Knight’s Tour Problem, Sudoku solver, and Graph coloring problems. |
