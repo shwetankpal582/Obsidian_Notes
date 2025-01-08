@@ -1,24 +1,30 @@
 {
   "main": {
-    "id": "0159a6c08c04d9d9",
+    "id": "3ac74ad862486aa7",
     "type": "split",
     "children": [
       {
-        "id": "c3b59b4d24900fbd",
+        "id": "01a750e3c4b139ed",
         "type": "tabs",
         "children": [
           {
-            "id": "e6879c9d4031f56e",
+            "id": "3a466b3fd11c50bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Data_Structure/README.md",
-                "mode": "preview",
-                "source": false
+                "file": "Work To Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-trello",
+              "title": "Work To Do"
             }
           }
         ]
@@ -27,15 +33,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "68af84ba2b52d6fa",
+    "id": "660f998ed780664b",
     "type": "split",
     "children": [
       {
-        "id": "ed638b37bf1d347c",
+        "id": "0c96208b7aa201d5",
         "type": "tabs",
         "children": [
           {
-            "id": "f33d41674945bd19",
+            "id": "5f06905e9089d04f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +53,7 @@
             }
           },
           {
-            "id": "f992c7fdf913d30d",
+            "id": "59d7567a5fb6d03e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +70,7 @@
             }
           },
           {
-            "id": "f03714a96f406307",
+            "id": "85aa5cfbbe6df4e5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,69 +80,25 @@
             }
           }
         ]
-      },
-      {
-        "id": "5be542208482016b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f3e0c335bd37d740",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Data_Structure/README.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6554983534946917,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of README"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 300
   },
   "right": {
-    "id": "850ddd17e04b66fb",
+    "id": "b39a15bdeb2828f1",
     "type": "split",
     "children": [
       {
-        "id": "a76541fbbdc5f020",
+        "id": "fe46f800c87aee57",
         "type": "tabs",
         "children": [
           {
-            "id": "fadfa4a69937b9c2",
+            "id": "bbfe9ce418667dc9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data_Structure/LinkedList/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,25 +108,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "1faa60619352a877",
+            "id": "b46eca4f2b388b29",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data_Structure/LinkedList/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "a1d5609bede0864e",
+            "id": "8f5c7a17f87775ae",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,17 +138,7 @@
             }
           },
           {
-            "id": "c1fc0af48cc89817",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "6165e82f30f09b3f",
+            "id": "ec0fdaa184ecb77f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -201,10 +152,20 @@
             }
           },
           {
-            "id": "567ec99de9f9e7db",
+            "id": "0f10cd74494f909e",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "23846a9247fc265b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {},
               "icon": "lucide-file",
               "title": "Plugin no longer active"
@@ -215,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,54 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6879c9d4031f56e",
+  "active": "3a466b3fd11c50bc",
   "lastOpenFiles": [
     "Data_Structure/README.md",
-    "Data_Structure/LinkedList/SinglyLinkedList.md",
-    "Data_Structure/LinkedList/LinkedList.md",
-    "Excalidraw/Drawing 2025-01-08 13.51.23.excalidraw.md",
-    "Data_Structure/LinkedList/Issues_linkedList.md",
-    "Templates/T1.md",
-    "Data_Structure/LinkedList/Pros and Cons of Linked List.md",
-    "Data_Structure/Recursion/Backtracking.md",
-    "Backend/Nodejs/1. Setting UP Nodejs.md",
-    "Images From Vault/Pasted image 20241228211513.png",
-    "Images From Vault/Pasted image 20241228211401.png",
-    "Images From Vault/Pasted image 20241228211229.png",
-    "Images From Vault/Pasted image 20241228210944.png",
-    "Images From Vault/Pasted image 20241228210828.png",
-    "Images From Vault/Pasted image 20241228210658.png",
-    "Images From Vault/Pasted image 20241228210521.png",
-    "Images From Vault/Pasted image 20241228210022.png",
-    "Images From Vault/Pasted image 20241228205650.png",
-    "Images From Vault/Pasted image 20241228205457.png",
-    "100xdev/Week 1/riugh.md",
-    "100xdev/Week 1 Codes/1 Js Fundamentals.js",
-    "100xdev/Week 1 Codes",
-    "100xdev/Notes/Readme.md",
-    "100xdev/Notes",
-    "Backend/Docker/Docker.md",
-    "Backend/Docker",
-    "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md",
-    "Data_Structure/Recursion/Solve Question Of recursion.md",
-    "Data_Structure/Recursion/Recursion Tree.md",
-    "Data_Structure/Recursion/Base condition.md",
-    "100xdev/Week 1/JS Foundation.md",
-    "100xdev/Untitled.md",
-    "100xdev/Week 1",
-    "100xdev",
-    "conflict-files-obsidian-git.md",
-    "Untitled Kanban.md",
-    "Backend/ReadMe.md",
-    "Backend/Notes/New.md",
-    "Backend/Notes",
-    "Backend/Nodejs/3. Crud.md",
-    "Backend/Nodejs/2. MongoDB.md",
-    "Data_Structure/Recursion/Recursion vs Iteration.md",
-    "Data_Structure/Recursion/Recursion Intro.md",
-    "Backend/Nodejs/Nodejs",
-    "Backend/Nodejs",
-    "Backend",
-    "website work/Untitled.canvas"
+    "Obsidian_Notes",
+    "100xdev/Week 1/riugh.md"
   ]
 }
