@@ -44,23 +44,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "5835dc2bd270a25f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +112,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,7 +139,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of conflict-files-obsidian-git"
+              "title": "Graph view"
             }
           }
         ]
@@ -279,7 +264,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5835dc2bd270a25f",
+  "active": "53922cf9018c6fff",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Backend/Nodejs/3. Crud.md",
