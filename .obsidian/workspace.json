@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "0e9f54be4f4442af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-08 13.51.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-08 13.51.23.excalidraw"
+            }
+          },
+          {
             "id": "f83c640bac739e20",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data_Structure/LinkedList/SinglyLinkedList.md",
+                "file": "Excalidraw/Drawing 2025-01-08 13.51.23.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -128,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of SinglyLinkedList"
+              "title": "Graph of Drawing 2025-01-08 13.51.23.excalidraw"
             }
           }
         ]
@@ -222,8 +234,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -248,15 +260,18 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-projects:Open projects": false,
       "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f83c640bac739e20",
+  "active": "0e9f54be4f4442af",
   "lastOpenFiles": [
+    "Data_Structure/LinkedList/LinkedList.md",
+    "Excalidraw/Drawing 2025-01-08 13.51.23.excalidraw.md",
+    "Data_Structure/LinkedList/SinglyLinkedList.md",
     "Data_Structure/LinkedList/Issues_linkedList.md",
     "Templates/T1.md",
     "Data_Structure/LinkedList/Pros and Cons of Linked List.md",
-    "Data_Structure/LinkedList/LinkedList.md",
     "Data_Structure/Recursion/Backtracking.md",
     "Backend/Nodejs/1. Setting UP Nodejs.md",
     "Images From Vault/Pasted image 20241228211513.png",
@@ -294,8 +309,6 @@
     "Data_Structure/Recursion/Recursion vs Iteration.md",
     "Data_Structure/Recursion/Recursion Intro.md",
     "Backend/Nodejs/Nodejs/1. MongoDB.md",
-    "Backend/Nodejs/Nodejs/2. Crud.md",
-    "Data_Structure/Recursion/Recursive Leap of faith.md",
     "Backend/Nodejs/Nodejs",
     "Backend/Nodejs",
     "Backend",
