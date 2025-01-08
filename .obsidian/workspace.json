@@ -44,9 +44,51 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "a152ae79e4ef73b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Nodejs/3. Crud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Crud"
+            }
+          },
+          {
+            "id": "312e64f7c894b899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Nodejs/3. Crud.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Crud"
+            }
+          },
+          {
+            "id": "ba11378cba33bac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -112,6 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +182,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of conflict-files-obsidian-git"
             }
           }
         ]
@@ -260,14 +303,17 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-projects:Open projects": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53922cf9018c6fff",
+  "active": "ba11378cba33bac8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Backend/Nodejs/3. Crud.md",
+    "conflict-files-obsidian-git.md",
+    "Data_Structure/Recursion/Backtracking.md",
+    "Data_Structure/LinkedList/Pros and Cons of Linked List.md",
+    "Data_Structure/LinkedList/Issues_linkedList.md",
     "100xdev/Week 1/Untitled.md",
     "100xdev/Week 1/riugh.md",
     "100xdev/Week 1/JS Foundation.md",
@@ -308,8 +354,6 @@
     "Backend/Nodejs/2. MongoDB.md",
     "Data_Structure/Recursion/Recursion vs Iteration.md",
     "Data_Structure/Recursion/Recursion Intro.md",
-    "Backend/Nodejs/Nodejs/1. MongoDB.md",
-    "Backend/Nodejs/Nodejs/2. Crud.md",
     "Backend/Nodejs/Nodejs",
     "website work/Untitled.canvas"
   ]
