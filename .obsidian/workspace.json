@@ -289,8 +289,8 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-projects:Open projects": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "312e64f7c894b899",
