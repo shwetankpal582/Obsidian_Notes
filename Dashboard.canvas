@@ -7,7 +7,7 @@
       "x": -1120,
       "y": 640,
       "width": 2560,
-      "height": 1040,
+      "height": 1320,
       "color": "5",
       "label": "Data Structure"
     },
@@ -97,10 +97,10 @@
     {
       "id": "c0fc53e57d6660a4",
       "type": "text",
-      "text": "",
+      "text": "# Sorting\n```dataview\ntable date as Date, Topics as Topic from \"Data_Structure/Sorting\"\n```",
       "styleAttributes": {},
       "x": 600,
-      "y": 1140,
+      "y": 1120,
       "width": 800,
       "height": 360
     }

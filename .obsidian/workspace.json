@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "180b6089d5710334",
+        "id": "bdcac52251beb2df",
         "type": "tabs",
         "children": [
           {
-            "id": "9ed019704edc79d6",
+            "id": "eb249fdb1f5b34b1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 450.52734977110134,
-                  "y": 1250.7172001920062,
-                  "zoom": -0.7350326568571279
-                }
+                "file": "Backend/Nodejs/1. Setting UP Nodejs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "1. Setting UP Nodejs"
             }
           }
         ]
@@ -88,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "Backend/Nodejs/1. Setting UP Nodejs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +113,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dashboard"
+              "title": "Graph of 1. Setting UP Nodejs"
             }
           }
         ]
@@ -250,10 +247,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9ed019704edc79d6",
+  "active": "eb249fdb1f5b34b1",
   "lastOpenFiles": [
-    "Data_Structure/README.md",
     "Dashboard.canvas",
+    "Data_Structure/Recursion/Base condition.md",
+    "Data_Structure/README.md",
     "Backend/ReadMe.md",
     "Data_Structure/Recursion/Backtracking.md",
     "Data_Structure/LinkedList/Pros and Cons of Linked List.md",
@@ -279,7 +277,6 @@
     "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md",
     "Data_Structure/Recursion/Solve Question Of recursion.md",
     "Data_Structure/Recursion/Recursion Tree.md",
-    "Data_Structure/Recursion/Base condition.md",
     "100xdev/Week 1/JS Foundation.md",
     "100xdev/Untitled.md",
     "100xdev/Week 1",
