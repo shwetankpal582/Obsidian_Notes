@@ -8,16 +8,8 @@ Before Learning Data Structure:
 - This will make your experience good. 😊✌️
 
 ---
-## Index
-### Array
-```dataview
-table date as Date, Topics as Topic from "Data_Structure/array"
-```
 
-### Hash Table
-```dataview
-table date as Date, Topics as Topic from "Data_Structure/HashTable"
-```
+
 ### Time Complexity
 ```dataview
 table date as Date, Topics as Topic from "Data_Structure/SpaceAndTime"

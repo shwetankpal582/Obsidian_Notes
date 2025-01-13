@@ -7,6 +7,7 @@
       "y": 640,
       "width": 2560,
       "height": 1040,
+      "color": "5",
       "label": "Data Structure"
     },
     {
@@ -44,12 +45,22 @@
     {
       "id": "35445ce7bd2c4311",
       "type": "text",
-      "text": "# Arrays",
+      "text": "# Arrays\n```dataview\ntable date as Date, Topics as Topic from \"Data_Structure/array\"\n```\n",
       "styleAttributes": {},
       "x": -1080,
       "y": 700,
-      "width": 260,
-      "height": 60
+      "width": 840,
+      "height": 380
+    },
+    {
+      "id": "40491331b2699f39",
+      "type": "text",
+      "text": "# Hash Table\n```dataview\ntable date as Date, Topics as Topic from \"Data_Structure/HashTable\"\n```",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 700,
+      "width": 760,
+      "height": 380
     }
   ],
   "edges": [],
