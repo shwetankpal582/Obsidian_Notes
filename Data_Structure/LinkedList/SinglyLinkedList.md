@@ -3,7 +3,7 @@ tags:
   - LinkedLIst
   - DataStructure
 Date: 2024 - 11 - 03
-Topic:
+Topics:
   - Singly linked list
 Subject: Data Structure
 ---

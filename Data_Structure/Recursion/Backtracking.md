@@ -3,7 +3,7 @@ tags:
   - backtracking
   - DataStructure
 Date: 2025 - 01 - 05
-Topic:
+Topics:
   - backtracking
   - Backtracking Vs Recursion
 Subject: Data Structure
