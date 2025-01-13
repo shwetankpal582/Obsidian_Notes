@@ -11,10 +11,17 @@
             "id": "536f4a08f0cf54f4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -116.25,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -108,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -238,11 +246,15 @@
       "obsidian-projects:Open projects": false,
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "f33d41674945bd19",
+  "active": "536f4a08f0cf54f4",
   "lastOpenFiles": [
+    "Backend/ReadMe.md",
+    "Untitled.canvas",
+    "Data_Structure/README.md",
     "Data_Structure/Recursion/Backtracking.md",
     "Data_Structure/LinkedList/Pros and Cons of Linked List.md",
     "Data_Structure/LinkedList/Issues_linkedList.md",
@@ -275,7 +287,6 @@
     "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
     "Templates/T1.md",
-    "Backend/ReadMe.md",
     "Backend/Notes/New.md",
     "Backend/Notes",
     "Backend/Nodejs/3. Crud.md",
@@ -284,8 +295,6 @@
     "Data_Structure/Recursion/Recursion Intro.md",
     "Backend/Nodejs/Nodejs/1. MongoDB.md",
     "Backend/Nodejs/Nodejs/2. Crud.md",
-    "Data_Structure/Recursion/Recursive Leap of faith.md",
-    "Data_Structure/Recursion/Visualizing Recursion.md",
     "Backend/Nodejs/Nodejs",
     "Backend/Nodejs",
     "Backend",
