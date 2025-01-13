@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "af3f171b400aa0ee",
+        "id": "180b6089d5710334",
         "type": "tabs",
         "children": [
           {
-            "id": "536f4a08f0cf54f4",
+            "id": "9ed019704edc79d6",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 303.4977066465186,
-                  "y": 300.3756214716626,
-                  "zoom": -1.424029399775049
+                  "x": 450.52734977110134,
+                  "y": 1250.7172001920062,
+                  "zoom": -0.7350326568571279
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -250,7 +250,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f33d41674945bd19",
+  "active": "9ed019704edc79d6",
   "lastOpenFiles": [
     "Data_Structure/README.md",
     "Dashboard.canvas",

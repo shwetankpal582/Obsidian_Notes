@@ -83,6 +83,26 @@
       "y": 1120,
       "width": 840,
       "height": 360
+    },
+    {
+      "id": "432ff76b3ccc5b6b",
+      "type": "text",
+      "text": "# Linked List\n```dataview\ntable date as Date, Topics as Topic from \"Data_Structure/LinkedList\"\n```",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 1120,
+      "width": 760,
+      "height": 360
+    },
+    {
+      "id": "c0fc53e57d6660a4",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 600,
+      "y": 1140,
+      "width": 800,
+      "height": 360
     }
   ],
   "edges": [],
