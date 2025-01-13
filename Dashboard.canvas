@@ -3,6 +3,7 @@
     {
       "id": "cda51e83619a1480",
       "type": "group",
+      "styleAttributes": {},
       "x": -1120,
       "y": 640,
       "width": 2560,
@@ -13,6 +14,7 @@
     {
       "id": "f2056ff349355c68",
       "type": "group",
+      "styleAttributes": {},
       "x": -1120,
       "y": -520,
       "width": 2560,
@@ -75,7 +77,7 @@
     {
       "id": "ef5485308d62ae45",
       "type": "text",
-      "text": "# Recursion\n",
+      "text": "# Recursion\n\n```dataview\ntable date as Date, Topics as Topic from \"Data_Structure/Recursion\"\n```\n",
       "styleAttributes": {},
       "x": -1080,
       "y": 1120,

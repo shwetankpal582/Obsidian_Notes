@@ -9,7 +9,3 @@ Before Learning Data Structure:
 
 ---
 
-
-### Time Complexity
-
-### Recursion
