@@ -11,12 +11,5 @@ Before Learning Data Structure:
 
 
 ### Time Complexity
-```dataview
-table date as Date, Topics as Topic from "Data_Structure/SpaceAndTime"
-```
 
 ### Recursion
-
-```dataview
-table date as Date, Topics as Topic from "Data_Structure/Recursion"
-```
