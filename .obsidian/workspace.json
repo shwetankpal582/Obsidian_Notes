@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 1497.2794117647059,
-                  "zoom": -1.7412025870526768
-                }
+                "file": "Data_Structure/DP/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -88,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "Data_Structure/DP/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -116,7 +113,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dashboard"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -253,6 +250,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.canvas",
+    "Data_Structure/DP/Untitled.md",
+    "Data_Structure/DP",
     "Data_Structure/LinkedList/Issues_linkedList.md",
     "Data_Structure/LinkedList/SinglyLinkedList.md",
     "Data_Structure/Recursion/Backtracking.md",
@@ -294,10 +293,8 @@
     "Backend/Nodejs/3. Crud.md",
     "Backend/Nodejs/2. MongoDB.md",
     "Data_Structure/Recursion/Recursion vs Iteration.md",
-    "Backend/Nodejs/Nodejs/1. MongoDB.md",
     "Backend/Nodejs/Nodejs",
     "Backend/Nodejs",
-    "Backend",
     "website work/Untitled.canvas"
   ]
 }

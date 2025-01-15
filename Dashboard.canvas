@@ -103,6 +103,16 @@
       "y": 1120,
       "width": 800,
       "height": 360
+    },
+    {
+      "id": "f8bd58b1d7fe5250",
+      "type": "text",
+      "text": "# Dynamic Programming\n```dataview\ntable date as Date, Topics as Topic from \"Data_Structure/DP\"\n```",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": 1520,
+      "width": 840,
+      "height": 340
     }
   ],
   "edges": [],
