@@ -1,24 +1,27 @@
 {
   "main": {
-    "id": "0159a6c08c04d9d9",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "62554759af09ecdb",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "3849fddb22bab166",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Data_Structure/LinkedList/Issues_linkedList.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 1497.2794117647059,
+                  "zoom": -1.7412025870526768
+                }
               },
-              "icon": "lucide-file",
-              "title": "Issues_linkedList"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -85,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data_Structure/LinkedList/Issues_linkedList.md",
+                "file": "Dashboard.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Issues_linkedList"
+              "title": "Graph of Dashboard"
             }
           }
         ]
@@ -247,9 +250,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3849fddb22bab166",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.canvas",
+    "Data_Structure/LinkedList/Issues_linkedList.md",
     "Data_Structure/LinkedList/SinglyLinkedList.md",
     "Data_Structure/Recursion/Backtracking.md",
     "Data_Structure/Recursion/Recursion Intro.md",
@@ -259,7 +263,6 @@
     "Data_Structure/README.md",
     "Backend/ReadMe.md",
     "Data_Structure/LinkedList/Pros and Cons of Linked List.md",
-    "Data_Structure/LinkedList/Issues_linkedList.md",
     "Images From Vault/Pasted image 20241228211513.png",
     "Images From Vault/Pasted image 20241228211401.png",
     "Images From Vault/Pasted image 20241228211229.png",
