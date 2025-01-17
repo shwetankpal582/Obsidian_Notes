@@ -5,6 +5,7 @@ tags:
 Date: 2025 - 01 - 15
 Topics:
   - Dynamic Programming intro
+  - Approach of DP
 Subject: Data Structure
 Code:
 ---
@@ -26,4 +27,15 @@ With the base values $F(0) = 0$, and $F(1) = 1$. To calculate the other numbers,
 > [!url] Understand from here
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/YkBch12jNE0?si=1-A3mPHVXT8KyLlL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# Approach of Dynamic Programming
+### Approach of Dynamic Programming:-
+The following are the steps that the dynamic programming follows:
+- It breaks down the complex problem into simpler subproblems.
+- It finds the optimal solution to these sub-problems.
+- It stores the results of subproblems (memoization). The process of storing the results of subproblems is known as memorization.
+- It reuses them so that same sub-problem is calculated more than once.
+- Finally, calculate the result of the complex problem.
+
+
+## Types of Approach of DP:-
+1. **Top-down Approach(memoization)**
+2. **Bottom-up Approach(Tabulation)**
