@@ -52,4 +52,7 @@ The following are the steps that the dynamic programming follows:
 | **Table entries**      | In the Tabulated version, starting from the first entry, all entries are filled one by one                                                                           | Unlike the Tabulated version, all entries of the lookup table are not necessarily filled in Memoized version. The table is filled on demand.                                  |
 
 
-#### Why writing the recursive s
+#### Why writing the recursive solution helps in coming up with bottom-up solution?
+**Understanding the subproblem:** 
+- Recursive solution inherently break down problem into smaller subproblem. By writing a recursive solution, you gain a clear understanding of what these subproblems are, which is essential for any dynamic programming approach.
+**Transition formula**
