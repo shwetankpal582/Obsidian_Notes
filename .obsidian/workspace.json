@@ -13,15 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Structure/DP/Untitled.md",
+                "file": "Data_Structure/DP/Tabulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Tabulation"
+            }
+          },
+          {
+            "id": "6aa084fd729645a1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -160.32393156187212,
+                  "y": 1568.1808240083135,
+                  "zoom": -0.49120258705267666
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data_Structure/DP/Untitled.md",
+                "file": "Dashboard.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -113,7 +131,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Dashboard"
             }
           }
         ]
@@ -226,10 +244,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Data_Structure/DP/Untitled.md"
+                "file": "Dashboard.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Untitled"
+              "title": "File properties for Dashboard"
             }
           }
         ],
@@ -259,10 +277,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6aa084fd729645a1",
   "lastOpenFiles": [
+    "Data_Structure/DP/Tabulation.md",
+    "Data_Structure/DP/Memoization.md",
     "Data_Structure/DP/Intro.md",
-    "Data_Structure/DP/Untitled.md",
     "Dashboard.canvas",
     "Data_Structure/DP",
     "Data_Structure/LinkedList/Issues_linkedList.md",
@@ -305,7 +324,6 @@
     "Backend/Notes",
     "Backend/Nodejs/3. Crud.md",
     "Backend/Nodejs/2. MongoDB.md",
-    "Data_Structure/Recursion/Recursion vs Iteration.md",
     "Backend/Nodejs/Nodejs",
     "Backend/Nodejs",
     "website work/Untitled.canvas"
