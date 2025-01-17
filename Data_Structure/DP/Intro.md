@@ -58,4 +58,4 @@ The following are the steps that the dynamic programming follows:
 **Transition formula:**
 - The recursion's base cases and the way recursive calls are made help in identifying the transition formula. This formula is crucial for filling out the DP table in the bottom-up approach.
 **Base condition:**
-- The base case in recursion translate to the initial conditions in your DP table. These are cruci
+- The base case in recursion translate to the initial conditions in your DP table. These are crucial for the correctness of the bottom-up solution.
