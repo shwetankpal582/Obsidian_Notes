@@ -219,9 +219,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "3bc3f7eefd2f8b02",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Data_Structure/DP/Intro.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Intro"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",

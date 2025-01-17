@@ -6,6 +6,7 @@ Date: 2025 - 01 - 15
 Topics:
   - Dynamic Programming intro
   - Approach of DP
+  - Types of Approach
 Subject: Data Structure
 Code:
 ---
@@ -39,3 +40,13 @@ The following are the steps that the dynamic programming follows:
 ## Types of Approach of DP:-
 1. **Top-down Approach(memoization)**
 2. **Bottom-up Approach(Tabulation)**
+
+### Small difference between Memoization and Tabulation:-
+
+|                           | Tabulation                                                                                                                                                           | Memoization                                                                                                                                                                   |     |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| **State**                 | State transition relation is difficult to think                                                                                                                      | State Transition relation is easy to think                                                                                                                                    |     |
+| **Code**                  | Code gets complicated when a lot of   <br>conditions are required                                                                                                    | Code is easy to write by modifying the underlying recursive solution.                                                                                                         |     |
+| **Speed**                 | Fast, as we do not have recursion call overhead.                                                                                                                     | Slow due to a lot of recursive calls.                                                                                                                                         |     |
+| **Subproblem solving**    | If all subproblems must be solved at least once, a bottom-up dynamic programming algorithm definitely outperforms a top-down memoized algorithm by a constant factor | If some subproblems in the subproblem space need not be solved at all, the memoized solution has the advantage of solving only those subproblems that are definitely required |     |
+| ****Table entries******** | In the Tabulated version, starting from the first entry, all entries are filled one by one                                                                           | Unlike the Tabulated version, all entries of the lookup table are not necessarily filled in Memoized version. The table is filled on demand.                                  | -   |
