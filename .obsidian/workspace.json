@@ -11,17 +11,20 @@
             "id": "bb70004ee779b58e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -92.99999630451217,
-                  "zoom": 0
+                "file": "Work To Do.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-trello",
+              "title": "Work To Do"
             }
           }
         ]
@@ -157,8 +160,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "66d488b8379d178e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,13 +200,14 @@
   },
   "active": "bb70004ee779b58e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Untitled Kanban.md",
+    "Dashboard.canvas",
     "Untitled.canvas",
+    "conflict-files-obsidian-git.md",
     "Data_Structure/DP/Tabulation.md",
     "Data_Structure/DP/Memoization.md",
     "Data_Structure/DP/Intro.md",
     "Data_Structure/DP",
-    "Dashboard.canvas",
     "Data_Structure/README.md"
   ]
 }
