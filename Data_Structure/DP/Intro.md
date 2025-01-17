@@ -22,3 +22,8 @@ With the base values $F(0) = 0$, and $F(1) = 1$. To calculate the other numbers,
 
 ### Then how do we calculate f(20)
 ![fibonaci_series|500](https://images.javatpoint.com/tutorial/daa/images/dynamic-programming.png)
+
+> [!url] Understand from here
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/YkBch12jNE0?si=1-A3mPHVXT8KyLlL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Approach of Dynamic Programming
