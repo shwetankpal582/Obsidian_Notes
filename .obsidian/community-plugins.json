@@ -11,5 +11,13 @@
   "obsidian-list-callouts",
   "obsidian-pandoc",
   "obsidian-projects",
+<<<<<<< HEAD
   "obsidian-git"
+=======
+  "callout-manager",
+  "obsidian-pandoc",
+  "obsidian-git",
+  "advanced-canvas",
+  "homepage"
+>>>>>>> origin/main
 ]
