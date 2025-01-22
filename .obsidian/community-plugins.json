@@ -1,5 +1,10 @@
 [
   "obsidian-excalidraw-plugin",
   "dbfolder",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-kanban",
+  "obsidian-projects",
+  "obsidian-pandoc",
+  "obsidian-charts",
+  "table-editor-obsidian"
 ]
