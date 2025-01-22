@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "436cdb0a58a7ec36",
+    "id": "e88409d81363fdcf",
     "type": "split",
     "children": [
       {
-        "id": "46c281e8d3c2dcf0",
+        "id": "916c69c25fa73bef",
         "type": "tabs",
         "children": [
           {
-            "id": "cc978346582d3040",
+            "id": "03e7e2d115f4a2d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Nodejs/Notes/3. Crud.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3. Crud"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fcf626de7710d108",
+    "id": "414f89bcc013c09a",
     "type": "split",
     "children": [
       {
-        "id": "f50c38db30cd1f88",
+        "id": "8424f3079cc4f5d5",
         "type": "tabs",
         "children": [
           {
-            "id": "e2c39698c76dbdc8",
+            "id": "f3fdc56ec561e676",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "05e6c27bf1be4e9a",
+            "id": "2af05d39f9c8a3ae",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "20d4238a5f9578de",
+            "id": "d717d556bbc50eb1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,15 +76,15 @@
     "width": 300
   },
   "right": {
-    "id": "961abd7cc7f024ba",
+    "id": "2fd9429fcd1482ff",
     "type": "split",
     "children": [
       {
-        "id": "0997156717389e1b",
+        "id": "1d089f9cc2152969",
         "type": "tabs",
         "children": [
           {
-            "id": "b19deef6e09b88cf",
+            "id": "8feec3d3da008211",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +102,7 @@
             }
           },
           {
-            "id": "7ea883ec18cf43a9",
+            "id": "62db14c53293efac",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -119,7 +115,7 @@
             }
           },
           {
-            "id": "a0d8c8414bb9d12f",
+            "id": "27afa45a630b1fb6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,21 +128,7 @@
             }
           },
           {
-            "id": "d515bf26ce4832c5",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "da2948d3514b995f",
+            "id": "8159e89ba9b4d009",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -154,19 +136,8 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "66d488b8379d178e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,34 +151,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "cc978346582d3040",
-  "lastOpenFiles": [
-    "Backend/Nodejs/Notes/1. Setting UP Nodejs.md",
-    "Backend/Nodejs/3. Crud.md",
-    "Backend/Nodejs/Notes/3. Crud.md",
-    "Backend/Nodejs/Notes/2. MongoDB.md",
-    "Backend/Nodejs/Code",
-    "Backend/Nodejs/New folder",
-    "Backend/Nodejs/Notes",
-    "Backend/Notes/New.md",
-    "Untitled Kanban.md",
-    "Dashboard.canvas",
-    "Untitled.canvas",
-    "conflict-files-obsidian-git.md",
-    "Data_Structure/DP/Tabulation.md",
-    "Data_Structure/DP/Memoization.md",
-    "Data_Structure/DP/Intro.md",
-    "Data_Structure/DP",
-    "Data_Structure/README.md"
-  ]
+  "active": "03e7e2d115f4a2d4",
+  "lastOpenFiles": []
 }
