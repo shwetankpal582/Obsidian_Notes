@@ -1,8 +1,8 @@
 // console.log("this");
 
-function add(a,b){
-    return a+b;
-}
+// function add(a,b){
+//     return a+b;
+// }
 
-var result = add(2,5);
-console.log(result);
+// var result = add(2,5);
+// console.log(result);

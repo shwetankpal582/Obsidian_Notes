@@ -192,6 +192,7 @@
   },
   "active": "cc978346582d3040",
   "lastOpenFiles": [
+    "Backend/Nodejs/Code/app.js",
     "Backend/Nodejs/Code/node_modules/pstree.remy/tests/fixtures/out2",
     "Backend/Nodejs/Code/node_modules/pstree.remy/tests/fixtures/out1",
     "Backend/Nodejs/Code/node_modules/pstree.remy/tests/fixtures/index.js",
@@ -202,7 +203,6 @@
     "Backend/Nodejs/Code/node_modules/semver/bin",
     "Backend/Nodejs/Code/node_modules/chokidar/types/index.d.ts",
     "Backend/Nodejs/Code/node_modules/chokidar/types",
-    "Backend/Nodejs/Code/node_modules/semver/internal/debug.js",
     "Backend/Nodejs/Code/node_modules/semver/README.md",
     "Backend/Nodejs/Code/node_modules/nodemon/node_modules/ms/readme.md",
     "Backend/Nodejs/Code/node_modules/nodemon/node_modules/ms/license.md",
