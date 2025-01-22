@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Nodejs/Notes/3. Crud.md",
+                "file": "Backend/Nodejs/Notes/1. Setting UP Nodejs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Crud"
+              "title": "1. Setting UP Nodejs"
             }
           }
         ]
@@ -192,9 +192,9 @@
   },
   "active": "cc978346582d3040",
   "lastOpenFiles": [
+    "Backend/Nodejs/Notes/3. Crud.md",
     "Backend/Nodejs/Notes/1. Setting UP Nodejs.md",
     "Backend/Nodejs/3. Crud.md",
-    "Backend/Nodejs/Notes/3. Crud.md",
     "Backend/Nodejs/Notes/2. MongoDB.md",
     "Backend/Nodejs/Code",
     "Backend/Nodejs/New folder",
