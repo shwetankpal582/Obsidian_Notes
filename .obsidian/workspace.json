@@ -11,14 +11,10 @@
             "id": "cc978346582d3040",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Nodejs/3. Crud.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3. Crud"
+              "title": "New tab"
             }
           }
         ]
@@ -192,6 +188,13 @@
   },
   "active": "cc978346582d3040",
   "lastOpenFiles": [
+    "Backend/Nodejs/3. Crud.md",
+    "Backend/Nodejs/Notes/1. Setting UP Nodejs.md",
+    "Backend/Nodejs/Notes/3. Crud.md",
+    "Backend/Nodejs/Notes/2. MongoDB.md",
+    "Backend/Nodejs/Code",
+    "Backend/Nodejs/New folder",
+    "Backend/Nodejs/Notes",
     "Backend/Notes/New.md",
     "Untitled Kanban.md",
     "Dashboard.canvas",
