@@ -4,27 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "376ce5015b49a062",
+        "id": "46c281e8d3c2dcf0",
         "type": "tabs",
         "children": [
           {
-            "id": "bb70004ee779b58e",
+            "id": "cc978346582d3040",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Work To Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Work To Do"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -167,8 +157,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -188,17 +178,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "callout-manager:Insert Callout": false,
-      "dbfolder:Create a new database table": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false,
+      "dbfolder:Create a new database table": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb70004ee779b58e",
+  "active": "cc978346582d3040",
   "lastOpenFiles": [
     "Untitled Kanban.md",
     "Dashboard.canvas",

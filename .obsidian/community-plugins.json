@@ -1,23 +1,5 @@
 [
-  "advanced-canvas",
-  "table-editor-obsidian",
-  "callout-manager",
-  "obsidian-charts",
-  "dataview",
-  "dbfolder",
   "obsidian-excalidraw-plugin",
-  "homepage",
-  "obsidian-kanban",
-  "obsidian-list-callouts",
-  "obsidian-pandoc",
-  "obsidian-projects",
-<<<<<<< HEAD
+  "dbfolder",
   "obsidian-git"
-=======
-  "callout-manager",
-  "obsidian-pandoc",
-  "obsidian-git",
-  "advanced-canvas",
-  "homepage"
->>>>>>> origin/main
 ]
