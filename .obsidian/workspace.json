@@ -11,20 +11,14 @@
             "id": "bb70004ee779b58e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Work To Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Data_Structure/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Work To Do"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -167,8 +161,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -190,11 +184,6 @@
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "callout-manager:Insert Callout": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false,
       "obsidian-git:Open Git source control": false
     }
   },

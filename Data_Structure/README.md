@@ -23,10 +23,3 @@ Before Learning Data Structure:
 ```dataviewjs
 
 ```
-=======
->>>>>>> parent of 5c80af2 (new chart)
----
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
