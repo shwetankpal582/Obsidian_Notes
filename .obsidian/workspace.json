@@ -32,9 +32,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -2.652076696579693
+                  "x": 242.80622452415784,
+                  "y": 986.3479735003066,
+                  "zoom": -1.6520767363161215
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "961abd7cc7f024ba",
