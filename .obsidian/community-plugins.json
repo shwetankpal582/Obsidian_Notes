@@ -1,15 +1,10 @@
 [
-  "dataview",
-  "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
   "dbfolder",
-  "obsidian-kanban",
-  "obsidian-list-callouts",
-  "obsidian-charts",
-  "obsidian-projects",
-  "callout-manager",
-  "obsidian-pandoc",
   "obsidian-git",
-  "advanced-canvas",
-  "homepage"
+  "obsidian-kanban",
+  "obsidian-projects",
+  "obsidian-pandoc",
+  "obsidian-charts",
+  "table-editor-obsidian"
 ]

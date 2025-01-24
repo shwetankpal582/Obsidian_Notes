@@ -955,6 +955,8 @@ var SETTINGS = {
     label: "Auto resize node",
     description: "Automatically resize the height of a node to fit the content.",
     children: {
+<<<<<<< HEAD
+=======
       autoResizeNodeMaxHeight: {
         label: "Max height",
         description: "The maximum height of the node when auto resizing (-1 for unlimited).",
@@ -964,6 +966,7 @@ var SETTINGS = {
           return Math.max(-1, (_a = parseInt(value)) != null ? _a : -1);
         }
       },
+>>>>>>> origin/main
       autoResizeNodeSnapToGrid: {
         label: "Snap to grid",
         description: "When enabled, the height of the node will snap to the grid.",
@@ -1095,7 +1098,10 @@ var DEFAULT_SETTINGS_VALUES = {
   disableZoom: false,
   disablePan: false,
   autoResizeNodeFeatureEnabled: false,
+<<<<<<< HEAD
+=======
   autoResizeNodeMaxHeight: -1,
+>>>>>>> origin/main
   autoResizeNodeSnapToGrid: true,
   collapsibleGroupsFeatureEnabled: true,
   collapsedGroupPreviewOnDrag: true,
@@ -1755,7 +1761,11 @@ var PresentationCanvasExtension = class extends CanvasExtension {
     super(...arguments);
     this.savedViewport = null;
     this.isPresentationMode = false;
+<<<<<<< HEAD
+    this.visitedNodes = [];
+=======
     this.visitedNodeIds = [];
+>>>>>>> origin/main
     this.fullscreenModalObserver = null;
   }
   isEnabled() {
@@ -1975,6 +1985,14 @@ var PresentationCanvasExtension = class extends CanvasExtension {
       else
         canvas.zoomToBbox(currentNodeBBoxEnlarged);
       await sleep(animationDurationMs / 2);
+<<<<<<< HEAD
+      const nextNodeBBoxEnlarged = BBoxHelper.scaleBBox(toNode.getBBox(), animationIntensity);
+      if (useCustomZoomFunction)
+        CanvasHelper.zoomToBBox(canvas, nextNodeBBoxEnlarged);
+      else
+        canvas.zoomToBbox(nextNodeBBoxEnlarged);
+      await sleep(animationDurationMs / 2);
+=======
       if (fromNode.getData().id !== toNode.getData().id) {
         const nextNodeBBoxEnlarged = BBoxHelper.scaleBBox(toNode.getBBox(), animationIntensity + 0.1);
         if (useCustomZoomFunction)
@@ -1983,6 +2001,7 @@ var PresentationCanvasExtension = class extends CanvasExtension {
           canvas.zoomToBbox(nextNodeBBoxEnlarged);
         await sleep(animationDurationMs / 2);
       }
+>>>>>>> origin/main
     }
     let nodeBBox = toNode.getBBox();
     if (useCustomZoomFunction)
@@ -1991,6 +2010,15 @@ var PresentationCanvasExtension = class extends CanvasExtension {
       canvas.zoomToBbox(nodeBBox);
   }
   async startPresentation(canvas, tryContinue = false) {
+<<<<<<< HEAD
+    if (!tryContinue || this.visitedNodes.length === 0) {
+      const startNode = this.getStartNode(canvas);
+      if (!startNode) {
+        new import_obsidian5.Notice("No start node found. Please mark a node as a start node trough the popup menu.");
+        return;
+      }
+      this.visitedNodes = [startNode];
+=======
     if (!tryContinue || this.visitedNodeIds.length === 0) {
       const startNode2 = this.getStartNode(canvas);
       if (!startNode2) {
@@ -1998,6 +2026,7 @@ var PresentationCanvasExtension = class extends CanvasExtension {
         return;
       }
       this.visitedNodeIds = [startNode2.getData().id];
+>>>>>>> origin/main
     }
     this.savedViewport = {
       x: canvas.tx,
@@ -2042,6 +2071,9 @@ var PresentationCanvasExtension = class extends CanvasExtension {
     };
     this.isPresentationMode = true;
     await sleep(500);
+<<<<<<< HEAD
+    this.animateNodeTransition(canvas, void 0, this.visitedNodes.last());
+=======
     const startNodeId = this.visitedNodeIds.first();
     if (!startNodeId)
       return;
@@ -2049,6 +2081,7 @@ var PresentationCanvasExtension = class extends CanvasExtension {
     if (!startNode)
       return;
     this.animateNodeTransition(canvas, void 0, startNode);
+>>>>>>> origin/main
   }
   endPresentation(canvas) {
     var _a;
@@ -2066,6 +2099,12 @@ var PresentationCanvasExtension = class extends CanvasExtension {
   }
   nextNode(canvas) {
     var _a;
+<<<<<<< HEAD
+    const fromNode = this.visitedNodes.last();
+    if (!fromNode)
+      return;
+    const outgoingEdges = canvas.getEdgesForNode(fromNode).filter((edge) => edge.from.node === fromNode);
+=======
     const fromNodeId = this.visitedNodeIds.last();
     if (!fromNodeId)
       return;
@@ -2073,6 +2112,7 @@ var PresentationCanvasExtension = class extends CanvasExtension {
     if (!fromNode)
       return;
     const outgoingEdges = canvas.getEdgesForNode(fromNode).filter((edge) => edge.from.node.getData().id === fromNodeId);
+>>>>>>> origin/main
     let toNode = (_a = outgoingEdges.first()) == null ? void 0 : _a.to.node;
     if (outgoingEdges.length > 1) {
       const sortedEdges = outgoingEdges.sort((a, b) => {
@@ -2082,18 +2122,35 @@ var PresentationCanvasExtension = class extends CanvasExtension {
           return -1;
         return a.label.localeCompare(b.label);
       });
+<<<<<<< HEAD
+      const traversedEdgesCount = this.visitedNodes.filter((visitedNode) => visitedNode == fromNode).length - 1;
+=======
       const traversedEdgesCount = this.visitedNodeIds.filter((visitedNodeId) => visitedNodeId === fromNodeId).length - 1;
+>>>>>>> origin/main
       const nextEdge = sortedEdges[traversedEdgesCount];
       toNode = nextEdge.to.node;
     }
     if (toNode) {
+<<<<<<< HEAD
+      this.visitedNodes.push(toNode);
+=======
       this.visitedNodeIds.push(toNode.getData().id);
+>>>>>>> origin/main
       this.animateNodeTransition(canvas, fromNode, toNode);
     } else {
       this.animateNodeTransition(canvas, fromNode, fromNode);
     }
   }
   previousNode(canvas) {
+<<<<<<< HEAD
+    const fromNode = this.visitedNodes.pop();
+    if (!fromNode)
+      return;
+    let toNode = this.visitedNodes.last();
+    if (!toNode) {
+      toNode = fromNode;
+      this.visitedNodes.push(fromNode);
+=======
     const fromNodeId = this.visitedNodeIds.pop();
     if (!fromNodeId)
       return;
@@ -2109,6 +2166,7 @@ var PresentationCanvasExtension = class extends CanvasExtension {
     if (!toNode) {
       toNode = fromNode;
       this.visitedNodeIds.push(fromNodeId);
+>>>>>>> origin/main
     }
     this.animateNodeTransition(canvas, fromNode, toNode);
   }
@@ -2505,7 +2563,11 @@ var CommandsCanvasExtension = class extends CanvasExtension {
 // src/canvas-extensions/auto-resize-node-canvas-extension.ts
 var AutoResizeNodeCanvasExtension = class extends CanvasExtension {
   isEnabled() {
+<<<<<<< HEAD
+    return this.plugin.settings.getSetting("autoResizeNodeFeatureEnabled");
+=======
     return "autoResizeNodeFeatureEnabled";
+>>>>>>> origin/main
   }
   init() {
     this.plugin.registerEvent(this.plugin.app.workspace.on(
@@ -2526,6 +2588,32 @@ var AutoResizeNodeCanvasExtension = class extends CanvasExtension {
       return;
     const selectedNodes = [...canvas.selection].filter((element) => {
       const elementData = element.getData();
+<<<<<<< HEAD
+      return elementData.type === "text";
+    });
+    if (selectedNodes.length === 0)
+      return;
+    const hasLockedHeight = selectedNodes.some((node) => node.getData().lockedHeight);
+    CanvasHelper.addPopupMenuOption(
+      canvas,
+      CanvasHelper.createPopupMenuOption({
+        id: "lock-height",
+        label: "Toggle locked height",
+        icon: hasLockedHeight ? "ruler" : "pencil-ruler",
+        callback: () => this.setLockedHeight(canvas, selectedNodes, hasLockedHeight)
+      })
+    );
+  }
+  setLockedHeight(canvas, nodes, lockedHeight) {
+    const newLockedHeight = lockedHeight ? void 0 : true;
+    nodes.forEach((node) => node.setData({
+      ...node.getData(),
+      lockedHeight: newLockedHeight
+    }));
+    this.onPopupMenuCreated(canvas);
+  }
+  async onNodeEditingStateChanged(_canvas, node, editing) {
+=======
       return elementData.type === "text" || elementData.type === "file" && elementData.file.endsWith(".md");
     });
     if (selectedNodes.length === 0)
@@ -2556,11 +2644,18 @@ var AutoResizeNodeCanvasExtension = class extends CanvasExtension {
   async onNodeEditingStateChanged(_canvas, node, editing) {
     if (!this.canBeResized(node))
       return;
+>>>>>>> origin/main
     await sleep(10);
     if (editing) {
       this.onNodeTextContentChanged(_canvas, node, node.child.editMode.cm.dom);
       return;
     }
+<<<<<<< HEAD
+    const nodeData = node.getData();
+    if (nodeData.lockedHeight)
+      return;
+=======
+>>>>>>> origin/main
     const renderedMarkdownContainer = node.nodeEl.querySelector(".markdown-preview-view.markdown-rendered");
     if (!renderedMarkdownContainer)
       return;
@@ -2570,7 +2665,12 @@ var AutoResizeNodeCanvasExtension = class extends CanvasExtension {
     this.setNodeHeight(node, newHeight);
   }
   async onNodeTextContentChanged(_canvas, node, dom) {
+<<<<<<< HEAD
+    const nodeData = node.getData();
+    if (nodeData.lockedHeight)
+=======
     if (!this.canBeResized(node))
+>>>>>>> origin/main
       return;
     const cmScroller = dom.querySelector(".cm-scroller");
     if (!cmScroller)
@@ -2583,9 +2683,12 @@ var AutoResizeNodeCanvasExtension = class extends CanvasExtension {
   setNodeHeight(node, height) {
     if (height === 0)
       return;
+<<<<<<< HEAD
+=======
     const maxHeight = this.plugin.settings.getSetting("autoResizeNodeMaxHeight");
     if (maxHeight != -1 && height > maxHeight)
       height = maxHeight;
+>>>>>>> origin/main
     const nodeData = node.getData();
     height = Math.max(height, node.canvas.config.minContainerDimension);
     if (this.plugin.settings.getSetting("autoResizeNodeSnapToGrid"))
