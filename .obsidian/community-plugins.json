@@ -1,5 +1,16 @@
 [
+<<<<<<< HEAD
   "table-editor-obsidian",
   "callout-manager",
   "obsidian-git"
+=======
+  "obsidian-excalidraw-plugin",
+  "dbfolder",
+  "obsidian-git",
+  "obsidian-kanban",
+  "obsidian-projects",
+  "obsidian-pandoc",
+  "obsidian-charts",
+  "table-editor-obsidian"
+>>>>>>> origin/main
 ]

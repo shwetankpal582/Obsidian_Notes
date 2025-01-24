@@ -18,8 +18,3 @@ Before Learning Data Structure:
 >     + "\n Genereate response similar to example JSON : " + JSON.stringify(*actual sample json*);
 
 - This will make your experience good. 😊✌️
-
-<<<<<<< HEAD
-```dataviewjs
-
-```
