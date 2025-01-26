@@ -8,4 +8,16 @@ mongoose.connect(mongoURL, {
     useUnifiedTopology: true 
 });
 
-// Defining 
+// Defining event listeners for DB conneciton
+
+db.on('connected', () => {
+    console.log('Connected to MongoDB server')
+})
+
+db.on('error', () => {
+    console.log('Error in MongoDB server')
+})
+
+db.on('connected', () => {
+    console.log('Connected to MongoDB server')
+})
