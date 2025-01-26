@@ -8,6 +8,9 @@ mongoose.connect(mongoURL, {
     useUnifiedTopology: true 
 });
 
+// Define Connection
+const db = mongoose.connection();
+
 // Defining event listeners for DB conneciton
 
 db.on('connected', () => {
@@ -21,3 +24,6 @@ db.on('error', () => {
 db.on('disconnected', () => {
     console.log('disconnected to MongoDB server')
 })
+
+
+module.exports = db;
