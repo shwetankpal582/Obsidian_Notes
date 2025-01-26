@@ -15,9 +15,9 @@ db.on('connected', () => {
 })
 
 db.on('error', () => {
-    console.log('Error in MongoDB server')
+    console.log('Connection Error')
 })
 
-db.on('connected', () => {
-    console.log('Connected to MongoDB server')
+db.on('disconnected', () => {
+    console.log('disconnected to MongoDB server')
 })
