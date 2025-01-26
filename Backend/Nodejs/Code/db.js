@@ -8,3 +8,4 @@ mongoose.connect(mongoURL, {
     useUnifiedTopology: true 
 });
 
+// Defining 
