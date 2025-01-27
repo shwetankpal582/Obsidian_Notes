@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Backend/Nodejs/Notes/3. Crud.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3. Crud"
+              "title": "New tab"
             }
           }
         ]
@@ -194,12 +190,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Backend/Nodejs/Notes/3. Crud.md",
     "Dashboard.canvas",
     "conflict-files-obsidian-git.md",
     "Backend/ReadMe.md",
     "Images From Vault/Pasted image 20250127101008.png",
     "Images From Vault/Pasted image 20250127100936.png",
-    "Backend/Nodejs/Notes/3. Crud.md",
     "Data_Structure/index.canvas",
     "Data_Structure/README.md",
     "Untitled Kanban.md",
