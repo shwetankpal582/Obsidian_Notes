@@ -8,7 +8,7 @@ const mongoURL = 'mongodb://localhost:27017/hotel';
 // });
 
 // Define Connection
-const db = mongoose.connection();
+const db = mongoose.connection;
 
 // Defining event listeners for DB conneciton
 
