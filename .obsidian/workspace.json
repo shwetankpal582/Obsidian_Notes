@@ -1,48 +1,30 @@
 {
   "main": {
-    "id": "436cdb0a58a7ec36",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "376ce5015b49a062",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "bb70004ee779b58e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Data_Structure/index.canvas",
-                "viewState": {
-                  "x": 960,
-                  "y": 340,
-                  "zoom": -2.78135971352466
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "index"
-            }
-          },
-          {
-            "id": "a8a1f8593bad729f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 242.80622452415784,
-                  "y": 986.3479735003066,
-                  "zoom": -1.6520767363161215
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8044491908821931
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Dashboard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,13 +196,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8a1f8593bad729f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.canvas",
     "Data_Structure/index.canvas",
     "Data_Structure/README.md",
     "conflict-files-obsidian-git.md",
     "Untitled Kanban.md",
-    "Dashboard.canvas",
     "Untitled.canvas",
     "Data_Structure/DP/Tabulation.md",
     "Data_Structure/DP/Memoization.md",
