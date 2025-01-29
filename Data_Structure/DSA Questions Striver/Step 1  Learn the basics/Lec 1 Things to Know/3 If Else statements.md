@@ -18,3 +18,24 @@ Given two integers, **n** and **m**. The task is to check the relation betwee
 
 **Constraints:**  
 -109 <= m , n <= 109
+
+```
+# cpp
+
+
+class Solution {
+  public:
+    string compareNM(int n, int m){
+        // code here
+        if(n<m){
+            return "lesser";
+        }
+        else if(n==m){
+            return "equal";
+        }
+        else if(n>m){
+            return "greater";
+        }
+    }
+};
+```
