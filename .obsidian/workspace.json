@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Data_Structure/DSA Questions Striver/Lec 1 Things.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
+                }
               },
-              "icon": "lucide-file",
-              "title": "Lec 1 Things"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -194,9 +197,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Data_Structure/DSA Questions Striver/Lec 1 Things to know.md",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics",
     "Dashboard.canvas",
-    "Data_Structure/DSA Questions Striver/Lec 1 Things.md",
     "Data_Structure/DSA Questions Striver",
     "Backend/Nodejs/Notes/3. Crud.md",
     "conflict-files-obsidian-git.md",
