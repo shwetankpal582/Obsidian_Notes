@@ -11,20 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Work To Do.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Work To Do"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -200,6 +197,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Work To Do.md",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 1 Things to Know/2 Data Types.md",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 1 Things to Know/1 Input Output.md",
     "Dashboard.canvas",
