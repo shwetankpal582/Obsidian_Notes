@@ -22,5 +22,20 @@ Else if the choice is 2, calculate the area of the rectangle with the given leng
 1 ≤ R, L, B ≤ 100
 
 ```
-
+#include <math.h>
+class Solution {
+  public:
+    double switchCase(int choice, vector<double> &arr) {
+        double pi = 2*acos(0.0);
+        switch (choice) {
+            case 1:
+                return (pi*arr[0]*arr[0]);
+                break;
+            case 2:
+                return (arr[0]*arr[1]);
+                break;
+        }
+     return 0;   
+    }
+};
 ```
