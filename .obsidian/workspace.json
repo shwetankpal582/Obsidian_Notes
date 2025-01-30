@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern-1 Rectangular Star Pattern.md",
+                "file": "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 1 Rectangular Star Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pattern-1 Rectangular Star Pattern"
+              "title": "Pattern 1 Rectangular Star Pattern"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern-2 Right-Angled Triangle Pattern.md",
+                "file": "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pattern-2 Right-Angled Triangle Pattern"
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +207,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "88b8c6412329069b",
+  "active": "7f1bb29314306f85",
   "lastOpenFiles": [
-    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern-2 Right-Angled Triangle Pattern.md",
-    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern-1 Rectangular Star Pattern.md",
+    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 3 Right-Angled Number Pyramid.md",
+    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Untitled.md",
+    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 1 Rectangular Star Pattern.md",
+    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 2 Right-Angled Triangle Pattern.md",
+    "Images From Vault/Pasted image 20250131000705.png",
     "Images From Vault/Pasted image 20250131000423.png",
     "Images From Vault/Pasted image 20250131000352.png",
     "Images From Vault/Pasted image 20250130235913.png",
@@ -246,7 +250,6 @@
     "React/Apple Landing Page/node_modules/autoprefixer/README.md",
     "React/Apple Landing Page/node_modules/arraybuffer.prototype.slice/README.md",
     "React/Apple Landing Page/node_modules/arraybuffer.prototype.slice/CHANGELOG.md",
-    "React/Apple Landing Page/node_modules/array.prototype.tosorted/README.md",
     "Images From Vault/Pasted image 20250127101008.png",
     "Images From Vault/Pasted image 20250127100936.png",
     "Data_Structure/index.canvas",
