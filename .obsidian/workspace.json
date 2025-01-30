@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 1 Things to Know/8 Functions (Pass by Reference and Value).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "8 Functions (Pass by Reference and Value)"
             }
           }
         ]
@@ -197,6 +194,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.canvas",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 1 Things to Know/8 Functions (Pass by Reference and Value).md",
     "React/Apple Landing Page/node_modules/caniuse-lite/data/features/zstd.js",
     "React/Apple Landing Page/node_modules/caniuse-lite/data/features/xml-serializer.js",
@@ -232,8 +230,6 @@
     "React/Apple Landing Page/node_modules/array.prototype.tosorted/README.md",
     "React/Apple Landing Page/node_modules/array.prototype.tosorted/CHANGELOG.md",
     "React/Apple Landing Page/node_modules/array.prototype.flatmap/README.md",
-    "React/Apple Landing Page/node_modules/array.prototype.flatmap/CHANGELOG.md",
-    "Dashboard.canvas",
     "Images From Vault/Pasted image 20250127101008.png",
     "Images From Vault/Pasted image 20250127100936.png",
     "Data_Structure/index.canvas",
