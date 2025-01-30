@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Pattern-1 Rectangular Star Pattern"
             }
+          },
+          {
+            "id": "88b8c6412329069b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern-2 Right-Angled Triangle Pattern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pattern-2 Right-Angled Triangle Pattern"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,11 +207,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "88b8c6412329069b",
   "lastOpenFiles": [
+    "Images From Vault/Pasted image 20250131000352.png",
+    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern-1 Rectangular Star Pattern.md",
+    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern-2 Right-Angled Triangle Pattern.md",
     "Images From Vault/Pasted image 20250130235913.png",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 1 Things to Know/8 Functions (Pass by Reference and Value).md",
-    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern-1 Rectangular Star Pattern.md",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/star.exe",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/star.cpp",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern",
@@ -230,7 +247,6 @@
     "React/Apple Landing Page/node_modules/arraybuffer.prototype.slice/README.md",
     "React/Apple Landing Page/node_modules/arraybuffer.prototype.slice/CHANGELOG.md",
     "React/Apple Landing Page/node_modules/array.prototype.tosorted/README.md",
-    "React/Apple Landing Page/node_modules/array.prototype.tosorted/CHANGELOG.md",
     "Images From Vault/Pasted image 20250127101008.png",
     "Images From Vault/Pasted image 20250127100936.png",
     "Data_Structure/index.canvas",
