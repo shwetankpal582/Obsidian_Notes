@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a4b970e67f3f4158",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f023bc68b9b649cb",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -196,7 +189,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f023bc68b9b649cb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.canvas",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 5 Inverted Right Pyramid.md",
