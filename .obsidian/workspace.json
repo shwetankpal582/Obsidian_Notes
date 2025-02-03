@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -2.0500406824995956
-                }
+                "file": "Backend/Nodejs/Notes/3. Crud.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "3. Crud"
             }
           }
         ]
@@ -165,8 +162,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -190,10 +187,10 @@
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-projects:Open projects": false,
+      "homepage:Open homepage": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "dbfolder:Create a new database table": false,
-      "homepage:Open homepage": false
+      "dbfolder:Create a new database table": false
     }
   },
   "active": "e7a7b303c61786dc",
