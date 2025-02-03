@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Nodejs/Notes/3. Crud.md",
+                "file": "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 1 Things to Know/5 What are arrays, strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Crud"
+              "title": "5 What are arrays, strings"
             }
           }
         ]
@@ -195,6 +195,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 1 Things to Know/6 For loops.md",
+    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 1 Things to Know/5 What are arrays, strings.md",
+    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 1 Things to Know/2 Data Types.md",
+    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 1 Things to Know/3 If Else statements.md",
+    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 1 Things to Know/1 Input Output.md",
+    "Backend/Nodejs/Notes/3. Crud.md",
     "Dashboard.canvas",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 5 Inverted Right Pyramid.md",
     "Images From Vault/Pasted image 20250131000949.png",
@@ -232,11 +238,6 @@
     "React/Apple Landing Page/node_modules/binary-extensions/readme.md",
     "React/Apple Landing Page/node_modules/bidi-js/README.md",
     "React/Apple Landing Page/node_modules/base64-js/README.md",
-    "React/Apple Landing Page/node_modules/balanced-match/README.md",
-    "React/Apple Landing Page/node_modules/balanced-match/LICENSE.md",
-    "React/Apple Landing Page/node_modules/available-typed-arrays/README.md",
-    "React/Apple Landing Page/node_modules/available-typed-arrays/CHANGELOG.md",
-    "React/Apple Landing Page/node_modules/autoprefixer/README.md",
     "Images From Vault/Pasted image 20250127101008.png",
     "Images From Vault/Pasted image 20250127100936.png",
     "Data_Structure/index.canvas",
