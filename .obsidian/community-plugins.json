@@ -1,10 +1,14 @@
 [
-  "obsidian-excalidraw-plugin",
-  "dbfolder",
+  "table-editor-obsidian",
+  "callout-manager",
   "obsidian-git",
-  "obsidian-kanban",
   "obsidian-projects",
   "obsidian-pandoc",
-  "obsidian-charts",
-  "table-editor-obsidian"
+  "obsidian-list-callouts",
+  "homepage",
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
+  "dbfolder",
+  "dataview",
+  "obsidian-charts"
 ]
