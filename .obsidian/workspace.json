@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "312df52e1fcdce7e",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c83d07e857602ecc",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -196,11 +196,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e2c39698c76dbdc8",
   "lastOpenFiles": [
+    "Dashboard.canvas",
     "Data_Structure/DSA Questions Striver/Random/a.cpp",
     "Data_Structure/DSA Questions Striver/Random/Main.md",
-    "Dashboard.canvas",
     "Data_Structure/DSA Questions Striver/Pair.md",
     "conflict-files-obsidian-git.md",
     "Data_Structure/pr.cpp",
@@ -225,7 +225,6 @@
     "React/Apple Landing Page/node_modules/caniuse-lite/data/features/zstd.js",
     "React/Apple Landing Page/node_modules/caniuse-lite/data/features/xml-serializer.js",
     "React/Apple Landing Page/node_modules/caniuse-lite/data/features/xhtmlsmil.js",
-    "React/Apple Landing Page/node_modules/caniuse-lite/data/features/xhtml.js",
     "React/Apple Landing Page/node_modules/caniuse-lite/README.md",
     "React/Apple Landing Page/node_modules/camera-controls/readme.md",
     "React/Apple Landing Page/node_modules/camelcase-css/README.md",
