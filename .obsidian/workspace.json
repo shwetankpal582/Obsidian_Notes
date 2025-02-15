@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -2.0500406824995956
-                }
+                "file": "Data_Structure/DSA Questions Striver/Pair.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Pair"
             }
           }
         ]
@@ -196,9 +193,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e2c39698c76dbdc8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Data_Structure/DSA Questions Striver/Untitled.md",
     "Dashboard.canvas",
+    "Data_Structure/DSA Questions Striver/Pair.md",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 5 Inverted Right Pyramid.md",
     "Images From Vault/Pasted image 20250131000949.png",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 4 Right-Angled Number Pyramid - II.md",
@@ -239,7 +238,6 @@
     "React/Apple Landing Page/node_modules/balanced-match/LICENSE.md",
     "React/Apple Landing Page/node_modules/available-typed-arrays/README.md",
     "React/Apple Landing Page/node_modules/available-typed-arrays/CHANGELOG.md",
-    "React/Apple Landing Page/node_modules/autoprefixer/README.md",
     "Images From Vault/Pasted image 20250127101008.png",
     "Images From Vault/Pasted image 20250127100936.png",
     "Data_Structure/index.canvas",
