@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "312df52e1fcdce7e",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "c83d07e857602ecc",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": 160,
                   "y": 720,
-                  "zoom": -1.8861509229637765
+                  "zoom": -2.0500406824995956
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -196,7 +196,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e2c39698c76dbdc8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.canvas",
     "Data_Structure/DSA Questions Striver/Random/a.cpp",
