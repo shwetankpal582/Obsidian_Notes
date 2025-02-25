@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Structure/DP/Tabulation.md",
+                "file": "Templates/T1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tabulation"
+              "title": "T1"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "RayLib/RayLib.md",
+    "Data_Structure/DP/Tabulation.md",
+    "RayLib",
     "Data_Structure/DP/Memoization.md",
     "Data_Structure/DSA Questions Striver/Random/New Things.md",
     "Dashboard.canvas",
@@ -224,7 +227,6 @@
     "Data_Structure/DSA Questions Striver/Step 2",
     "React/Apple Landing Page/node_modules/caniuse-lite/data/features/zstd.js",
     "React/Apple Landing Page/node_modules/caniuse-lite/data/features/xml-serializer.js",
-    "React/Apple Landing Page/node_modules/caniuse-lite/data/features/xhtmlsmil.js",
     "React/Apple Landing Page/node_modules/caniuse-lite/README.md",
     "React/Apple Landing Page/node_modules/camera-controls/readme.md",
     "React/Apple Landing Page/node_modules/camelcase-css/README.md",
@@ -237,8 +239,6 @@
     "React/Apple Landing Page/node_modules/braces/README.md",
     "React/Apple Landing Page/node_modules/brace-expansion/README.md",
     "React/Apple Landing Page/node_modules/binary-extensions/readme.md",
-    "React/Apple Landing Page/node_modules/bidi-js/README.md",
-    "React/Apple Landing Page/node_modules/base64-js/README.md",
     "Images From Vault/Pasted image 20250127101008.png",
     "Images From Vault/Pasted image 20250127100936.png",
     "Data_Structure/index.canvas",
