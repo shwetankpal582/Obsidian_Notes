@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -2.2210268793122183
-                }
+                "file": "React/Introduction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Introduction"
             }
           }
         ]
@@ -198,8 +195,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Data_Structure/LinkedList/Issues_linkedList.md",
     "Dashboard.canvas",
+    "React/Introduction.md",
+    "Data_Structure/LinkedList/Issues_linkedList.md",
     "RayLib/RayLib.md",
     "Templates/T1.md",
     "Data_Structure/DP/Tabulation.md",
@@ -239,8 +237,6 @@
     "React/Apple Landing Page/node_modules/call-bind/README.md",
     "React/Apple Landing Page/node_modules/buffer/README.md",
     "React/Apple Landing Page/node_modules/buffer/AUTHORS.md",
-    "React/Apple Landing Page/node_modules/browserslist/README.md",
-    "React/Apple Landing Page/node_modules/braces/README.md",
     "Images From Vault/Pasted image 20250127101008.png",
     "Images From Vault/Pasted image 20250127100936.png",
     "Data_Structure/index.canvas",
