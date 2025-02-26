@@ -13,4 +13,7 @@ Code:
 ---
 ## Array to Linked List
 Given an array of integer **arr.** Your task is to construct the linked list from arr & return the **head** of the linked list.
-**Example: **
+**Example:**
+
+> [!information] Example
+> **INPUT**
