@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Structure/DSA Questions Striver/LinkedLIst/Intro to LinkedList.md",
+                "file": "Data_Structure/DSA Questions Striver/LinkedLIst/Inserting a node in LInkedList.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro to LinkedList"
+              "title": "Inserting a node in LInkedList"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Dashboard.canvas",
     "Data_Structure/DSA Questions Striver/LinkedLIst/Intro to LinkedList.md",
+    "Data_Structure/DSA Questions Striver/LinkedLIst/Inserting a node in LInkedList.md",
+    "Dashboard.canvas",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 1 Rectangular Star Pattern.md",
     "Data_Structure/DSA Questions Striver/LinkedLIst",
     "React/Introduction.md",
