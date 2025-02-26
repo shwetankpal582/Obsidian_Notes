@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -2.2548604743880936
-                }
+                "file": "Data_Structure/DSA Questions Striver/LinkedLIst/Intro to LinkedList.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Intro to LinkedList"
             }
           }
         ]
@@ -81,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "961abd7cc7f024ba",
@@ -198,9 +196,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Data_Structure/DSA Questions Striver/LinkedLIst/Untitled.md",
-    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 1 Rectangular Star Pattern.md",
     "Dashboard.canvas",
+    "Data_Structure/DSA Questions Striver/LinkedLIst/Intro to LinkedList.md",
+    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 1 Rectangular Star Pattern.md",
     "Data_Structure/DSA Questions Striver/LinkedLIst",
     "React/Introduction.md",
     "Data_Structure/LinkedList/Issues_linkedList.md",
@@ -240,7 +238,6 @@
     "React/Apple Landing Page/node_modules/call-bind/CHANGELOG.md",
     "React/Apple Landing Page/node_modules/call-bind/README.md",
     "React/Apple Landing Page/node_modules/buffer/README.md",
-    "React/Apple Landing Page/node_modules/buffer/AUTHORS.md",
     "Images From Vault/Pasted image 20250127101008.png",
     "Images From Vault/Pasted image 20250127100936.png",
     "Data_Structure/index.canvas",
