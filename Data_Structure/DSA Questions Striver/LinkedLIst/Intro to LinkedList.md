@@ -18,5 +18,27 @@ Given an array of integer **arr.** Your task is to construct the linked list 
 > [!information] Example
 > **INPUT**: arr = [1,2,3,4,5]
 > **OUTPUT**: LinkedList: $1-> 2-> 3-> 4-> 5$
-> **Explanation**
+> **Explanation:** Linked list for the given array will be
 > ![linkedlist](https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/712529/Web/Other/blobid1_1722579459.png)
+
+```cpp
+class Solution {
+  public:
+    Node* constructLL(vector<int>& arr) {
+        // code here
+        Node *header = new Node();
+	    Node *temp = header;
+	
+	    if (arr.size() < 1)
+	      return header;
+	    for (int a : arr) {
+	      Node *newNode = new Node(a);
+	      temp->next = newNode;
+	      temp = newNode;
+	    }
+	
+	    return header->next;
+
+    }
+};
+```
