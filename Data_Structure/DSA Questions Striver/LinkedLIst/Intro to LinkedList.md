@@ -42,3 +42,11 @@ class Solution {
     }
 };
 ```
+
+
+**Expected Time Complexity:** O(n)  
+**Expected Auxiliary Space:** O(n)
+
+**Constraints:**  
+$1 <= arr.size() <= 106$ 
+$1 <= arr[i] <= 10$
