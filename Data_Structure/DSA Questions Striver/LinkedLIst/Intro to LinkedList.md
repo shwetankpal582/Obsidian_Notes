@@ -16,4 +16,5 @@ Given an array of integer **arr.** Your task is to construct the linked list 
 **Example:**
 
 > [!information] Example
-> **INPUT**
+> **INPUT**: arr = [1,2,3,4,5]
+> **OUTPUT**: LinkedList: $1-> 2-> 3-> 4-> 5$
