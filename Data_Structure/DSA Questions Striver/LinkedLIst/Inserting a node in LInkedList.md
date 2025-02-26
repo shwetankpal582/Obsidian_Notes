@@ -1,9 +1,11 @@
 ---
 tags:
   - DataStructure
+  - GFG
+  - LinkedLIst
 Date: 2025 - 02 - 26
-Topic: 
-Subject: 
-Topics: 
+Topic:
+  - Inserting a node in linkedlist
+Subject: Data Structure
 Code:
 ---
