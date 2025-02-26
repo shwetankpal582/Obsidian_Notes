@@ -18,9 +18,32 @@ Given the head of a Singly Linked List and a value x, insert that value x at the
 > **Explanation:**
 > ![](https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700525/Web/Other/blobid2_1720519928.png)
 > We can see that 6 is inserted at the end of the linkedlist
+
 **Expected Time Complexity:** O(n)  
 **Expected Auxiliary Space:** O(1)
 
 **Constraints:**  
-0 <= number of nodes <= 105  
+$0 <= number Of Nodes <= 105$  
 1 <= node->data , x <= 103
+
+```cpp
+class Solution {
+  public:
+    Node *insertAtEnd(Node *head, int x) {
+        // Code here
+            Node *newNode = new Node(x);
+
+    if (head == nullptr) // If list is empty, return new node as head
+      return newNode;
+
+    Node *temp = head;
+    while (temp->next != nullptr) {
+      temp = temp->next;
+    }
+    temp->next = newNode;
+
+    return head;
+
+    }
+};
+```
