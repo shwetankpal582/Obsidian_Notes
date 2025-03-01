@@ -14,4 +14,11 @@ Code:
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/ogjf7ORKfd8?si=HK5FA2tmqJPPIYVH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-![]()
+![](https://miro.medium.com/max/3520/1*p6pvuQ0mKCYkx3ZXv6ufgw.jpeg)
+
+### I works in simple three steps as above image: 
+1. **Divide:** Divide the list or array recursively into two halves until it can no more be divided.
+2. **Conquer:** Each subarray is sorted individually using the merge sort algorithm.
+3. **Merge:** The sorted subarrays are merged back together in sorted order. The process continues until all elements from both `subarrays` have been merged.
+
+### Let's see the emaple
