@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.5082409240060415
-                }
+                "file": "Data_Structure/Sorting/Sorting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Sorting"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "961abd7cc7f024ba",
@@ -199,11 +195,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.canvas",
+    "Data_Structure/Sorting/Sorting.md",
     "Data_Structure/DSA Questions Striver/LinkedLIst/Inserting a node in LInkedList.md",
     "Data_Structure/array/Operations in Array.md",
     "Templates/T1.md",
     "Data_Structure/DSA Questions Striver/LinkedLIst/Intro to LinkedList.md",
-    "Dashboard.canvas",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 1 Rectangular Star Pattern.md",
     "Data_Structure/DSA Questions Striver/LinkedLIst",
     "React/Introduction.md",
@@ -240,8 +237,6 @@
     "React/Apple Landing Page/node_modules/camera-controls/readme.md",
     "React/Apple Landing Page/node_modules/camelcase-css/README.md",
     "React/Apple Landing Page/node_modules/callsites/readme.md",
-    "React/Apple Landing Page/node_modules/call-bind/CHANGELOG.md",
-    "React/Apple Landing Page/node_modules/call-bind/README.md",
     "Images From Vault/Pasted image 20250127101008.png",
     "Images From Vault/Pasted image 20250127100936.png",
     "Data_Structure/index.canvas",
