@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Data_Structure/Sorting/Sorting.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.6617700927835373
+                }
               },
-              "icon": "lucide-file",
-              "title": "Sorting"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "961abd7cc7f024ba",
@@ -195,8 +199,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Dashboard.canvas",
     "Data_Structure/Sorting/Sorting.md",
+    "Dashboard.canvas",
     "Data_Structure/DSA Questions Striver/LinkedLIst/Inserting a node in LInkedList.md",
     "Data_Structure/array/Operations in Array.md",
     "Templates/T1.md",
