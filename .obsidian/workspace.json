@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.446401670188179
-                }
+                "file": "Data_Structure/DSA Questions Striver/LinkedLIst/Inserting a node in LInkedList.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Inserting a node in LInkedList"
             }
           }
         ]
@@ -198,13 +195,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Data_Structure/DSA Questions Striver/LinkedLIst/Intro to LinkedList.md",
+    "Dashboard.canvas",
     "Data_Structure/Sorting/Merge Sorting.md",
     "Data_Structure/Sorting/Selection Sort.md",
-    "Dashboard.canvas",
     "Data_Structure/DSA Questions Striver/LinkedLIst/Inserting a node in LInkedList.md",
     "Data_Structure/array/Operations in Array.md",
     "Templates/T1.md",
-    "Data_Structure/DSA Questions Striver/LinkedLIst/Intro to LinkedList.md",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 1 Rectangular Star Pattern.md",
     "Data_Structure/DSA Questions Striver/LinkedLIst",
     "React/Introduction.md",
@@ -240,7 +237,6 @@
     "React/Apple Landing Page/node_modules/caniuse-lite/README.md",
     "React/Apple Landing Page/node_modules/camera-controls/readme.md",
     "React/Apple Landing Page/node_modules/camelcase-css/README.md",
-    "React/Apple Landing Page/node_modules/callsites/readme.md",
     "Images From Vault/Pasted image 20250127101008.png",
     "Images From Vault/Pasted image 20250127100936.png",
     "Data_Structure/index.canvas",
