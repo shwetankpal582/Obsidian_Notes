@@ -20,8 +20,8 @@ The former(old Gen) gives it a network-oriented vision whereas the latter one pu
 IoT signifies "world-wide network of interconnected objects uniquely addressable based on standard communication protocols".
 The Three Visions of IoT are : 
 1. **Things Oriented Vision**
-	- In this vision, objects are tracked by sensors and technologies using RFID(Radio Frequency Identification). The data is collected through sensors and sensor  based embedded system. This vision depends on RFID-based sensor networks and other sensor-based networks which integrate technologies based on RFID, sensing, computing devices and the global connectivity.
+	- In this vision, *objects are tracked by sensors and technologies using RFID(Radio Frequency Identification).* The data is collected through sensors and sensor  based embedded system. This vision depends on RFID-based sensor networks and other sensor-based networks which integrate technologies based on RFID, sensing, computing devices and the global connectivity.
 2. **Internet Oriented Vision**
-	- The internet-oriented vision sees the various physical devices interacting with each other. The sensor-based o
+	- The internet-oriented vision *sees the various physical devices interacting with each other.* The sensor-based objects can be determined uniquely and their whereabouts can be regularly monitored. These smart embedded objects can be considered as microcomputers which computing resources.
 3. **Semantic Oriented Vision**
 ![[Pasted image 20250306175554.png]]
