@@ -24,5 +24,6 @@ The Three Visions of IoT are :
 2. **Internet Oriented Vision**
 	- The internet-oriented vision *sees the various physical devices interacting with each other.* The sensor-based objects can be determined uniquely and their whereabouts can be regularly monitored. These smart embedded objects can be considered as microcomputers which computing resources.
 3. **Semantic Oriented Vision**
-	- This vision states that the data collected through sensors will be huge. Thus, the collected data is processed effectively. The raw data is processed in order to make it consistant and least reduntant which is useful for better representation 
+	- *This vision states that the data collected through sensors will be huge. Thus, the collected data is processed effectively*. The raw data is processed in order to make it consistent and least redundant which is useful for better representations and interpretation. 
+
 ![[Pasted image 20250306175554.png]]
