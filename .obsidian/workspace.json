@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Internet of Things"
             }
-          },
-          {
-            "id": "2b0f46b109773c2a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-06 17.55.32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-06 17.55.32.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,11 +194,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2b0f46b109773c2a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-06 17.55.32.excalidraw.md",
     "College Subjects/IOT/Internet of Things.md",
     "Images From Vault/Pasted image 20250306175554.png",
-    "Excalidraw/Drawing 2025-03-06 17.55.32.excalidraw.md",
     "Dashboard.canvas",
     "Templates/College_template.md",
     "College Subjects/IOT",

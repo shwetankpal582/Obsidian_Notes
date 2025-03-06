@@ -32,3 +32,6 @@ The Three Visions of IoT are :
 The IoT associates trillions of objects or devices which will generate a lot of traffic and to handle that huge data storage will be needed.
 The issues like security and privacy also needs to be ensured when proposing the new architecture for IoT addressing scalability, interoperability, reliability, QoS etc
 The primitive architecture of IOT is : 
+![ArchitectureOfIoT](https://media.geeksforgeeks.org/wp-content/uploads/20240618095819/Architecture-of-IoT.jpg)
+
+1. **Sensing layer:** This is the first layer of architecture which is responsible for collecting data from different sources.
