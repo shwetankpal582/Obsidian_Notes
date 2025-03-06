@@ -17,4 +17,8 @@ IoT stands for Internet of Things. *It refers to the interconnectedness of physi
 
 ### Vision Of IoT
 The former(old Gen) gives it a network-oriented vision whereas the latter one pushes it towards objects which are combined to get settled in a single architecture. 
-I
+IoT signifies "world-wide network of interconnected objects uniquely addressable based on standard communication protocols".
+The Three Visions of IoT are : 
+1. **Things Oriented Vision**
+2. **Internet Oriented Vision**
+3. **Semantic Oriented Vision**
