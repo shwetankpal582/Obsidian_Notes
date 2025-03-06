@@ -35,4 +35,5 @@ The primitive architecture of IOT is :
 ![ArchitectureOfIoT](https://media.geeksforgeeks.org/wp-content/uploads/20240618095819/Architecture-of-IoT.jpg)
 
 1. **Sensing layer:** This is the first layer of architecture which is responsible for collecting data from different sources. This layer contains sensor and actuator which is responsible for collecting information about temperature, humidity, light, sound, and other physical parameters. Wired or wireless communication protocols connect these devices to the network layer.
-2. **Network layer:** The network layer of an IoT architecture is responsible for providing communication and connectivity between devices in the IoT system. It includes protocols and technologies that enable devices to connect and communicate with each other and with the wider internet. 
+2. **Network layer:** The network layer of an IoT architecture is responsible for providing communication and connectivity between devices in the IoT system. It includes protocols and technologies that enable devices to connect and communicate with each other and with the wider internet. Example: Wifi, bluetooth, cellular networks such as 4G and 5G technology. 
+3. **Data processing Layer:**
