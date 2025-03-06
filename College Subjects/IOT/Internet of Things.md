@@ -31,4 +31,4 @@ The Three Visions of IoT are :
 ## Iot Architecture
 The IoT associates trillions of objects or devices which will generate a lot of traffic and to handle that huge data storage will be needed.
 The issues like security and privacy also needs to be ensured when proposing the new architecture for IoT addressing scalability, interoperability, reliability, QoS etc
-The primitive archit
+The primitive architecture of IOT is : 
