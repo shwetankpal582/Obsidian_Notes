@@ -29,3 +29,6 @@ The Three Visions of IoT are :
 ![[Pasted image 20250306175554.png]]
 
 ## Iot Architecture
+The IoT associates trillions of objects or devices which will generate a lot of traffic and to handle that huge data storage will be needed.
+The issues like security and privacy also needs to be ensured when proposing the new architecture for IoT addressing scalability, interoperability, reliability, QoS etc
+The primitive archit
