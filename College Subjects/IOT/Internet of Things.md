@@ -16,4 +16,5 @@ IoT stands for Internet of Things. *It refers to the interconnectedness of physi
 **Internet of Things (IoT)** is the networking of physical objects that contain electronics embedded within their architecture in order to communicate and sense interactions amongst each other or with respect to the external environment.
 
 ### Vision Of IoT
-Various definitions of IoT co-exist due to the fact that everyone gives it a 
+The former(old Gen) gives it a network-oriented vision whereas the latter one pushes it towards objects which are combined to get settled in a single architecture. 
+I
