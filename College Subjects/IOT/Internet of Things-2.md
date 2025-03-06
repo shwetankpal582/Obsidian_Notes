@@ -9,4 +9,4 @@ Topic:
 Subject: IOT
 unit: 1
 ---
-# Technology Behind Io
+# Technology Behind IoT
