@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "College Subjects/IOT/Internet of Things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Internet of Things"
             }
           }
         ]
@@ -195,8 +195,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Templates/College_template.md",
     "College Subjects/IOT/Internet of Things.md",
-    "Templates/Untitled.md",
     "Dashboard.canvas",
     "College Subjects/IOT",
     "College Subjects",
