@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College Subjects/IOT/Internet of Things-2.md",
+                "file": "IOT/Unit 1/Internet of Things-2.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "961abd7cc7f024ba",
@@ -194,15 +193,16 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e2c39698c76dbdc8",
   "lastOpenFiles": [
+    "IOT/Unit 1",
     "Dashboard.canvas",
-    "College Subjects/IOT/Internet of Things-2.md",
-    "College Subjects/IOT/Internet of Things -1.md",
+    "IOT/Unit 1/Internet of Things-2.md",
+    "IOT/Unit 1/Internet of Things -1.md",
     "Excalidraw/Drawing 2025-03-06 17.55.32.excalidraw.md",
     "Images From Vault/Pasted image 20250306175554.png",
     "Templates/College_template.md",
-    "College Subjects/IOT",
+    "IOT",
     "College Subjects",
     "Data_Structure/DSA Questions Striver/LinkedLIst/Inserting a node in LInkedList.md",
     "Data_Structure/DSA Questions Striver/LinkedLIst/Intro to LinkedList.md",
