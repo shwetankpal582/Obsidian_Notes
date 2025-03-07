@@ -33,8 +33,7 @@
               "title": "Drawing 2025-03-07 20.30.25.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,10 +206,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "d8a88c36d4a54ad3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Dashboard.canvas",
     "Excalidraw/Drawing 2025-03-07 20.30.25.excalidraw.md",
+    "Dashboard.canvas",
     "IOT/Unit 1/Design Principles for Connected Devices.md",
     "IOT/Unit 1/Internet of Things-2.md",
     "IOT/Unit 1",
