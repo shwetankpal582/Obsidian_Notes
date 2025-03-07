@@ -28,4 +28,5 @@ Machine to machine communication can include industrial instrumentation,
 - Remote monitoring
 - Product restocking (a vending machine can generate an alert or message the distributor when a particular item is running low).
 - In warehouse management to remote control, robotics, traffic control, supply chain management, fleet management, logistic services, and telemedicine services.
-Such commnications init
+
+Such communications initiated by a remote network of machines generated information sent to a central hub for analysis, which would then share with a system like a personal computer.
