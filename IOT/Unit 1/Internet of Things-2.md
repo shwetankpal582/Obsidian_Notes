@@ -24,4 +24,8 @@ Machine to machine communication can include industrial instrumentation,
 - Enabling a sensor to communicate the data it records (such as temperature, inventory level, etc.) to application software.
 - This application software can use it (for example, adjusting an industrial process based on temperature or placing orders to replenish inventory).
 
-### Applications
+### Applications of Machine to machine Communication;
+- Remote monitoring
+- Product restocking (a vending machine can generate an alert or message the distributor when a particular item is running low).
+- In warehouse management to remote control, robotics, traffic control, supply chain management, fleet management, logistic services, and telemedicine services.
+Such commnications init
