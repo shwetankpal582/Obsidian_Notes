@@ -37,4 +37,4 @@ unit: 1
 ### OGC 
 - Open Geospatial Consortium (OGC), an international Industry Consortium, has also suggested open standards for sensors' discovery, capabilities, quality and other aspects with support to geographical information web support.
 
-#
+## Modified OSI Model for the IoT/M2M systems
