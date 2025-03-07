@@ -30,3 +30,6 @@ Machine to machine communication can include industrial instrumentation,
 - In warehouse management to remote control, robotics, traffic control, supply chain management, fleet management, logistic services, and telemedicine services.
 
 Such communications initiated by a remote network of machines generated information sent to a central hub for analysis, which would then share with a system like a personal computer.
+
+> [!url] Resources
+><iframe width="560" height="315" src="https://www.youtube.com/embed/ZW8425Tas7w?si=DMTlLuJiSClVvS_r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
