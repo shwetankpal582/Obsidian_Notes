@@ -22,3 +22,8 @@ unit: 1
 ## Design Standardisation
 - *Internet Engineering Task Force* (IETF), an international body initiated actions for addressing and working on the recommendations for the engineering specifications for the internet of Things.
 - IETF suggests the specification for the layers, and the engineering aspects for the IoT communication, networks and applications.
+
+> [!note] Design Standards
+> - ITU-T
+> - ETSI
+> - OGC
