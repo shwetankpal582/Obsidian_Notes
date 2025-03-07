@@ -20,4 +20,5 @@ unit: 1
 - Need of application and applications-support frameworks for services, applications and processes.
 
 ## Design Standardisation
-- *Internet Engineering Task Force* (IETF), an internati
+- *Internet Engineering Task Force* (IETF), an international body initiated actions for addressing and working on the recommendations for the engineering specifications for the internet of Things.
+- IETF suggests the specification for the layers, and the engineering aspects for the IoT communication, networks and applications.
