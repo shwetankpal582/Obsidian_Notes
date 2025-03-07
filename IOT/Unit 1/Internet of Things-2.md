@@ -9,6 +9,12 @@ Topic:
 Subject: IOT
 unit: 1
 ---
+# Source of IoT
+
+> [!url] Resource
+><iframe width="560" height="315" src="https://www.youtube.com/embed/VgkKLpz2ITk?si=syBtkp2ZU7T2Qmad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+
 # M2M communication
 M2M (Machine to Machine) is a concept that enables networked devices to perform actions by exchange information without the manual assistance of humans.
 
