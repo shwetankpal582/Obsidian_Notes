@@ -27,3 +27,9 @@ unit: 1
 > - ITU-T
 > - ETSI
 > - OGC
+
+### ITU-T
+- *International Telecommunication Union for Telecommunication*
+- It suggested a reference model for IoT domain, network and transport capabilities for the IoT services and the applications at the application and application-support layers.
+
+### ETSI
