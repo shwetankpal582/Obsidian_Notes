@@ -33,3 +33,6 @@ unit: 1
 - It suggested a reference model for IoT domain, network and transport capabilities for the IoT services and the applications at the application and application-support layers.
 
 ### ETSI
+- *European Telecommunication Standards Institute* intiated the development of set of standards for the network, and devices and gateway domains for the communication between machines (M2M). ETSI proposed high-level architecture for applications and service capabilities.
+### OGC 
+- Open Geospatial CO
