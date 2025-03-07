@@ -15,5 +15,9 @@ unit: 1
 
 ### IoT/M2M systems
 - Designing a communication framework from connecting devices, for their local area networking and provisions for data gathering.
-- Designing a data enrichment, data consolidation and data transfromation framework.
-- Designing gateway components for connecting the device's net
+- Designing a data enrichment, data consolidation and data transformation framework.
+- Designing gateway components for connecting the device's network with the web/Internet.
+- Need of application and applications-support frameworks for services, applications and processes.
+
+## Design Standardisation
+- *Internet Engineering Task Force* (IETF), an internati
