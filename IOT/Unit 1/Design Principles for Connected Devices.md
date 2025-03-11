@@ -41,3 +41,5 @@ unit: 1
 ![[IOT-Drawings.excalidraw#^group=xaATf17WnrPwCcLwg6HX3|500]]
 
 ## Communication Technology
+**IoT Communication:** IoT is the connection of devices over the internet, where these smart devices communicate with each other , exchange data , perform some tasks without any human involvement. These devices are embedded with electronics, software, network and sensors which help in communication. Communication between smart devices is very important in IOT as it  enables these devices to gather, exchange data which contribute in success of that IOT product/project.
+[[]]
