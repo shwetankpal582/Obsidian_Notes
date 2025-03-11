@@ -15,26 +15,19 @@ tags:
 The following are some communication types in IoT:-
 
 1. **Human to Machine (H2M):**
-
-In this human gives input to IOT device i.e as speech/text/image etc. IOT device (Machine) like sensors and actuators then understands input, analyses it and responds back to human by means of text or Visual Display. This is very useful as these machines assist humans in every everyday tasks. It is a combo of software and hardware that includes human interaction with a machine to perform a task.
+- In this human gives input to IOT device i.e as speech/text/image etc. IOT device (Machine) like sensors and actuators then understands input, analyses it and responds back to human by means of text or Visual Display. This is very useful as these machines assist humans in every everyday tasks. It is a combo of software and hardware that includes human interaction with a machine to perform a task.
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20210505183400/1.PNG)
 
-H2M communication
+- Merits: This H2M has a user-friendly interface that can be quickly accessed by following the instructions.  It responds more quickly to any fault or failure. Its features and functions can be customized.
 
-Merits: This H2M has a user-friendly interface that can be quickly accessed by following the instructions.  It responds more quickly to any fault or failure. Its features and functions can be customized.
+- Examples: 
+	- Facial recognition.
+	- Bio-metric Attendance system.
+	- Speech or voice recognition.
 
-Examples: 
-
-- Facial recognition.
-- Bio-metric Attendance system.
-- Speech or voice recognition.
-
-**2\. Machine to Machine (M2M):**
-
-The process of exchanging information or messages between two or more machines or devices is known as Machine to Machine (M2M) communication.
-
-It is the communication among the physical things which do not need human intervention.
+2. **Machine to Machine (M2M):**
+- The process of exchanging information or messages between two or more machines or devices is known as Machine to Machine (M2M) communication.It is the communication among the physical things which do not need human intervention.
 
 M2M communication is also named as Machine Type communication in 3GPP(3rd Generation Partnership Project).  
 In this the interaction or communication takes place between machines by automating data/programs. In this machine level instructions are required for communication. Here communication takes place without human interaction. The machines may be either connected through wires or by wireless connection. An M2M connection is a point-to-point connection between two network devices that helps in transmitting information using public networking technologies like Ethernet and cellular networks.  IoT uses the basic concepts of M2M and expands  by creating large “cloud” networks of devices that communicate with one another through cloud networking platforms.
