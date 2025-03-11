@@ -14,7 +14,7 @@ tags:
 
 The following are some communication types in IoT:-
 
-1. **Human to Machine (H2M):**
+1. **Human to Machine (H2M):** ^b58da5
 - In this human gives input to IOT device i.e as speech/text/image etc. IOT device (Machine) like sensors and actuators then understands input, analyses it and responds back to human by means of text or Visual Display. This is very useful as these machines assist humans in every everyday tasks. It is a combo of software and hardware that includes human interaction with a machine to perform a task.
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20210505183400/1.PNG)
