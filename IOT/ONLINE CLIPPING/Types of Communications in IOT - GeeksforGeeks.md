@@ -61,13 +61,9 @@ Examples:
 **4\. Human to Human (H2H) :**  
 This is generally how humans communicate with each other to exchange information by speech, writing, drawing, facial expressions, body language etc. Without H2H, M2M applications cannot produce the expected benefits unless humans can immediately  fix issues, solve challenges, and manage scenarios.
 
-The process of exchanging information   
-or messages between two or more people is known as human to human (H2H) communication. This can be done through various means such as verbal,   
-non-verbal, or written communication.
+The process of exchanging information or messages between two or more people is known as human to human (H2H) communication. This can be done through various means such as verbal, non-verbal, or written communication.
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20210505183712/4-300x215.PNG)
-
-H2H communication
 
 For, communication of  IoT devices  many protocols are used. These IoT protocols are modes of communication which give security to the data being exchanged between IoT connected devices. Example bluetooth, wifi, zigbee etc.
 
