@@ -34,14 +34,12 @@ In this the interaction or communication takes place between machines by automat
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20210505183521/2-300x138.PNG)
 
-M2M communication
 
-**Advantages –**  
-This M2M can operate over cellular networks and is simple to manage. It can be used both indoors and outdoors and aids in the communication of smart objects without the need for human interaction. The M2M contact facility is used to address security and privacy problems in IoT networks. Large-scale data collection, processing, and security are all feasible.
+##### **M2M Communication Advantages and Disadvantages**
 
-**Disadvantages –**  
-However, in M2M, use of cloud computing restricts versatility and creativity. Data security and ownership are major concerns here.  The challenge of achieving  interoperability between cloud/M2M IoT systems is daunting. M2M connectivity necessitates the existence of a reliable internet connection.
-
+| **Advantages** | **Disadvantages** |
+| --- | --- |
+| * M2M can operate over cellular networks and is simple to manage. * It can be used both indoors and outdoors and aids in the communication of smart objects without the need for human interaction. * The M2M contact facility is used to address security and privacy problems in IoT networks. * Large-scale data collection, processing, and security are all feasible. | * Use of cloud computing restricts versatility and creativity. * Data security and ownership are major concerns. * Achieving interoperability between cloud/M2M IoT systems is challenging. * M2M connectivity requires a reliable internet connection. |
 Examples:
 
 - Smart Washing machine sends alerts to the owners’ smart devices after completion of washing or drying of clothes.
@@ -52,7 +50,6 @@ In this machine interacts with Humans. Machine triggers information(text message
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/20210505183642/3-300x166.PNG)
 
-M2H communication
 
 Examples:
 
