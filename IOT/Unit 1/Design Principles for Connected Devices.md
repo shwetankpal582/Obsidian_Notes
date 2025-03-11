@@ -39,3 +39,5 @@ unit: 1
 
 ## Modified OSI Model for the IoT/M2M systems
 ![[IOT-Drawings.excalidraw#^group=xaATf17WnrPwCcLwg6HX3|500]]
+
+## Communication Technology
