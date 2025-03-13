@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.4932750736090914
-                }
+                "file": "IOT/Unit 1/Design Principles for Connected Device - 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Design Principles for Connected Device - 2"
             }
           }
         ]
@@ -198,13 +195,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "IOT/Unit 1/Design Principles for Connected Devices.md",
-    "IOT/ONLINE CLIPPING/Types of Communications in IOT - GeeksforGeeks.md",
-    "IOT/ONLINE CLIPPING",
-    "Clippings",
+    "IOT/Unit 1/Design Principles for Connected Devices - 1.md",
+    "IOT/Unit 1/Design Principles for Connected Device - 2.md",
     "IOT/Unit 1/Internet of Things -1.md",
     "IOT/Unit 1/Internet of Things-2.md",
     "Dashboard.canvas",
+    "IOT/ONLINE CLIPPING/Types of Communications in IOT - GeeksforGeeks.md",
+    "IOT/ONLINE CLIPPING",
+    "Clippings",
     "Data_Structure/SpaceAndTime/Calculating Time Complexity.md",
     "Excalidraw/IOT-Drawings.excalidraw.md",
     "IOT/Unit 1",
