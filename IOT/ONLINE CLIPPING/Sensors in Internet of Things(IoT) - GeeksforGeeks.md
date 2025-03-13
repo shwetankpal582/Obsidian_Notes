@@ -78,53 +78,37 @@ The response of the sensor depends on the magnitude of the direction and orienta
 
 	
 - **Light sensor:**
-
-Light sensor is also known as photo sensors and one of the important sensor.
-
-Light dependent resistor or LDR is a simple light sensor available today.
-
-The property of LDR is that its resistance is inversely proportional to the intensity of the ambient light i.e when the intensity of light increases, it’s resistance decreases and vise versa.
+	- Light sensor is also known as photo sensors and one of the important sensor.
+	- Light dependent resistor or LDR is a simple light sensor available today.
+	- The property of LDR is that its resistance is inversely proportional to the intensity of the ambient light i.e when the intensity of light increases, it’s resistance decreases and vise versa.
 
 - **Touch sensor:**
-
-Detection of something like a touch of finger or a stylus is known as touch sensor.
-
-It’s name suggests that detection of something.
+	- Detection of something like a touch of finger or a stylus is known as touch sensor.It’s name suggests that detection of something.
 
 They are classified into two types:
-
 1. Resistive type
 2. Capacitive type
 
 Today almost all modern touch sensors are of capacitive types.
 
 Because they are more accurate and have better signal to noise ratio.
-
 - **Range sensing:**
-
-Range sensing concerns detecting how near or far a component is from the sensing position, although they can also be used as proximity sensors.
-
- Distance or range sensors use non-contact analog techniques. Short range sensing, between a few millimetres and a few hundred millimetres is carried out using electrical capacitance, inductance and magnetic technique.
-
- Longer range sensing is carried out using transmitted energy waves of various types eg radio waves, sound waves and lasers.
+	- Range sensing concerns detecting how near or far a component is from the sensing position, although they can also be used as proximity sensors.
+	 - Distance or range sensors use non-contact analog techniques. Short range sensing, between a few millimetres and a few hundred millimetres is carried out using electrical capacitance, inductance and magnetic technique.
+	 - Longer range sensing is carried out using transmitted energy waves of various types eg radio waves, sound waves and lasers.
 
 - **Mechanical sensor:**
-
-Any suitable mechanical / electrical switch may be adopted but because a certain amount of force is required to operate a mechanical switch it is common to use micro-switches.
+	- Any suitable mechanical / electrical switch may be adopted but because a certain amount of force is required to operate a mechanical switch it is common to use micro-switches.
 
 - **Pneumatic sensor:**
-
-These proximity sensors operate by breaking or disturbing an air flow.
-
- The pneumatic proximity sensor is an example of a contact type sensor. These cannot be used where light components may be blown away.
+	- These proximity sensors operate by breaking or disturbing an air flow.
+	 - The pneumatic proximity sensor is an example of a contact type sensor. These cannot be used where light components may be blown away.
 
 - **Optical sensor:**
-
-In there simplest form, optical proximity sensors operate by breaking a light beam which falls onto a light sensitive device such as a photocell. These are examples of non contact sensors. Care must be exercised with the lighting environment of these sensors for example optical sensors can be blinded by flashes from arc welding processes, airborne dust and smoke clouds may impede light transmission etc.
+	- In there simplest form, optical proximity sensors operate by breaking a light beam which falls onto a light sensitive device such as a photocell. These are examples of non contact sensors. Care must be exercised with the lighting environment of these sensors for example optical sensors can be blinded by flashes from arc welding processes, airborne dust and smoke clouds may impede light transmission etc.
 
 - **Speed Sensor:**
-
-Sensor used for detecting the speed of any object or vehicle which is in motion is known as speed sensor .For example – Wind Speed Sensors, Speedometer ,UDAR ,Ground Speed Radar .
+	- Sensor used for detecting the speed of any object or vehicle which is in motion is known as speed sensor .For example – Wind Speed Sensors, Speedometer ,UDAR ,Ground Speed Radar .
 
 - **Temperature Sensor:**
 
