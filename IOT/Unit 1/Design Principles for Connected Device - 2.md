@@ -8,6 +8,7 @@ Topic:
 Subject: IOT
 unit: 1
 ---
+
 ## What is Data Enrichment?
 *The practice of adding more information to raw data to make it more complete and thorough is known as data enrichment.*
 It entails enhancing accuracy, adding pertinent features, and closing gaps to increase the data's analytical value. Through this process, simple knowledge is transformed into a rich resource that may provide greater understanding. 
