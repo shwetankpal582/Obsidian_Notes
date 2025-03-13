@@ -16,3 +16,10 @@ The output of the sensor is a signal which is converted to a human-readable form
 ![sensor](https://media.geeksforgeeks.org/wp-content/uploads/20210429114343/Sensors.png)
 
 [[Sensors in Internet of Things(IoT) - GeeksforGeeks| More about sensor...]]
+
+## Digital Sensors
+
+Unlike analog sensor, **Digital Sensor** produce discrete values (0 and 1’s). Discrete values often called digital or binary signals in digital communication.
+
+Electronic sensors or electrochemical sensors in which data conversion and data transmission take place digitally are digital sensors. These digital sensors are replacing analog sensors as they are capable of overcoming the drawbacks of analog sensors. The digital sensor consists of majorly three components such as senor, cable, and transmitter. But, In digital sensors, the signal measured directly converted into digital signal output inside the digital sensor itself. So, this digital signal transmitted through cable digitally. There are different types of digital sensors that overcome the disadvantages of analog sensors.
+![digital_sensor|500](https://i0.wp.com/iot4beginners.com/wp-content/uploads/2020/05/Untitled1111.jpg?resize=640%2C374&ssl=1)
