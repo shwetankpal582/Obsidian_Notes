@@ -37,3 +37,6 @@ The primary purpose of data consolidation is to streamline and simplify data man
 
 
 
+
+> [!todo] Left to do
+> - Ease of design and affordablity
