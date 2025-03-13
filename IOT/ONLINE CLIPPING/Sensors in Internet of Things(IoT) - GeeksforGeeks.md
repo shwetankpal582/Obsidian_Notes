@@ -102,7 +102,7 @@ Because they are more accurate and have better signal to noise ratio.
 
 - **Pneumatic sensor:**
 	- These proximity sensors operate by breaking or disturbing an air flow.
-	 - The pneumatic proximity sensor is an example of a contact type sensor. These cannot be used where light components may be blown away.
+	- The pneumatic proximity sensor is an example of a contact type sensor. These cannot be used where light components may be blown away.
 
 - **Optical sensor:**
 	- In there simplest form, optical proximity sensors operate by breaking a light beam which falls onto a light sensitive device such as a photocell. These are examples of non contact sensors. Care must be exercised with the lighting environment of these sensors for example optical sensors can be blinded by flashes from arc welding processes, airborne dust and smoke clouds may impede light transmission etc.
@@ -111,25 +111,11 @@ Because they are more accurate and have better signal to noise ratio.
 	- Sensor used for detecting the speed of any object or vehicle which is in motion is known as speed sensor .For example – Wind Speed Sensors, Speedometer ,UDAR ,Ground Speed Radar .
 
 - **Temperature Sensor:**
-
-Devices which monitors and tracks the temperature and gives temperature’s measurement as an electrical signal are termed as temperature sensors .These electrical signals will be in the form of voltage and is directly proportional to the temperature measurement .
+	- Devices which monitors and tracks the temperature and gives temperature’s measurement as an electrical signal are termed as temperature sensors .These electrical signals will be in the form of voltage and is directly proportional to the temperature measurement .
 
 - **PIR Sensor:**
-
-PIR stands for passive infrared sensor and it is an electronic sensor that is used for the tracking and measurement of infrared (IR) light radiating from objects in its field of view and is also known as Pyroelectric sensor .It is mainly used for detecting human motion and movement detection .
+	- PIR stands for passive infrared sensor and it is an electronic sensor that is used for the tracking and measurement of infrared (IR) light radiating from objects in its field of view and is also known as Pyroelectric sensor .It is mainly used for detecting human motion and movement detection .
 
 - **Ultrasonic Sensor:**
+	- The principle of ultrasonic sensor is similar to the working principle of SONAR or RADAR in which the interpretation of echoes from radio or sound waves to evaluate the attributes of a target by generating the high frequency sound waves .
 
-The principle of ultrasonic sensor is similar to the working principle of SONAR or RADAR in which the interpretation of echoes from radio or sound waves to evaluate the attributes of a target by generating the high frequency sound waves .
-
-  
-
-**Get 90% Course fee refund on completing 90% course in 90 days**! Take the [Three 90 Challenge today](https://www.geeksforgeeks.org/courses?utm_source=geeksforgeeks&utm_medium=bottomtextad&utm_campaign=three90).  
-  
-The next 90 Days of focus & determination can unlock your full potential. The Three 90 challenge has started and this is your chance to **upskill and get 90% refund.** What more motivation do you need? [Start the challenge right away!](https://www.geeksforgeeks.org/courses?utm_source=geeksforgeeks&utm_medium=bottomtextad&utm_campaign=three90)
-
-  
-
-[Next Article](https://www.geeksforgeeks.org/internet-things-iot/?ref=next_article)
-
-[Internet of Things (IoT) | Set 3](https://www.geeksforgeeks.org/internet-things-iot/?ref=next_article)

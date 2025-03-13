@@ -15,3 +15,4 @@ The sensor attains a physical parameter and converts it into a signal suitable f
 The output of the sensor is a signal which is converted to a human-readable form like changes in characteristics, changes in resistance, capacitance, impedance, etc.
 ![sensor](https://media.geeksforgeeks.org/wp-content/uploads/20210429114343/Sensors.png)
 
+[[Sensors in Internet of Things(IoT) - GeeksforGeeks| More about sensor...]]
