@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOT/Unit 2/Hardware of IoT - 1.md",
-                "mode": "preview",
+                "file": "Clippings/Analog Sensors Vs. Digital Sensors - IoTEDU.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hardware of IoT - 1"
+              "title": "Analog Sensors Vs. Digital Sensors - IoTEDU"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "7104193c265322e9",
   "lastOpenFiles": [
-    "IOT/ONLINE CLIPPING/Sensors in Internet of Things(IoT) - GeeksforGeeks.md",
     "IOT/Unit 2/Hardware of IoT - 1.md",
+    "Clippings/Analog Sensors Vs. Digital Sensors - IoTEDU.md",
+    "IOT/ONLINE CLIPPING/Sensors in Internet of Things(IoT) - GeeksforGeeks.md",
     "Dashboard.canvas",
     "IOT/Unit 1/Design Principles for Connected Device - 2.md",
     "IOT/Unit 2",
