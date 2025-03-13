@@ -24,3 +24,5 @@ Data enrichment can provide many benefits for your business or organization, suc
 5. **Performance:** With more precise and dependable data at your disposal, data enrichment may help you enhance your operations and procedures. To enhance your data analysis and reporting, for instance, you may utilize data enrichment to eliminate mistakes, duplication, and inconsistencies in your data.
 6. **Improved Accuracy:** By adding missing details and correcting errors, Data Enrichment enhances the accuracy of the dataset, reducing the risk of misinformation.
 7. **Innovation:** Data enrichment can help you discover new opportunities and solutions by providing you with more diverse and comprehensive data. Data enrichment, for instance, may be used to discover new markets, trends, and patterns in your data, from which you can create new features, products, and business plans.
+
+## What is data consolidation?
