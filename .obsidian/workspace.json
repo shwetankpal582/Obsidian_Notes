@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "IOT/Unit 1/Design Principles for Connected Devices.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.4932750736090914
+                }
               },
-              "icon": "lucide-file",
-              "title": "Design Principles for Connected Devices"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -195,8 +198,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "IOT/ONLINE CLIPPING/Types of Communications in IOT - GeeksforGeeks.md",
     "IOT/Unit 1/Design Principles for Connected Devices.md",
+    "IOT/ONLINE CLIPPING/Types of Communications in IOT - GeeksforGeeks.md",
     "IOT/ONLINE CLIPPING",
     "Clippings",
     "IOT/Unit 1/Internet of Things -1.md",
