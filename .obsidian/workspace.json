@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.7788168788524548
-                }
+                "file": "IOT/Unit 1/Design Principles for Connected Device - 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Design Principles for Connected Device - 2"
             }
           }
         ]
@@ -198,11 +195,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "IOT/Unit 1/Design Principles for Connected Device - 2.md",
     "IOT/Unit 1/Design Principles for Connected Devices - 1.md",
+    "IOT/Unit 1/Design Principles for Connected Device - 2.md",
+    "Dashboard.canvas",
     "IOT/Unit 1/Internet of Things -1.md",
     "IOT/Unit 1/Internet of Things-2.md",
-    "Dashboard.canvas",
     "IOT/ONLINE CLIPPING/Types of Communications in IOT - GeeksforGeeks.md",
     "IOT/ONLINE CLIPPING",
     "Clippings",
@@ -234,7 +231,6 @@
     "Data_Structure/DSA Questions Striver/Pair.md",
     "conflict-files-obsidian-git.md",
     "Data_Structure/pr.cpp",
-    "Data_Structure/DSA Questions Striver/Untitled.md",
     "Images From Vault/Pasted image 20250131000949.png",
     "Images From Vault/Pasted image 20250131000840.png",
     "Images From Vault/Pasted image 20250131000705.png",
