@@ -50,38 +50,31 @@ A hydraulic actuator uses hydraulic power to perform a mechanical operation. The
 - It requires noise reduction equipment, heat exchangers, and high maintenance systems.
 
 **2. Pneumatic Actuators –**
-
 A pneumatic actuator uses energy formed by vacuum or compressed air at high pressure to convert into either linear or rotary motion. Example- Used in robotics, use sensors that work like human fingers by using compressed air.
 
 **Advantages :**
-
 - They are a low-cost option and are used at extreme temperatures where using air is a safer option than chemicals.
 - They need low maintenance, are durable, and have a long operational life.
 - It is very quick in starting and stopping the motion.
 
 **Disadvantages :**
-
 - Loss of pressure can make it less efficient.
 - The air compressor should be running continuously.
 - Air can be polluted, and it needs maintenance.
 
 **3. Electrical Actuators –**
-
 An electric actuator uses electrical energy, is usually actuated by a motor that converts electrical energy into mechanical torque. An example of an electric actuator is a solenoid based electric bell. 
 
 **Advantages :**
-
 - It has many applications in various industries as it can automate industrial valves.
 - It produces less noise and is safe to use since there are no fluid leakages.
 - It can be re-programmed and it provides the highest control precision positioning.
 
 **Disadvantages :**
-
 - It is expensive.
 - It depends a lot on environmental conditions.
 
 Other actuators are –
-
 - **Thermal/Magnetic Actuators –**   
     These are actuated by thermal or mechanical energy. Shape Memory Alloys (SMAs) or Magnetic Shape‐Memory Alloys (MSMAs) are used by these actuators. An example of a thermal/magnetic actuator can be a piezo motor using SMA.
 - **Mechanical Actuators –**   
@@ -90,3 +83,7 @@ Other actuators are –
 - Shape Memory Polymers
 - Light Activated Polymers
 - With the expanding world of IoT, sensors and actuators will find more usage in commercial and domestic applications along with the pre-existing use in industry.
+
+
+## RFID
+**Radio Frequency Identification** is a form of wireless communication that incorporates the use of electromagnetic or electrostatic coupling in the radio frequency portion of the electromagnetic spectrum to uniquely identify an object or person. It uses radio frequency to search, identify, track, and communicate with items and people.
