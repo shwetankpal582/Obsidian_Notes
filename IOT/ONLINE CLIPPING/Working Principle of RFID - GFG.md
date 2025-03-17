@@ -28,17 +28,17 @@ The transponder is in the RFID tag itself. The read range for RFID tags varies b
 - No built-in power source, relying on the RFID reader.
 - Less expensive, longer lifespan, shorter read range (up to a few meters).
 
-### ****2\. Active Tags****
+### **2\. Active Tags**
 
 - Have their own power source (battery), allowing for a longer read range (up to hundreds of meters).
 - More expensive, limited lifespan due to the battery.
 
-### ****3\. Semi-Passive Tags****
+### **3\. Semi-Passive Tags**
 
 - Small battery powers the tag’s circuitry.
 - Middle ground in terms of cost, range, and lifespan.
 
-## ****Features of RFID****
+## **Features of RFID**
 
 - An RFID tag consists of two-part which is an microcircuit and an antenna.
 - This tag is covered by protective material which acts as a shield against the outer environment effect.
@@ -60,17 +60,17 @@ The transponder is in the RFID tag itself. The read range for RFID tags varies b
 
 RFID systems operate in different frequency bands, each with its characteristics:
 
-- ****Low Frequency (LF, 125-134 kHz)****: Used for short-range applications (up to 10 cm). Common in animal tracking and access control.
-- ****High Frequency (HF, 13.56 MHz)****: Medium range (up to 1 meter) and commonly used in smart cards, ticketing, and library systems.
-- ****Ultra-High Frequency (UHF, 860-960 MHz):**** Longer range (up to 12 meters) and used in inventory management, supply chain, and logistics.
-- ****Microwave Frequency (2.45 GHz):**** Used for very specific applications with ranges similar to UHF but with higher data transfer rates.
+- **Low Frequency (LF, 125-134 kHz)**: Used for short-range applications (up to 10 cm). Common in animal tracking and access control.
+- **High Frequency (HF, 13.56 MHz)**: Medium range (up to 1 meter) and commonly used in smart cards, ticketing, and library systems.
+- **Ultra-High Frequency (UHF, 860-960 MHz):** Longer range (up to 12 meters) and used in inventory management, supply chain, and logistics.
+- **Microwave Frequency (2.45 GHz):** Used for very specific applications with ranges similar to UHF but with higher data transfer rates.
 
 ## Challenges of RFID
 
-- ****Cost****: Higher initial setup and tag costs compared to traditional barcodes.
-- ****Interference****: Susceptible to interference from metal, liquids, and other RFID systems.
-- ****Privacy****: Concerns about unauthorized tracking and data breaches.
-- ****Standardization****: Different frequency standards and protocols can lead to compatibility issues.
+- **Cost**: Higher initial setup and tag costs compared to traditional barcodes.
+- **Interference**: Susceptible to interference from metal, liquids, and other RFID systems.
+- **Privacy**: Concerns about unauthorized tracking and data breaches.
+- **Standardization**: Different frequency standards and protocols can lead to compatibility issues.
 - It takes longer to program RFID Devices.
 - RFID intercepted easily even it is Encrypted.
 - In an RFID system, there are two or three layers of ordinary household foil to dam the radio wave.
@@ -81,31 +81,31 @@ RFID systems operate in different frequency bands, each with its characteristics
 
 The future of RFID looks promising with advancements in technology and decreasing costs. Innovations like the integration with the [Internet of Things (IoT)](https://www.geeksforgeeks.org/introduction-to-internet-of-things-iot-set-1/), enhanced data analytics, and improved battery life for active tags are expected to drive wider adoption. As RFID technology continues to evolve, it will play a crucial role in the digitization and automation of various industries.
 
-## ****Application of RFID****
+## **Application of RFID**
 
 RFID technology is versatile and can be applied in numerous fields:
 
-- ****Inventory Management****: RFID helps in tracking inventory in real-time, reducing errors, and increasing efficiency.
-- ****Asset Tracking****: Companies can monitor their assets’ location and status, preventing loss and optimizing utilization.
-- ****Supply Chain Management****: Enhances visibility and accuracy in tracking products throughout the supply chain.
-- ****Access Control****: Used in security systems for granting or restricting access to buildings, rooms, or devices.
-- ****Retail****: Enables efficient stock management, theft prevention, and improved customer experience through smart shelves and automated checkouts.
-- ****Healthcare****: Used for patient tracking, equipment management, and ensuring the authenticity of medications.
+- **Inventory Management**: RFID helps in tracking inventory in real-time, reducing errors, and increasing efficiency.
+- **Asset Tracking**: Companies can monitor their assets’ location and status, preventing loss and optimizing utilization.
+- **Supply Chain Management**: Enhances visibility and accuracy in tracking products throughout the supply chain.
+- **Access Control**: Used in security systems for granting or restricting access to buildings, rooms, or devices.
+- **Retail**: Enables efficient stock management, theft prevention, and improved customer experience through smart shelves and automated checkouts.
+- **Healthcare**: Used for patient tracking, equipment management, and ensuring the authenticity of medications.
 
-## ****Advantages of RFID****  
+## **Advantages of RFID**  
 
-- ****Automation****: Reduces manual intervention, minimizing errors and increasing operational efficiency.
-- ****Accuracy****: Provides precise tracking and data collection.
-- ****Real-time Data****: Enables real-time monitoring and decision-making.
-- ****Durability****: RFID tags are generally more durable and can withstand harsh environments compared to barcodes.
-- ****Security****: Enhanced data security through encryption and authentication.
+- **Automation**: Reduces manual intervention, minimizing errors and increasing operational efficiency.
+- **Accuracy**: Provides precise tracking and data collection.
+- **Real-time Data**: Enables real-time monitoring and decision-making.
+- **Durability**: RFID tags are generally more durable and can withstand harsh environments compared to barcodes.
+- **Security**: Enhanced data security through encryption and authentication.
 - It provides data access and real-time information without taking to much time.
 - RFID tags follow the instruction and store a large amount of information.
 - The RFID system is non-line of sight nature of the technology.
 - It improves the Efficiency, traceability of production.
 - In RFID hundred of tags read in a short time.
 
-## ****Disadvantages of RFID****
+## **Disadvantages of RFID**
 
 - It takes longer to program RFID Devices.
 - RFID intercepted easily even it is [Encrypted](https://www.geeksforgeeks.org/difference-between-encryption-and-encoding/).
