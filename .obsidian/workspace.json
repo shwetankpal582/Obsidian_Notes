@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": 160,
                   "y": 720,
-                  "zoom": -1.8861509229637765
+                  "zoom": -2.002050739564762
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "961abd7cc7f024ba",
@@ -199,8 +198,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Data_Structure/SpaceAndTime/Calculating Time Complexity.md",
     "Dashboard.canvas",
+    "Data_Structure/SpaceAndTime/Calculating Time Complexity.md",
     "IOT/Unit 1/Design Principles for Connected Devices.md",
     "Excalidraw/IOT-Drawings.excalidraw.md",
     "IOT/Unit 1/Internet of Things-2.md",
@@ -234,7 +233,6 @@
     "Data_Structure/DSA Questions Striver/Untitled.md",
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 5 Inverted Right Pyramid.md",
     "Images From Vault/Pasted image 20250131000949.png",
-    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 4 Right-Angled Number Pyramid - II.md",
     "Images From Vault/Pasted image 20250131000840.png",
     "Images From Vault/Pasted image 20250131000705.png",
     "Images From Vault/Pasted image 20250131000423.png",
