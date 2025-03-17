@@ -91,3 +91,26 @@ Other actuators are –
 - It is a method that is used to track or identify an object by radio transmission over the web. Data is digitally encoded in an RFID tag which might be read by the reader. This device works as a tag or label during which data is read from tags that are stored in the database through the reader as compared to traditional barcodes and QR codes. It is often read outside the road of sight either passive or active RFID.
 
 ![RFID](https://media.geeksforgeeks.org/wp-content/uploads/20240208153001/Screenshot-2024-02-08-152945.png)
+
+## **Types of RFID**
+
+There are many kinds of RFID, each with different properties, but perhaps the most fascinating aspect of RFID technology is that most RFID tags have neither an electric plug nor a battery. Instead, all of the energy needed to operate them is supplied in the form of radio waves by RFID readers. This technology is called passive RFID to distinguish it from the(less common) active RFID in which there is a power source on the tag.
+
+- ****UHF RHID ( Ultra-High Frequency RFID )****. It is used on shipping pallets and some driver’s licenses. Readers send signals in the 902-928 MHz band. Tags communicate at distances of several meters by changing the way they reflect the reader signals; the reader is able to pick up these reflections. This way of operating is called backscatter.
+- **HF RFID (High-Frequency RFID ).** It operates at 13.56 MHz and is likely to be in your passport, credit card, books, and noncontact payment systems. HF RFID has a short-range, typically a meter or less because the physical mechanism is based on induction rather than backscatter. 
+
+- **Passive RFID:** Passive RFID tags does not have their own power source. It uses power from the reader. In this device, RF tags are not attached by a power supply and passive RF tag stored their power. When it is emitted from active antennas and the RF tag are used specific frequency like 125-134KHZ as low frequency, 13.56MHZ as a high frequency and 856MHZ to 960MHZ as ultra-high frequency. 
+    - No need embedded power
+    - Tracking inventory
+    - Has unique identification number
+    - Sensitive for interference
+    - Semi-passive RFID  
+         
+- **Active RFID:** In this device, RF tags are attached by a power supply that emits a signal and there is an antenna which receives the data. means, active tag uses a power source like battery. It has it’s own power source, does not require power from source/reader. 
+    - Embedded power: communication over large distance
+    - Has unique identifier /identification number
+    - Use other devices like sensors
+    - Better than passive tags in the presence of metal
+
+There are also other forms of RFID using other frequencies, such as LF RFID(Low-Frequency RFID), which was developed before HF RFID and used for tracking.
+
