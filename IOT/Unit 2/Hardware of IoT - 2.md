@@ -4,6 +4,8 @@ tags:
 Date: 2025 - 03 - 06
 Topic:
   - wireless sensor network
-Subject: 
-unit: 0
+  - Participatory sensing technology
+Subject: IOT
+unit: 2
 ---
+# Wireless sensor networks
