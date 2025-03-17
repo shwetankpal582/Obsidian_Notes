@@ -113,4 +113,4 @@ There are many kinds of RFID, each with different properties, but perhaps the mo
     - Better than passive tags in the presence of metal
 
 There are also other forms of RFID using other frequencies, such as LF RFID(Low-Frequency RFID), which was developed before HF RFID and used for tracking.
-[[]]
+[[Working Principle of RFID - GFG| Working Principles of RFID and Types of Tags]]
