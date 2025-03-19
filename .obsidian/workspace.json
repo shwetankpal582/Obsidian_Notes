@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOT/Unit 3/Untitled.md",
-                "mode": "source",
+                "file": "IOT/Unit 3/Network & Communication Aspects in IoT.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Network & Communication Aspects in IoT"
             }
           }
         ]
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IOT/Unit 3/Untitled.md",
+                "file": "IOT/Unit 3/Network & Communication Aspects in IoT.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Network & Communication Aspects in IoT"
             }
           }
         ]
@@ -245,7 +245,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "IOT/Unit 2/Embedded Platform in IoT - 2.md",
-    "IOT/Unit 3/Untitled.md",
+    "IOT/Unit 3/Network & Communication Aspects in IoT.md",
     "IOT/Unit 3",
     "IOT/Unit 2/Embedded Platform in IoT - 1.md",
     "Dashboard.canvas",
