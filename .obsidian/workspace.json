@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.7788168788524548
-                }
+                "file": "IOT/Unit 2/Embedded Platform in IoT - 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Embedded Platform in IoT - 1"
             }
           }
         ]
@@ -189,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "IOT/Unit 2/Embedded Platform in IoT - 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dashboard"
+              "title": "Graph of Embedded Platform in IoT - 1"
             }
           }
         ]
@@ -247,9 +244,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.canvas",
     "IOT/Unit 2/Embedded Platform in IoT - 1.md",
     "IOT/Unit 2/Hardware of IoT - 2.md",
-    "Dashboard.canvas",
     "conflict-files-obsidian-git.md",
     "IOT/ONLINE CLIPPING/Working Principle of RFID - GFG.md",
     "IOT/Unit 2/Hardware of IoT - 1.md",
@@ -281,7 +278,6 @@
     "Data_Structure/DSA Questions Striver/LinkedLIst",
     "React/Introduction.md",
     "Data_Structure/LinkedList/Issues_linkedList.md",
-    "RayLib/RayLib.md",
     "RayLib",
     "Data_Structure/DSA Questions Striver/Random/a.cpp",
     "Data_Structure/pr.cpp",
