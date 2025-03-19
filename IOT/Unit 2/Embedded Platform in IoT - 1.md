@@ -67,3 +67,31 @@ An embedded system is a specialized computer system designed to perform specific
 #### 9. **Challenges**
 
 - Limited resources, debugging complexity, need for real-time performance, security vulnerabilities.
+
+## What is a Microprocessor?
+
+A Microprocessor is an important part of a computer architecture without which you will not be able to perform anything on your computer. It is a programmable device that takes in input performs some arithmetic and logical operations over it and produces the desired output. In simple words, a Microprocessor is a digital device on a chip that can fetch instructions from memory, decode and execute them, and give results. 
+
+## What is Microcontroller?
+
+A microcontroller (MCU) is a small computer on a single integrated circuit that is designed to control specific tasks within electronic systems. It combines the functions of a central processing unit (CPU), memory, and input/output interfaces, all on a single chip. Microcontroller are widely used in embedded systems, such as home appliances, automotive systems, medical devices, and industrial control systems. They are also used in consumer electronics products, such as gaming systems, digital cameras, and audio players.
+
+## Difference between Microprocessor and Microcontroller
+
+|                                                                                                                                       |                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Microcontroller**                                                                                                                   | **Microprocessor**                                                                                          |
+| A microcontroller is a specialized form of a microprocessor                                                                           | The microprocessor is designed to be general-purpose.                                                       |
+| It is cost-effective.                                                                                                                 | It is a silicon chip                                                                                        |
+| It is self-sufficient.                                                                                                                | It is a dependent unit                                                                                      |
+| The microcontroller is used to perform a particular tasks.                                                                            | The Microprocessor is  <br>used to perform a certain task.                                                  |
+| Its power consumption is low.                                                                                                         | Its power consumption is high.                                                                              |
+| It contains [CPU](https://www.geeksforgeeks.org/central-processing-unit-cpu), RAM, ROM,  <br>Registers, Timer and input/output ports. | It requires a combination of timers, controllers  <br>memory chips.                                         |
+| Its size is smaller.                                                                                                                  | Its size is larger.                                                                                         |
+| It is a chip which is called single chip computer.                                                                                    | It is a general purpose device which is called a CPU.                                                       |
+| Microcontroller have no advantage of designing RAM, ROM, I/O port.                                                                    | It have advantages of versatility such that designer can decide the amount of RAM, ROM, I/O port as needed. |
+| Its microprocessors processing power is lower than microprocessor.                                                                    | Its processing power is higher.                                                                             |
+| It uses Harvard Architecture.                                                                                                         | It uses Von Neumann Architecture.                                                                           |
+| It’s system cost is low.                                                                                                              | It’s system cost is high.                                                                                   |
+| Each instruction needs an internal operation.                                                                                         | Each instruction needs an external operation.                                                               |
+| For Example- Television.                                                                                                              | For Example- Personal Computers.                                                                            |
