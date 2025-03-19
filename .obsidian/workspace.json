@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOT/Unit 2/Embedded Platform in IoT - 2.md",
+                "file": "IOT/Unit 3/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Embedded Platform in IoT - 2"
+              "title": "Untitled"
             }
           }
         ]
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IOT/Unit 2/Embedded Platform in IoT - 2.md",
+                "file": "IOT/Unit 3/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Embedded Platform in IoT - 2"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -244,8 +244,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "IOT/Unit 2/Embedded Platform in IoT - 1.md",
     "IOT/Unit 2/Embedded Platform in IoT - 2.md",
+    "IOT/Unit 3/Untitled.md",
+    "IOT/Unit 3",
+    "IOT/Unit 2/Embedded Platform in IoT - 1.md",
     "Dashboard.canvas",
     "IOT/Unit 2/Hardware of IoT - 2.md",
     "conflict-files-obsidian-git.md",
@@ -278,10 +280,8 @@
     "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 1 Rectangular Star Pattern.md",
     "Data_Structure/DSA Questions Striver/LinkedLIst",
     "React/Introduction.md",
-    "Data_Structure/LinkedList/Issues_linkedList.md",
     "RayLib",
     "Data_Structure/DSA Questions Striver/Random/a.cpp",
-    "Data_Structure/pr.cpp",
     "Images From Vault/Pasted image 20250131000949.png",
     "Images From Vault/Pasted image 20250131000840.png",
     "Images From Vault/Pasted image 20250131000705.png",
