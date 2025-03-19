@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOT/Unit 2/Embedded Platform in IoT - 1.md",
+                "file": "IOT/Unit 2/Embedded Platform in IoT - 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Embedded Platform in IoT - 1"
+              "title": "Embedded Platform in IoT - 2"
             }
           }
         ]
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IOT/Unit 2/Embedded Platform in IoT - 1.md",
+                "file": "IOT/Unit 2/Embedded Platform in IoT - 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Embedded Platform in IoT - 1"
+              "title": "Graph of Embedded Platform in IoT - 2"
             }
           }
         ]
@@ -244,8 +244,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Dashboard.canvas",
     "IOT/Unit 2/Embedded Platform in IoT - 1.md",
+    "IOT/Unit 2/Embedded Platform in IoT - 2.md",
+    "Dashboard.canvas",
     "IOT/Unit 2/Hardware of IoT - 2.md",
     "conflict-files-obsidian-git.md",
     "IOT/ONLINE CLIPPING/Working Principle of RFID - GFG.md",
