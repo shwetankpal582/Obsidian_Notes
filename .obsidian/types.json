@@ -25,6 +25,7 @@
     "excalidraw-open-md": "checkbox",
     "Date": "text",
     "Topics": "multitext",
-    "Topic": "multitext"
+    "Topic": "multitext",
+    "unit": "number"
   }
 }

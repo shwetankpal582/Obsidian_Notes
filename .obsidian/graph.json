@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#blockchain",
@@ -29,16 +29,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1.1,
   "nodeSizeMultiplier": 0.958181818181818,
   "lineSizeMultiplier": 1.16763636363636,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.422115027829314,
   "repelStrength": 9.33471933471933,
   "linkStrength": 1,
   "linkDistance": 169,
-  "scale": 0.08360342656931834,
+  "scale": 0.23038395282345675,
   "close": true
 }
