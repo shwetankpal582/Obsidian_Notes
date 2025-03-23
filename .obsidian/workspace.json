@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IOT/Unit 2/Embedded Platform in IoT - 1.md",
+                "file": "Operating System/Unit 1/Threads.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Embedded Platform in IoT - 1"
+              "title": "Outline of Threads"
             }
           },
           {
@@ -174,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "7adbd2b5b537d732",
@@ -242,7 +242,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "da2948d3514b995f",
   "lastOpenFiles": [
     "Operating System/Unit 1/Introduction to operating System.md",
     "Operating System/Unit 1/Threads.md",
