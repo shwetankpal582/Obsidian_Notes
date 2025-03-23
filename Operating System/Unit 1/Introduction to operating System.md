@@ -97,3 +97,10 @@ A process is in one of the following states: 
 - **Suspended Block:** When the waiting queue becomes full.
 
 ![process-states](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2015/06/process-states1.png)
+
+## Types of Process
+
+Let us first talk about types of types of processes.
+
+- **Independent process:** An independent process is not affected by the execution of other processes. Independent processes are processes that do not share any data or resources with other processes. No inte-process communication required here.
+- **Co-operating process:** Interact with each other and share data or resources. A co-operating process can be affected by other executing processes. Inter-process communication (IPC) is a mechanism that allows processes to communicate with each other and synchronize their actions. The communication between these processes can be seen as a method of cooperation between them.

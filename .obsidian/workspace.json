@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Unit 1/Threads.md",
+                "file": "Operating System/Unit 1/Introduction to operating System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Threads"
+              "title": "Introduction to operating System"
             }
           }
         ]
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Unit 1/Threads.md",
+                "file": "Operating System/Unit 1/Introduction to operating System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Threads"
+              "title": "Outline of Introduction to operating System"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Operating System/Unit 1/Threads.md",
+                "file": "Operating System/Unit 1/Introduction to operating System.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Threads"
+              "title": "Graph of Introduction to operating System"
             }
           }
         ]
@@ -244,8 +244,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Operating System/Unit 1/Introduction to operating System.md",
     "Operating System/Unit 1/Threads.md",
+    "Operating System/Unit 1/Introduction to operating System.md",
     "Dashboard.canvas",
     "conflict-files-obsidian-git.md",
     "Images From Vault/Pasted image 20250323192837.png",
