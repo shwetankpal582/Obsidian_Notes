@@ -84,3 +84,16 @@ A **process** has several important attributes that help the operating system 
 6. **Accounting Information**: Tracks how long the process has run, the amount of CPU time used, and other resource usage data.
 7. **Memory Management Information**: Details about the memory space allocated to the process, including where it is loaded in memory and the structure of its memory layout (stack, heap, etc.).
 
+## **States of Process**
+
+A process is in one of the following states: 
+
+- **New:** Newly Created Process (or) being-created process.
+- **Ready:** After the creation process moves to the Ready state, i.e. the process is ready for execution.
+- **Running:** Currently running process in CPU (only one process at a time can be under execution in a single processor).
+- **Wait (or Block):** When a process requests I/O access.
+- **Complete (or Terminated):** The process completed its execution.
+- **Suspended Ready:** When the ready queue becomes full, some processes are moved to a suspended ready state
+- **Suspended Block:** When the waiting queue becomes full.
+
+![process-states](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2015/06/process-states1.png)

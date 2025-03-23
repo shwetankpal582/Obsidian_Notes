@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Unit 1/Introduction to operating System.md",
+                "file": "Operating System/Unit 1/Threads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to operating System"
+              "title": "Threads"
             }
           }
         ]
@@ -181,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Operating System/Unit 1/Introduction to operating System.md",
+                "file": "Operating System/Unit 1/Threads.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,7 +209,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Introduction to operating System"
+              "title": "Graph of Threads"
             }
           }
         ]
@@ -239,6 +239,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Operating System/Unit 1/Introduction to operating System.md",
+    "Operating System/Unit 1/Threads.md",
+    "Operating System/Unit 1/Untitled",
     "Images From Vault/Pasted image 20250323192837.png",
     "Dashboard.canvas",
     "conflict-files-obsidian-git.md",
@@ -273,10 +276,8 @@
     "Data_Structure/Sorting/Selection Sort.md",
     "Data_Structure/array/Operations in Array.md",
     "Templates/T1.md",
-    "Data_Structure/DSA Questions Striver/Step 1  Learn the basics/Lec 2 Pattern/Pattern 1 Rectangular Star Pattern.md",
     "Data_Structure/DSA Questions Striver/LinkedLIst",
     "RayLib",
-    "Data_Structure/DSA Questions Striver/Random/a.cpp",
     "Images From Vault/Pasted image 20250131000949.png",
     "Images From Vault/Pasted image 20250131000840.png",
     "Images From Vault/Pasted image 20250131000705.png",
