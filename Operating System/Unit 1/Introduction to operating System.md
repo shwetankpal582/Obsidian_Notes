@@ -67,3 +67,19 @@ The OS uses storage management for:
 - Improving the performance of the data storage resources.
 - It optimizes the use of various storage devices.
 - Assists businesses in storing more data on existing hardware, speeding up the data retrieval process, preventing data loss, meeting data retention regulations, and lowering IT costs
+
+## Processes
+A process is a program in execution. For example, when we write a program in C or C++ and compile it, the compiler creates binary code.
+![[Pasted image 20250323192837.png]]
+
+## Attributes of a Process
+
+A **process** has several important attributes that help the operating system manage and control it. These attributes are stored in a structure called the [**Process Control Block (PCB)**](https://www.geeksforgeeks.org/process-control-block-in-os/) (sometimes called a task control block). The PCB keeps all the key information about the process, including:
+
+1. **Process ID (PID)**: A unique number assigned to each process so the operating system can identify it.
+2. [****Process State****](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/): This shows the current status of the process, like whether it is running, waiting, or ready to execute.
+3. ****Priority and other CPU Scheduling Information****: Data that helps the operating system decide which process should run next, like priority levels and pointers to scheduling queues.
+4. ****I/O Information****: Information about input/output devices the process is using.
+5. ****File Descriptors:**** Information about open files files and network connections.
+6. ****Accounting Information****: Tracks how long the process has run, the amount of CPU time used, and other resource usage data.
+7. ****Memory Management Information****: Details about the memory space allocated to the process, including where it is loaded in memory and the structure of its memory layout (stack, heap, etc.).
