@@ -28,3 +28,12 @@ These are the basic components of the Operating System.
 - **Register Set:** Hold temporary data and intermediate results for the thread’s execution.
 
 - **Program Counter:** Tracks the current instruction being executed by the thread
+
+## **Types of Thread in Operating System**
+
+Threads are of two types. These are described below.
+
+- User Level Thread 
+- Kernel Level Thread
+
+![threads|500](https://media.geeksforgeeks.org/wp-content/uploads/20240226115304/Threads.png)
