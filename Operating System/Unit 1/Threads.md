@@ -52,3 +52,19 @@ User Level Thread is a type of thread that is not created using system calls. Th
 - The operating system is unaware of user-level threads, so kernel-level optimizations, like load balancing across CPUs, are not utilized.
 - If a user-level thread makes a blocking system call, the entire process (and all its threads) is blocked, reducing efficiency.
 - User-level thread scheduling is managed by the application, which can become complex and may not be as optimized as kernel-level scheduling.
+### 2. Kernel Level Threads
+
+A kernel level thread is a type of thread that can recognize the Operating system easily. Kernel Level Threads has its own thread table where it keeps track of the system. The operating System Kernel helps in managing threads. Kernel Threads have somehow longer context switching time. Kernel helps in the management of threads.
+### **Advantages of Kernel-Level Threads**
+
+- Kernel-level threads can run on multiple processors or cores simultaneously, enabling better utilization of multicore systems.
+- The kernel is aware of all threads, allowing it to manage and schedule them effectively across available resources.
+- Applications that block frequency are to be handled by the Kernel-Level Threads.
+- The kernel can distribute threads across CPUs, ensuring optimal load balancing and system performance.
+
+### **Disadvantages of Kernel-Level threads**
+
+- Context switching between kernel-level threads is slower compared to user-level threads because it requires mode switching between user and kernel space.
+- Managing kernel-level threads involves frequent system calls and kernel interactions, leading to increased CPU overhead.
+- A large number of threads may overload the kernel scheduler, leading to potential performance degradation in systems with many threads.
+- Implementation of this type of thread is a little more complex than a user-level thread.
