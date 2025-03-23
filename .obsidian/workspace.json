@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "IOT/Unit 2/Hardware of IoT - 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
+                }
               },
-              "icon": "lucide-file",
-              "title": "Hardware of IoT - 2"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -181,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IOT/Unit 2/Hardware of IoT - 2.md",
+                "file": "Dashboard.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,7 +212,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Hardware of IoT - 2"
+              "title": "Graph of Dashboard"
             }
           }
         ]
@@ -237,13 +240,13 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e2c39698c76dbdc8",
   "lastOpenFiles": [
+    "IOT/Unit 2/Hardware of IoT - 2.md",
     "IOT/Unit 2/Hardware of IoT - 1.md",
     "IOT/ONLINE CLIPPING/Working Principle of RFID - GFG.md",
     "IOT/ONLINE CLIPPING/Sensors in Internet of Things(IoT) - GeeksforGeeks.md",
     "IOT/ONLINE CLIPPING/Types of Communications in IOT - GeeksforGeeks.md",
-    "IOT/Unit 2/Hardware of IoT - 2.md",
     "Clippings",
     "IOT/Unit 1/Design Principles for Connected Devices - 1.md",
     "IOT/Unit 1/Design Principles for Connected Device - 2.md",
