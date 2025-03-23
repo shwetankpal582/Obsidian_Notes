@@ -5,6 +5,8 @@ tags:
 Date: 2025 - 03 - 06
 Topic:
   - Threads introduction
+  - Types of Threads
+  - Multi-thread
 Subject: Operating System
 unit: 0
 ---
@@ -68,3 +70,8 @@ A kernel level thread is a type of thread that can recognize the Operating sys
 - Managing kernel-level threads involves frequent system calls and kernel interactions, leading to increased CPU overhead.
 - A large number of threads may overload the kernel scheduler, leading to potential performance degradation in systems with many threads.
 - Implementation of this type of thread is a little more complex than a user-level thread.
+
+## **What is Multi-Threading?** 
+
+A thread is also known as a lightweight process. The idea is to achieve parallelism by dividing a process into multiple threads. For example, in a browser, multiple tabs can be different threads. MS Word uses multiple threads: one thread to format the text, another thread to process inputs, etc.
+![MultiThreading](https://media.geeksforgeeks.org/wp-content/uploads/20240226114918/Screenshot-from-2024-02-26-11-48-56-768.png)
