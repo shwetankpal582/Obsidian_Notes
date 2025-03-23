@@ -75,3 +75,20 @@ A kernel level thread is a type of thread that can recognize the Operating sys
 
 A thread is also known as a lightweight process. The idea is to achieve parallelism by dividing a process into multiple threads. For example, in a browser, multiple tabs can be different threads. MS Word uses multiple threads: one thread to format the text, another thread to process inputs, etc.
 ![MultiThreading](https://media.geeksforgeeks.org/wp-content/uploads/20240226114918/Screenshot-from-2024-02-26-11-48-56-768.png)
+**Multithreading can be done without OS support**, as seen in Java’s multithreading model. In Java, threads are implemented using the Java Virtual Machine (JVM), which provides its own thread management. These threads, also called user-level threads, are managed independently of the underlying operating system.
+
+Application itself manages the creation, scheduling, and execution of threads without relying on the operating system’s kernel. The application contains a threading library that handles thread creation, scheduling, and context switching. The operating system is unaware of User-Level threads and treats the entire process as a single-threaded entity.
+
+## Benefits of Thread in Operating System
+
+- **Responsiveness:** If the process is divided into multiple threads, if one thread completes its execution, then its output can be immediately returned.
+
+- **Faster context switch:** Context switch time between threads is lower compared to the process context switch. Process context switching requires more overhead from the CPU. 
+
+- **Effective utilization of multiprocessor system:** If we have multiple threads in a single process, then we can schedule multiple threads on multiple processors. This will make process execution faster. 
+
+- **Resource sharing**_****:****_ Resources like code, data, and files can be shared among all threads within a process. Note: Stacks and registers can’t be shared among the threads. Each thread has its own stack and registers. 
+
+- **Communication: Communication between multiple threads is easier, as the threads share a common address space. while in the process we have to follow some specific communication techniques for communication between the two processes. 
+
+- **Enhanced throughput of the system:** If a process is divided into multiple threads, and each thread function is considered as one job, then the number of jobs completed per unit of time is increased, thus increasing the throughput of the system.
