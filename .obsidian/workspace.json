@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "Operating System/Unit 1/Introduction to operating System.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Introduction to operating System"
             }
           }
         ]
@@ -184,7 +181,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "Operating System/Unit 1/Introduction to operating System.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +209,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dashboard"
+              "title": "Graph of Introduction to operating System"
             }
           }
         ]
@@ -242,8 +239,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Dashboard.canvas",
+    "conflict-files-obsidian-git.md",
     "IOT/Unit 3/Network & Communication Aspects in IoT.md",
     "IOT/Unit 3",
     "IOT/Unit 2/Embedded Platform in IoT - 2.md",

@@ -6,3 +6,4 @@ Topic:
   - Introduction and Functions of Operating system
 Subject: Operating System
 ---
+# Main function 
