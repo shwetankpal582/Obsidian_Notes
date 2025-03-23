@@ -39,3 +39,14 @@ unit: 1
 
 ## Modified OSI Model for the IoT/M2M systems
 ![[IOT-Drawings.excalidraw#^group=xaATf17WnrPwCcLwg6HX3|500]]
+
+## Communication Technology
+**IoT Communication:** IoT is the connection of devices over the internet, where these smart devices communicate with each other , exchange data , perform some tasks without any human involvement. These devices are embedded with electronics, software, network and sensors which help in communication. Communication between smart devices is very important in IOT as it  enables these devices to gather, exchange data which contribute in success of that IOT product/project.
+
+#### Types of Communication Technology:
+1. **Human to Machine(H2M)[[Types of Communications in IOT - GeeksforGeeks#^b58da5|go]]**
+2. **Machine to Machine(M2M)**
+3. **Machine to Human(M2H)**
+4. **Human to Human(H2H)**
+
+[[Types of Communications in IOT - GeeksforGeeks| Types of communication]]
