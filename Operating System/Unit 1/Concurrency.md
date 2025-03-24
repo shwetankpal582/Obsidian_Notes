@@ -18,3 +18,4 @@ There are several motivations for allowing concurrent execution:
 - **Logical resource Sharing:** Shared file (same piece of information)
 - **Computation Speedup:** Parallel execution
 - **Modularity:** Divide system functions into separation processes
+
