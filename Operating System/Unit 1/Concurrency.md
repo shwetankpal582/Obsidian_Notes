@@ -12,3 +12,9 @@ Concurrency in operating systems refers to the capability of an OS to handle mor
 ## What is Concurrency in OS?
 
 Concurrency in an OS refers to the ability to execute multiple processes or threads simultaneously, improving resource utilization and system efficiency. It allows several tasks to be in progress at the same time, either by running on separate processors or through context switching on a single processor.
+There are several motivations for allowing concurrent execution:
+
+- **Physical resource Sharing:** Multiuser environment since hardware resources are limited
+- **Logical resource Sharing:** Shared file (same piece of information)
+- **Computation Speedup:** Parallel execution
+- **Modularity:** Divide system functions into separation processes
