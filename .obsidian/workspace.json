@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.6355507994888143
-                }
+                "file": "Operating System/Unit 1/Concurrency.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Concurrency"
             }
           }
         ]
@@ -142,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "Operating System/Unit 1/Concurrency.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of Concurrency"
             }
           },
           {
@@ -189,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "Operating System/Unit 1/Concurrency.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dashboard"
+              "title": "Graph of Concurrency"
             }
           }
         ]
@@ -247,10 +244,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.canvas",
+    "Operating System/Unit 1/Concurrency.md",
     "Operating System/Unit 1/Inter Process.md",
     "Operating System/Unit 1/Introduction to operating System.md",
     "Operating System/Unit 1/Threads.md",
-    "Dashboard.canvas",
     "conflict-files-obsidian-git.md",
     "Images From Vault/Pasted image 20250323192837.png",
     "IOT/Unit 3/Network & Communication Aspects in IoT.md",
@@ -281,8 +279,6 @@
     "Data_Structure/DSA Questions Striver/LinkedLIst/Inserting a node in LInkedList.md",
     "Data_Structure/DSA Questions Striver/LinkedLIst/Intro to LinkedList.md",
     "Data_Structure/Sorting/Merge Sorting.md",
-    "Data_Structure/Sorting/Selection Sort.md",
-    "Data_Structure/array/Operations in Array.md",
     "Data_Structure/DSA Questions Striver/LinkedLIst",
     "RayLib",
     "Data_Structure/DSA Questions Striver/Random/a.cpp",
