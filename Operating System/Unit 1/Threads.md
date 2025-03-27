@@ -92,3 +92,4 @@ Application itself manages the creation, scheduling, and execution of threads wi
 - **Communication:** Communication between multiple threads is easier, as the threads share a common address space. while in the process we have to follow some specific communication techniques for communication between the two processes. 
 
 - **Enhanced throughput of the system:** If a process is divided into multiple threads, and each thread function is considered as one job, then the number of jobs completed per unit of time is increased, thus increasing the throughput of the system.
+- 
