@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/2.0 Introduction to Artificial Neural Network (ANN).md",
+                "file": "IOT/Unit 1/Design Principles for Connected Device - 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.0 Introduction to Artificial Neural Network (ANN)"
+              "title": "Design Principles for Connected Device - 2"
             }
           }
         ],
@@ -210,11 +210,11 @@
   },
   "active": "be3e8091d6f261ab",
   "lastOpenFiles": [
+    "Deep Learning/2.0 Introduction to Artificial Neural Network (ANN).md",
     "IOT/Unit 1/Internet of Things-2.md",
     "Deep Learning/2.3 Convolution Neural Networks.md",
     "conflict-files-obsidian-git.md",
     "Dashboard.canvas",
-    "Deep Learning/2.0 Introduction to Artificial Neural Network (ANN).md",
     "Deep Learning/2.1 Deep VS Shallow.md",
     "Images From Vault/Pasted image 20250402060703.png",
     "Work To Do.md",
