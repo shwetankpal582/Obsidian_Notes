@@ -6,7 +6,9 @@ kanban-plugin: board
 
 ## To Do Shwetank
 
-- [ ] Complete DSA Question
+- [ ] CNN
+- [ ] 2 dsa question
+- [ ] exercise
 
 
 ## To Do Shivam
