@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "2.3 Convolution Neural Networks"
             }
-          },
-          {
-            "id": "1575053455a91f0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,10 +208,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "1575053455a91f0c",
+  "active": "be3e8091d6f261ab",
   "lastOpenFiles": [
-    "Deep Learning/2.3 Convolution Neural Networks.md",
     "conflict-files-obsidian-git.md",
+    "Deep Learning/2.3 Convolution Neural Networks.md",
     "Dashboard.canvas",
     "Deep Learning/2.0 Introduction to Artificial Neural Network (ANN).md",
     "Deep Learning/2.1 Deep VS Shallow.md",
