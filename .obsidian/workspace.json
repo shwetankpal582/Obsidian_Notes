@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Operating System/Unit 1/Intro To Process Synchronization.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.6355507994888143
+                }
               },
-              "icon": "lucide-file",
-              "title": "Intro To Process Synchronization"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -139,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating System/Unit 1/Intro To Process Synchronization.md",
+                "file": "Dashboard.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro To Process Synchronization"
+              "title": "Outline of Dashboard"
             }
           },
           {
@@ -186,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Operating System/Unit 1/Intro To Process Synchronization.md",
+                "file": "Dashboard.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Intro To Process Synchronization"
+              "title": "Graph of Dashboard"
             }
           }
         ]
@@ -244,9 +247,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Operating System/Unit 1/Intro To Process Synchronization.md",
     "Operating System/Unit 1/Introduction to operating System.md",
     "Operating System/Unit 1/Concurrency.md",
-    "Operating System/Unit 1/Intro To Process Synchronization.md",
     "Dashboard.canvas",
     "Operating System/Unit 1/Inter Process.md",
     "Operating System/Unit 1/Threads.md",
