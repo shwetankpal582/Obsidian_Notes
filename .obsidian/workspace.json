@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "DWDM/1.0 Overview of DWDM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "1.0 Overview of DWDM"
             }
           }
         ]
@@ -142,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "DWDM/1.0 Overview of DWDM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of 1.0 Overview of DWDM"
             }
           },
           {
@@ -189,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "DWDM/1.0 Overview of DWDM.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dashboard"
+              "title": "Graph of 1.0 Overview of DWDM"
             }
           }
         ]
@@ -247,6 +244,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.canvas",
     "DWDM/1.6 Metadata in the data warehouse..md",
     "DWDM/1.5 Three Tier  Architecture.md",
     "DWDM/1.4 Overview of the components.md",
@@ -255,7 +253,6 @@
     "DWDM/1.1  Difference between Database System and Data Warehouse.md",
     "DWDM/1.0 Overview of DWDM.md",
     "Deep Learning/2.1 Deep VS Shallow.md",
-    "Dashboard.canvas",
     "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
     "DWDM",
     "IOT/Unit 2/2 - Hardware of IoT.md",
@@ -283,7 +280,6 @@
     "Images From Vault/Pasted image 20250323192837.png",
     "IOT/Unit 3/Network & Communication Aspects in IoT.md",
     "IOT/Unit 3",
-    "IOT/ONLINE CLIPPING/Working Principle of RFID - GFG.md",
     "IOT/Unit 2",
     "IOT/ONLINE CLIPPING",
     "Clippings",
