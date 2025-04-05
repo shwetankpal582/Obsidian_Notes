@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 460.5
   },
   "right": {
     "id": "961abd7cc7f024ba",
@@ -149,38 +149,6 @@
             }
           },
           {
-            "id": "a0d8c8414bb9d12f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "66d488b8379d178e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "7adbd2b5b537d732",
-        "type": "tabs",
-        "children": [
-          {
             "id": "12ad2e29544ff9d9",
             "type": "leaf",
             "state": {
@@ -209,19 +177,45 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4926162169190109,
+                  "scale": 0.2532289703248752,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
               "title": "Graph of 1.0 Overview of DWDM"
             }
+          },
+          {
+            "id": "a0d8c8414bb9d12f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "66d488b8379d178e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
