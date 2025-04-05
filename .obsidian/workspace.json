@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DWDM/Untitled.md",
+                "file": "DWDM/1.3 Data warehouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "1.3 Data warehouse"
             }
           }
         ]
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DWDM/Untitled.md",
+                "file": "DWDM/1.3 Data warehouse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 1.3 Data warehouse"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DWDM/Untitled.md",
+                "file": "DWDM/1.3 Data warehouse.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of 1.3 Data warehouse"
             }
           }
         ]
@@ -244,8 +244,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "DWDM/1.2 The Compelling Need for data warehousing.md",
+    "DWDM/1.3 Data warehouse.md",
+    "DWDM/1.1  Difference between Database System and Data Warehouse.md",
+    "DWDM/1.0 Overview of DWDM.md",
     "Deep Learning/2.1 Deep VS Shallow.md",
-    "DWDM/Untitled.md",
     "Dashboard.canvas",
     "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
     "DWDM",
@@ -281,10 +284,7 @@
     "IOT/ONLINE CLIPPING/Types of Communications in IOT - GeeksforGeeks.md",
     "IOT/ONLINE CLIPPING",
     "Clippings",
-    "Data_Structure/SpaceAndTime/Calculating Time Complexity.md",
-    "Excalidraw/IOT-Drawings.excalidraw.md",
     "IOT/Unit 1",
-    "Excalidraw/Drawing 2025-03-06 17.55.32.excalidraw.md",
     "Images From Vault/Pasted image 20250306175554.png",
     "IOT",
     "College Subjects",
