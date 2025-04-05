@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DWDM/1.5 Three Tier  Architecture.md",
+                "file": "DWDM/1.6 Metadata in the data warehouse..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5 Three Tier  Architecture"
+              "title": "1.6 Metadata in the data warehouse."
             }
           }
         ]
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DWDM/1.5 Three Tier  Architecture.md",
+                "file": "DWDM/1.6 Metadata in the data warehouse..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.5 Three Tier  Architecture"
+              "title": "Outline of 1.6 Metadata in the data warehouse."
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DWDM/1.5 Three Tier  Architecture.md",
+                "file": "DWDM/1.6 Metadata in the data warehouse..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1.5 Three Tier  Architecture"
+              "title": "Graph of 1.6 Metadata in the data warehouse."
             }
           }
         ]
@@ -244,8 +244,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "DWDM/1.4 Overview of the components.md",
     "DWDM/1.5 Three Tier  Architecture.md",
+    "DWDM/1.6 Metadata in the data warehouse..md",
+    "DWDM/1.4 Overview of the components.md",
     "DWDM/1.3 Data warehouse - The building Blocks.md",
     "DWDM/1.2 The Compelling Need for data warehousing.md",
     "DWDM/1.1  Difference between Database System and Data Warehouse.md",
@@ -280,7 +281,6 @@
     "IOT/Unit 3/Network & Communication Aspects in IoT.md",
     "IOT/Unit 3",
     "IOT/ONLINE CLIPPING/Working Principle of RFID - GFG.md",
-    "Clippings/Analog Sensors Vs. Digital Sensors - IoTEDU.md",
     "IOT/Unit 2",
     "IOT/ONLINE CLIPPING",
     "Clippings",
