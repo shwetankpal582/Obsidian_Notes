@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "1.1 Introduction to Artificial Neural Network (ANN)"
             }
           }
         ]
@@ -260,9 +257,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Deep Learning/2.1 Deep VS Shallow.md",
+    "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
+    "Dashboard.canvas",
     "DWDM/1.0 Overview of DWDM.md",
     "DWDM/1.1  Difference between Database System and Data Warehouse.md",
-    "Dashboard.canvas",
     "conflict-files-obsidian-git.md",
     "Images From Vault/Pasted image 20250405221039.png",
     "Images From Vault/Pasted image 20250405183835.png",
@@ -271,8 +270,6 @@
     "DWDM/1.4 Overview of the components.md",
     "DWDM/1.3 Data warehouse - The building Blocks.md",
     "DWDM/1.2 The Compelling Need for data warehousing.md",
-    "Deep Learning/2.1 Deep VS Shallow.md",
-    "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
     "DWDM",
     "IOT/Unit 2/2 - Hardware of IoT.md",
     "Images From Vault/Pasted image 20250403210248.png",
