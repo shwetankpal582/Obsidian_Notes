@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DWDM/1.0 Overview of DWDM.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
+                }
               },
-              "icon": "lucide-file",
-              "title": "1.0 Overview of DWDM"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -257,10 +260,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "DWDM/1.0 Overview of DWDM.md",
     "DWDM/1.1  Difference between Database System and Data Warehouse.md",
     "Dashboard.canvas",
     "conflict-files-obsidian-git.md",
-    "DWDM/1.0 Overview of DWDM.md",
     "Images From Vault/Pasted image 20250405221039.png",
     "Images From Vault/Pasted image 20250405183835.png",
     "DWDM/1.6 Metadata in the data warehouse..md",
