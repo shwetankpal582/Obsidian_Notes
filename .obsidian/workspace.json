@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/2.0 Deep Learning.md",
+                "file": "Deep Learning/2.1 Deep VS Shallow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.0 Deep Learning"
+              "title": "2.1 Deep VS Shallow"
             }
           }
         ]
@@ -257,8 +257,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
     "Deep Learning/2.0 Deep Learning.md",
+    "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
     "Images From Vault/Pasted image 20250412233237.png",
     "DWDM/1.3 Data warehouse - The building Blocks.md",
     "DWDM/1.2 The Compelling Need for data warehousing.md",
