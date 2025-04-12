@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
+                "file": "Deep Learning/2.0 Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Introduction to Artificial Neural Network (ANN)"
+              "title": "2.0 Deep Learning"
             }
           }
         ]
@@ -257,13 +257,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
+    "Deep Learning/2.0 Deep Learning.md",
     "Images From Vault/Pasted image 20250412233237.png",
     "DWDM/1.3 Data warehouse - The building Blocks.md",
     "DWDM/1.2 The Compelling Need for data warehousing.md",
     "DWDM/1.1  Difference between Database System and Data Warehouse.md",
     "DWDM/1.0 Overview of DWDM.md",
     "Dashboard.canvas",
-    "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
     "Deep Learning/2.1 Deep VS Shallow.md",
     "conflict-files-obsidian-git.md",
     "Images From Vault/Pasted image 20250405221039.png",
@@ -303,7 +304,6 @@
     "Images From Vault/Pasted image 20250306175554.png",
     "IOT",
     "College Subjects",
-    "Images From Vault/Pasted image 20250131000949.png",
     "Data_Structure/index.canvas",
     "Untitled.canvas"
   ]
