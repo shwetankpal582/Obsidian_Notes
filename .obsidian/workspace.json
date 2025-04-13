@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Deep Learning/2.3 Convolution Neural Networks.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
+                }
               },
-              "icon": "lucide-file",
-              "title": "2.3 Convolution Neural Networks"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -257,6 +260,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Deep Learning/2.3 Convolution Neural Networks.md",
     "Images From Vault/Pasted image 20250413132221.png",
     "Deep Learning/2.1 Deep VS Shallow.md",
     "Deep Learning/2.0 Deep Learning.md",
@@ -289,7 +293,6 @@
     "Operating System/Unit 1/Threads.md",
     "React",
     "Images From Vault/Pasted image 20250402060703.png",
-    "Deep Learning/2.3 Convolution Neural Networks.md",
     "Deep Learning",
     "Operating System/Unit 1/Intro To Process Synchronization.md",
     "Operating System/Unit 1/Introduction to operating System.md",
@@ -301,7 +304,6 @@
     "IOT/ONLINE CLIPPING",
     "Clippings",
     "IOT/Unit 1",
-    "Images From Vault/Pasted image 20250306175554.png",
     "IOT",
     "College Subjects",
     "Data_Structure/index.canvas",
