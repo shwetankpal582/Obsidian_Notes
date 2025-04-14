@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "Deep Learning/2.3 Convolution Neural Networks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "2.3 Convolution Neural Networks"
             }
           }
         ]
@@ -260,8 +257,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Dashboard.canvas",
+    "conflict-files-obsidian-git.md",
     "SQL/SQL.md",
     "SQL/SQL Syntax.md",
     "SQL/1. SQL COMMANDS.md",
