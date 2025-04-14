@@ -17,11 +17,32 @@
                 "viewState": {
                   "x": 160,
                   "y": 720,
+<<<<<<< HEAD
                   "zoom": -1.6355507994888143
+=======
+                  "zoom": -1.8861509229637765
+>>>>>>> origin/main
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Dashboard"
+<<<<<<< HEAD
+=======
+            }
+          },
+          {
+            "id": "cc881c62ae9ddc45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+>>>>>>> origin/main
             }
           }
         ]
@@ -90,6 +111,7 @@
       {
         "id": "0997156717389e1b",
         "type": "tabs",
+        "dimension": 41.78921568627451,
         "children": [
           {
             "id": "b19deef6e09b88cf",
@@ -123,6 +145,19 @@
             }
           },
           {
+            "id": "a0d8c8414bb9d12f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
             "id": "d515bf26ce4832c5",
             "type": "leaf",
             "state": {
@@ -141,6 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "Dashboard.canvas",
                 "followCursor": false,
@@ -164,6 +200,11 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+=======
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+>>>>>>> origin/main
             }
           },
           {
@@ -177,14 +218,15 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
-        "id": "7adbd2b5b537d732",
+        "id": "f643bf75a23e090f",
         "type": "tabs",
+        "dimension": 58.2107843137255,
         "children": [
           {
-            "id": "12ad2e29544ff9d9",
+            "id": "7e9b0f3049ef8a69",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -196,7 +238,7 @@
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": false,
@@ -212,7 +254,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4926162169190109,
+                  "scale": 0.5087618855792587,
                   "close": true
                 }
               },
@@ -245,55 +287,59 @@
       "dbfolder:Create a new database table": false
     }
   },
+<<<<<<< HEAD
   "active": "e7a7b303c61786dc",
+=======
+  "active": "cc881c62ae9ddc45",
+>>>>>>> origin/main
   "lastOpenFiles": [
-    "IOT/Unit 2/2 - Hardware of IoT.md",
+    "Dashboard.canvas",
     "conflict-files-obsidian-git.md",
+    "Images From Vault/Pasted image 20250413132221.png",
+    "Images From Vault/Pasted image 20250412233237.png",
+    "Deep Learning/2.0 Deep Learning.md",
+    "React",
+    "Images From Vault/Pasted image 20250405221039.png",
+    "Images From Vault/Pasted image 20250405183835.png",
     "Images From Vault/Pasted image 20250403210248.png",
     "Images From Vault/Pasted image 20250403210142.png",
     "Images From Vault/Pasted image 20250403204043.png",
     "Images From Vault/Pasted image 20250403203908.png",
-    "IOT/Unit 2/1 - Hardware of IoT.md",
+    "Images From Vault/Pasted image 20250402060703.png",
+    "IOT/Unit 2/2 - Hardware of IoT.md",
     "IOT/Unit 2/2 - Embedded Platform in IoT.md",
+    "IOT/Unit 2/1 - Hardware of IoT.md",
     "IOT/Unit 2/1 - Embedded Platform in IoT.md",
     "IOT/Unit 1/2 - Internet of Things.md",
+    "IOT/Unit 1/2 - Design Principles for Connected Device.md",
     "IOT/Unit 1/1 - Internet of Things.md",
     "IOT/Unit 1/1 - Design Principles for Connected Devices.md",
-    "IOT/Unit 1/2 - Design Principles for Connected Device.md",
-    "Operating System/Unit 1/Threads.md",
-    "Dashboard.canvas",
-    "React",
-    "Images From Vault/Pasted image 20250402060703.png",
     "Deep Learning/2.3 Convolution Neural Networks.md",
     "Deep Learning/2.1 Deep VS Shallow.md",
-    "Deep Learning/2.0 Introduction to Artificial Neural Network (ANN).md",
+    "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
     "Deep Learning",
-    "Operating System/Unit 1/Intro To Process Synchronization.md",
-    "Operating System/Unit 1/Introduction to operating System.md",
-    "Operating System/Unit 1/Concurrency.md",
-    "Operating System/Unit 1/Inter Process.md",
-    "Images From Vault/Pasted image 20250323192837.png",
-    "IOT/Unit 3/Network & Communication Aspects in IoT.md",
-    "IOT/Unit 3",
-    "IOT/ONLINE CLIPPING/Working Principle of RFID - GFG.md",
-    "Clippings/Analog Sensors Vs. Digital Sensors - IoTEDU.md",
-    "IOT/ONLINE CLIPPING/Sensors in Internet of Things(IoT) - GeeksforGeeks.md",
-    "IOT/Unit 2",
-    "IOT/ONLINE CLIPPING/Types of Communications in IOT - GeeksforGeeks.md",
-    "IOT/ONLINE CLIPPING",
-    "Clippings",
-    "Data_Structure/SpaceAndTime/Calculating Time Complexity.md",
-    "Excalidraw/IOT-Drawings.excalidraw.md",
-    "IOT/Unit 1",
-    "Excalidraw/Drawing 2025-03-06 17.55.32.excalidraw.md",
-    "Images From Vault/Pasted image 20250306175554.png",
-    "IOT",
-    "College Subjects",
-    "Data_Structure/DSA Questions Striver/LinkedLIst",
-    "Images From Vault/Pasted image 20250131000949.png",
-    "Images From Vault/Pasted image 20250131000840.png",
-    "Images From Vault/Pasted image 20250131000705.png",
+    "DWDM/1.6 Metadata in the data warehouse..md",
+    "DWDM/1.5 Three Tier  Architecture.md",
+    "DWDM/1.3 Data warehouse - The building Blocks.md",
+    "DWDM/1.4 Overview of the components.md",
+    "DWDM/1.1  Difference between Database System and Data Warehouse.md",
+    "DWDM/1.2 The Compelling Need for data warehousing.md",
+    "DWDM/1.0 Overview of DWDM.md",
+    "DWDM",
     "Data_Structure/index.canvas",
+    "Operating System/Unit 1/Introduction to operating System.md",
+    "Operating System/Unit 1/Intro To Process Synchronization.md",
+    "Operating System/Unit 1/Inter Process.md",
+    "Operating System/Unit 1/Concurrency.md",
+    "Operating System/Unit 1/Threads.md",
+    "Operating System/Unit 1/Untitled",
+    "Images From Vault/Pasted image 20250323192837.png",
+    "IOT/Unit 3",
+    "Clippings",
+    "IOT/Unit 2",
+    "IOT/ONLINE CLIPPING",
+    "IOT/Unit 1",
+    "IOT",
     "Untitled.canvas"
   ]
 }
