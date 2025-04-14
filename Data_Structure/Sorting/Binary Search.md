@@ -13,4 +13,7 @@ unit: 0
 
 ### Condition to apply binary search
 - The data structure must be sorted
-- Access to any element of the data structure take constant time
+- Access to any element of the data structure take constant time.
+
+### Binary Search Algorithm
+- Divide the search space into two halves by finding the middle o
