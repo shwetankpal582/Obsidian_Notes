@@ -11,19 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Shivam Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Data_Structure/Sorting/Binary Search.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Shivam Kanban"
+              "icon": "lucide-file",
+              "title": "Binary Search"
             }
           }
         ]
@@ -144,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shivam Kanban.md",
+                "file": "Data_Structure/Sorting/Binary Search.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shivam Kanban"
+              "title": "Outline of Binary Search"
             }
           },
           {
@@ -191,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Shivam Kanban.md",
+                "file": "Data_Structure/Sorting/Binary Search.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +214,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Shivam Kanban"
+              "title": "Graph of Binary Search"
             }
           }
         ]
@@ -250,8 +245,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
+    "Templates/T1.md",
+    "Data_Structure/Sorting/Binary Search.md",
     "Shivam Kanban.md",
+    "Untitled Kanban.md",
     "SQL/SQL.md",
     "SQL/Untitled Kanban.md",
     "SQL/1. SQL COMMANDS.md",
@@ -285,8 +282,6 @@
     "IOT/Unit 2/1 - Embedded Platform in IoT.md",
     "IOT/Unit 1/2 - Internet of Things.md",
     "IOT/Unit 1/1 - Internet of Things.md",
-    "IOT/Unit 1/1 - Design Principles for Connected Devices.md",
-    "IOT/Unit 1/2 - Design Principles for Connected Device.md",
     "React",
     "Images From Vault/Pasted image 20250402060703.png",
     "Deep Learning",
