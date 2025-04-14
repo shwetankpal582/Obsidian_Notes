@@ -27,4 +27,11 @@ Below is a selection from the customers table used in the examples:
 |3|Antonio Moreno Taquería|Antonio Moreno|Mataderos 2312|México D.F.|05023|Mexico|
 |4|Around the Horn|Thomas Hardy|120 Hanover Sq.|London|WA1 1DP|UK|
 |5|Berglunds snabbköp|Christina Berglund|Berguvsvägen 8|Luleå|S-958 22|Sweden|
-The table above contains five records (one for each customer) 
+The table above contains five records (one for each customer) and seven columns 
+
+
+- ! SQL keywords are NOT case sensitive: `select` is the same as `SELECT`
+
+
+> [!important] Semicolon after SQL required ?
+> Some database system require a semicolon at the end of the ea
