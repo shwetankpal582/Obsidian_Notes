@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data_Structure/array/Operations in Array.md",
+                "file": "SQL/SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operations in Array"
+              "title": "SQL"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "961abd7cc7f024ba",
@@ -139,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data_Structure/array/Operations in Array.md",
+                "file": "SQL/SQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Operations in Array"
+              "title": "Outline of SQL"
             }
           },
           {
@@ -186,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data_Structure/array/Operations in Array.md",
+                "file": "SQL/SQL.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,14 +215,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Operations in Array"
+              "title": "Graph of SQL"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,6 +246,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Data_Structure/array/Operations in Array.md",
+    "SQL/SQL.md",
+    "SQL",
     "Data_Structure/array/Arrays.md",
     "IOT/Unit 2/1 - Hardware of IoT.md",
     "Dashboard.canvas",
@@ -281,8 +286,6 @@
     "Deep Learning/2.0 Introduction to Artificial Neural Network (ANN).md",
     "Deep Learning",
     "Operating System/Unit 1/Intro To Process Synchronization.md",
-    "Operating System/Unit 1/Introduction to operating System.md",
-    "Operating System/Unit 1/Concurrency.md",
     "Images From Vault/Pasted image 20250323192837.png",
     "IOT/Unit 3",
     "IOT/Unit 2",
@@ -290,7 +293,6 @@
     "Clippings",
     "IOT/Unit 1",
     "IOT",
-    "College Subjects",
     "Data_Structure/index.canvas",
     "Untitled.canvas"
   ]
