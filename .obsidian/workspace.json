@@ -11,14 +11,18 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
-                "mode": "source",
-                "source": false
+                "file": "Shivam Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "1.1 Introduction to Artificial Neural Network (ANN)"
+              "icon": "lucide-trello",
+              "title": "Shivam Kanban"
             }
           }
         ]
@@ -78,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 300
   },
   "right": {
     "id": "961abd7cc7f024ba",
@@ -120,38 +124,6 @@
             }
           },
           {
-            "id": "da2948d3514b995f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "DWDM/1.0 Overview of DWDM.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 1.0 Overview of DWDM"
-            }
-          },
-          {
-            "id": "66d488b8379d178e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "81dd25e185bf8cec",
-        "type": "tabs",
-        "children": [
-          {
             "id": "d515bf26ce4832c5",
             "type": "leaf",
             "state": {
@@ -164,13 +136,22 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          }
-        ]
-      },
-      {
-        "id": "5862773a4783343c",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "da2948d3514b995f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shivam Kanban.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Shivam Kanban"
+            }
+          },
           {
             "id": "a0d8c8414bb9d12f",
             "type": "leaf",
@@ -185,11 +166,22 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "66d488b8379d178e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
-        "id": "60565bb9dd57df3c",
+        "id": "7adbd2b5b537d732",
         "type": "tabs",
         "children": [
           {
@@ -198,9 +190,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DWDM/1.0 Overview of DWDM.md",
+                "file": "Shivam Kanban.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -221,19 +213,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2532289703248752,
-                  "close": false
+                  "scale": 0.4926162169190109,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 1.0 Overview of DWDM"
+              "title": "Graph of Shivam Kanban"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -257,45 +249,46 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Deep Learning/2.3 Convolution Neural Networks.md",
+    "Untitled Kanban.md",
+    "Shivam Kanban.md",
+    "SQL/SQL.md",
+    "SQL/Untitled Kanban.md",
+    "SQL/1. SQL COMMANDS.md",
+    "SQL/SQL Syntax.md",
+    "Data_Structure/array/Operations in Array.md",
+    "SQL",
+    "Data_Structure/array/Arrays.md",
+    "IOT/Unit 2/1 - Hardware of IoT.md",
     "Dashboard.canvas",
     "conflict-files-obsidian-git.md",
-    "SQL/SQL.md",
-    "SQL/SQL Syntax.md",
-    "SQL/1. SQL COMMANDS.md",
-    "SQL",
     "Images From Vault/Pasted image 20250413132221.png",
-    "Deep Learning/2.1 Deep VS Shallow.md",
+    "Images From Vault/Pasted image 20250412233237.png",
+    "Images From Vault/Pasted image 20250405221039.png",
+    "Images From Vault/Pasted image 20250405183835.png",
     "Deep Learning/2.0 Deep Learning.md",
     "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
-    "Images From Vault/Pasted image 20250412233237.png",
+    "DWDM/1.6 Metadata in the data warehouse..md",
+    "DWDM/1.5 Three Tier  Architecture.md",
+    "DWDM/1.4 Overview of the components.md",
     "DWDM/1.3 Data warehouse - The building Blocks.md",
     "DWDM/1.2 The Compelling Need for data warehousing.md",
     "DWDM/1.1  Difference between Database System and Data Warehouse.md",
     "DWDM/1.0 Overview of DWDM.md",
-    "Images From Vault/Pasted image 20250405221039.png",
-    "Images From Vault/Pasted image 20250405183835.png",
-    "DWDM/1.6 Metadata in the data warehouse..md",
-    "DWDM/1.5 Three Tier  Architecture.md",
-    "DWDM/1.4 Overview of the components.md",
     "DWDM",
     "IOT/Unit 2/2 - Hardware of IoT.md",
     "Images From Vault/Pasted image 20250403210248.png",
     "Images From Vault/Pasted image 20250403210142.png",
     "Images From Vault/Pasted image 20250403204043.png",
     "Images From Vault/Pasted image 20250403203908.png",
-    "IOT/Unit 2/1 - Hardware of IoT.md",
     "IOT/Unit 2/2 - Embedded Platform in IoT.md",
     "IOT/Unit 2/1 - Embedded Platform in IoT.md",
     "IOT/Unit 1/2 - Internet of Things.md",
     "IOT/Unit 1/1 - Internet of Things.md",
     "IOT/Unit 1/1 - Design Principles for Connected Devices.md",
     "IOT/Unit 1/2 - Design Principles for Connected Device.md",
-    "Operating System/Unit 1/Threads.md",
     "React",
     "Images From Vault/Pasted image 20250402060703.png",
     "Deep Learning",
-    "Operating System/Unit 1/Intro To Process Synchronization.md",
     "Images From Vault/Pasted image 20250323192837.png",
     "IOT/Unit 3",
     "IOT/Unit 2",
