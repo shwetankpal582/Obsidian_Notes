@@ -5,6 +5,7 @@ tags:
 Date: 2025 - 04 - 14
 Topic:
   - SQL Syntax
+  - important commands in SQL
 Subject: database
 Code:
 ---
@@ -38,7 +39,7 @@ The table above contains five records (one for each customer) and seven columns
 > It is the standard way to separate each SQL statement in the database systems that allow more than one SQL statement to be executed in the same call to the server.
 ##  **Important SQL Commands**
 
-- `SELECT` - extracts data from a database
+- `SELECT` - extracts data from a database [[1. SQL COMMANDS]]
 - `UPDATE` - updates data in a database
 - `DELETE` - deletes data from a database
 - `INSERT INTO` - inserts new data into a database

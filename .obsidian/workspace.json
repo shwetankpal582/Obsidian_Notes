@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL Syntax.md",
-                "mode": "preview",
+                "file": "SQL/1. SQL COMMANDS.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Syntax"
+              "title": "1. SQL COMMANDS"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL Syntax.md",
+                "file": "SQL/1. SQL COMMANDS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SQL Syntax"
+              "title": "Outline of 1. SQL COMMANDS"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/SQL Syntax.md",
+                "file": "SQL/1. SQL COMMANDS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of SQL Syntax"
+              "title": "Graph of 1. SQL COMMANDS"
             }
           }
         ]
@@ -261,8 +261,9 @@
   },
   "active": "7f4577da2e096129",
   "lastOpenFiles": [
-    "SQL/SQL.md",
     "SQL/SQL Syntax.md",
+    "SQL/1. SQL COMMANDS.md",
+    "SQL/SQL.md",
     "Data_Structure/array/Operations in Array.md",
     "SQL",
     "Data_Structure/array/Arrays.md",
@@ -299,7 +300,6 @@
     "Images From Vault/Pasted image 20250402060703.png",
     "Deep Learning/2.3 Convolution Neural Networks.md",
     "Deep Learning/2.1 Deep VS Shallow.md",
-    "Deep Learning/2.0 Introduction to Artificial Neural Network (ANN).md",
     "Deep Learning",
     "Images From Vault/Pasted image 20250323192837.png",
     "IOT/Unit 3",
