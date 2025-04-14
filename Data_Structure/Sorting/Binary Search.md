@@ -19,4 +19,5 @@ unit: 0
 - Divide the search space into two halves by finding the middle index "mid".
 - Compare the middle element of the search space with the key.
 - If the key is found at middle element, the process is terminated.
-- If the key is not found at middle element, choose which half will be used as the next 
+- If the key is not found at middle element, choose which half will be used as the next search space.
+	- If the space 
