@@ -20,4 +20,6 @@ unit: 0
 - Compare the middle element of the search space with the key.
 - If the key is found at middle element, the process is terminated.
 - If the key is not found at middle element, choose which half will be used as the next search space.
-	- If the space 
+	- If the key is smaller than the middle element, then go for left search space.
+	- If the key is bigger than the middle element, then go for right search space.
+- This process is continued until key is found or the total search space is exhua
