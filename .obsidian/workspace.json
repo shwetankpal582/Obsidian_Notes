@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -260,8 +260,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
     "Dashboard.canvas",
+    "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
     "conflict-files-obsidian-git.md",
     "Shivam Kanban.md",
     "SQL/Untitled Kanban.md",
