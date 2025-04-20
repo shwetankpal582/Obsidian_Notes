@@ -19,10 +19,22 @@ using namespace std;
                 start = mid+1;
 
             }
+
+            else {
+                
+                mid = mid-1;
+
+            }
+
+            mid = (start+end)/2;
+
         }
     }
 
     int main() {
+
+        int even[7] = {2,5,7,9,11,13,55};
+        int index = BinarySearch
     
     return 0;
 }
