@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-    int BinarySearch(int arr, int size, int key){
+    int BinarySearch(int arr[], int size, int key){
         int start = 0;
         int end = size-1;
 
@@ -34,7 +34,8 @@ using namespace std;
     int main() {
 
         int even[7] = {2,5,7,9,11,13,55};
-        int index = BinarySearch
+        int index = BinarySearch(even,7,13);
+        cout << "Index of 13 is " << index << endl;
     
     return 0;
 }
