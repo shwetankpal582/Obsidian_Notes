@@ -22,7 +22,7 @@ unit: 0
 - If the key is not found at middle element, choose which half will be used as the next search space.
 	- If the key is smaller than the middle element, then go for left search space.
 	- If the key is bigger than the middle element, then go for right search space.
-- This process is continued until key is found or the total search space is exhuasted.
+- This process is continued until key is found or the total search space is exhausted.
 
 **Simple code for it :**
 ```cpp

@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "Data_Structure/Sorting/Selection Sort.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Selection Sort"
             }
           }
         ]
@@ -260,6 +257,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Data_Structure/Sorting/Merge Sorting.md",
+    "Data_Structure/Sorting/Binary Search.md",
     "Dashboard.canvas",
     "Untitled.md",
     "Data_Structure/array/Operations in Array.md",
@@ -278,7 +277,6 @@
     "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
     "conflict-files-obsidian-git.md",
     "SQL/Untitled Kanban.md",
-    "Data_Structure/Sorting/Binary Search.md",
     "Deep Learning/2.3 Convolution Neural Networks.md",
     "SQL/SQL.md",
     "SQL/SQL Syntax.md",
