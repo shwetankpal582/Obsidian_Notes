@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8937958848eb4f27",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "a85a260c2d921995",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -258,7 +258,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "a85a260c2d921995",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.canvas",
     "Untitled.md",
