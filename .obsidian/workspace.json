@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "Deep Learning/File.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "File"
             }
           }
         ]
@@ -260,10 +257,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Deep Learning/File.md",
+    "Deep Learning/File.md",
+    "Dashboard.canvas",
     "Data_Structure/Sorting/Merge Sorting.md",
     "Data_Structure/Sorting/Selection Sort.md",
     "Data_Structure/Sorting/Binary Search.md",
-    "Dashboard.canvas",
     "Untitled.md",
     "Data_Structure/array/Operations in Array.md",
     "Data_Structure/Love Babbar/output/01 Binary Search.exe",
@@ -298,9 +297,7 @@
     "Images From Vault/Pasted image 20250405183835.png",
     "DWDM/1.6 Metadata in the data warehouse..md",
     "DWDM/1.5 Three Tier  Architecture.md",
-    "DWDM/1.4 Overview of the components.md",
     "DWDM",
-    "IOT/Unit 2/2 - Hardware of IoT.md",
     "Images From Vault/Pasted image 20250403210248.png",
     "Images From Vault/Pasted image 20250403210142.png",
     "Images From Vault/Pasted image 20250403204043.png",
