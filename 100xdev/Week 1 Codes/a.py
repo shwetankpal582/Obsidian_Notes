@@ -1,9 +1,3 @@
-PRACTICAL : 8
-
-WAP TO IMPLEMENT OVER FITTING IN REGULARIZATION USING ANN
-## Code
-
-```
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
@@ -55,19 +49,3 @@ plt.ylabel('Loss (MSE)')
 plt.legend()
 plt.grid(True)
 plt.show()
-
-```
-
-## Input
-
-```
-X = [-1.      -0.98995 -0.9799  ...  0.9799  0.98995 1.0]
-y = [-1.003  -0.909   -0.935  ...  1.047   1.077   1.027]  # Approx. X^3 + noise
-
-```
-
-## Output
-
-```
-
-```
