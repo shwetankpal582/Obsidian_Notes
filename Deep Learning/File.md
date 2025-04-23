@@ -8,3 +8,62 @@ WAP TO IMPLEMENT VARIOUS ACTIVATION FUNCTION USING PYTHON
 ·        TANH AF
 ·        SOFTMAX AF
 
+## Code
+
+```
+import numpy as np
+
+# Linear Activation Function
+def linear(x):
+    return x
+
+# ReLU Activation Function
+def relu(x):
+    return np.maximum(0, x)
+
+# Sigmoid Activation Function
+def sigmoid(x):
+    return 1 / (1 + np.exp(-x))
+
+# Tanh Activation Function
+def tanh(x):
+    return np.tanh(x)
+
+# Softmax Activation Function
+def softmax(x):
+    exp_x = np.exp(x - np.max(x))  # subtract max for numerical stability
+    return exp_x / np.sum(exp_x)
+
+# Test input
+x = np.array([-2.0, -1.0, 0.0, 1.0, 2.0])
+
+# Display results
+print("Input: ", x)
+print("Linear Activation: ", linear(x))
+print("ReLU Activation: ", relu(x))
+print("Sigmoid Activation: ", sigmoid(x))
+print("Tanh Activation: ", tanh(x))
+print("Softmax Activation: ", softmax(x))
+
+```
+
+## Input
+
+```
+x = np.array([-2.0, -1.0, 0.0, 1.0, 2.0])
+
+```
+
+## Output
+
+```
+Input:  [-2. -1.  0.  1.  2.]
+Linear Activation:  [-2. -1.  0.  1.  2.]
+ReLU Activation:  [0. 0. 0. 1. 2.]
+Sigmoid Activation:  [0.11920292 0.26894142 0.5        0.73105858 0.88079708]
+Tanh Activation:  [-0.96402758 -0.76159416  0.          0.76159416  0.96402758]
+Softmax Activation:  [0.01165623 0.03168492 0.08612854 0.23412166 0.63640865]
+
+```
+
+
