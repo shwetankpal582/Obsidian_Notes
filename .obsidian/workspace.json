@@ -11,33 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
-            }
-          },
-          {
-            "id": "204aec0507869e79",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,7 +251,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "204aec0507869e79",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.canvas",
     "Deep Learning/Pratical File/8.md",
