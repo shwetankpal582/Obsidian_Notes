@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "Deep Learning/Pratical File/8.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "8"
             }
           }
         ]
@@ -260,6 +257,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Deep Learning/Pratical File/1.md",
+    "Deep Learning/Pratical File/2.md",
+    "Dashboard.canvas",
     "Deep Learning/Pratical File/12.md",
     "Deep Learning/Pratical File/11.md",
     "Deep Learning/Pratical File/10.md",
@@ -270,9 +270,6 @@
     "Deep Learning/Pratical File/5.md",
     "Deep Learning/Pratical File/4.md",
     "Deep Learning/Pratical File/3.md",
-    "Deep Learning/Pratical File/2.md",
-    "Deep Learning/Pratical File/1.md",
-    "Dashboard.canvas",
     "100xdev/Week 1 Codes/a.py",
     "Deep Learning/Pratical File",
     "Data_Structure/Sorting/Merge Sorting.md",
