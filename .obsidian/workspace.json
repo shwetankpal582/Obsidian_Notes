@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "MPR/MPR.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "MPR"
             }
           }
         ]
@@ -260,6 +257,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.canvas",
+    "MPR/MPR.md",
+    "MPR",
     "Deep Learning/Pratical File/13.md",
     "Images From Vault/Pasted image 20250507140343.png",
     "Images From Vault/Pasted image 20250507140148.png",
@@ -280,7 +280,6 @@
     "Images From Vault/Pasted image 20250429225307.png",
     "Deep Learning/Pratical File/1.md",
     "Deep Learning/Pratical File/2.md",
-    "Dashboard.canvas",
     "Deep Learning/Pratical File/11.md",
     "Deep Learning/Pratical File/10.md",
     "Deep Learning/Pratical File/9.md",
@@ -304,9 +303,7 @@
     "Data_Structure/Love Babbar",
     "Shwetank DSA",
     "Work To Do.md",
-    "Untitled Kanban.md",
     "Untitled.canvas",
-    "SQL",
     "Data_Structure/index.canvas"
   ]
 }
