@@ -44,22 +44,31 @@ router.post('/login', async (req, res) => {
         }
         const passwordMatch = await bcrypt.compare(password, user.password);
         if (!passwordMatch) {
-
             return res.status(401).json({ message: 'Invalid username or password.' });
-
         }
-
-  
-
         const token = jwt.sign({ userId: user._id, role: user.role }, process.env.JWT_SECRET, { expiresIn: '1h' });
-
         res.json({ token, user: { username: user.username, role: user.role } });
-
     } catch (error) {
-
         res.status(500).json({ error: `Error logging in: ${error.message}` });
-
     }
-
 });
 ```
+
+3. User
+```
+router.get('/users', async (req, res) => {
+    try {
+        const { role } = req.query;
+        if (!role) {
+            return res.status(400).json({ message: 'Role query parameter is required.' });
+        }
+        
+        const users = await User.find({ role }).select('-password');
+        res.json(users);
+    } catch (error) {
+        res.status(500).json({ error: `Error fetching users: ${error.message}` });
+    }
+});
+module.exports = router;
+```
+
