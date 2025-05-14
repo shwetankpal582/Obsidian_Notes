@@ -45,3 +45,49 @@
     - Cardinality: 1:1 (One-to-One)
     - Representation: InputFile --(Produces)--> OutputFile
 
+### How to Draw the ER Diagram
+
+You can use an online tool like **Draw.io** or **Lucidchart** to create the diagram:
+
+1. **Entities**: Create rectangles for User, InputFile, OutputFile, and Model.
+2. **Attributes**: List attributes inside each rectangle, underlining the primary key (e.g., UserID) and marking foreign keys (e.g., UserID (FK)).
+3. **Relationships**:
+    - Draw a diamond or line labeled “Uploads” between User and InputFile, with 1:N cardinality (e.g., crow’s foot notation: one line from User, multiple lines to InputFile).
+    - Draw a diamond or line labeled “Processes” between Model and InputFile, with 1:N cardinality.
+    - Draw a diamond or line labeled “Produces” between InputFile and OutputFile, with 1:1 cardinality (single lines on both sides).
+4. **Save/Export**: Export as PNG or PDF for your project report.
+
+---
+## DFD diagram 
+### Context Diagram (Level 0 DFD)
+
+- **System**: Gun & Weapon Detection System
+- **External Entity**: User
+- **Data Flows**:
+    - User → System: Image/Video File
+    - System → User: Annotated Image/Video
+
+**Textual Representation**:
+
+
+`[User] ---- Image/Video File ----> [Gun & Weapon Detection System] <---- Annotated Image/Video ----|`
+
+### Level 1 DFD
+
+- **External Entity**: User
+- **Processes**:
+    1. Upload File
+    2. Process File with YOLO Model
+    3. Display/Download Result
+- **Data Stores**:
+    - D1: Input Files
+    - D2: Output Files
+    - D3: YOLO Model
+- **Data Flows**:
+    - User → Upload File: Image/Video File
+    - Upload File → D1: Store Input File
+    - D1 → Process File: Input File
+    - D3 → Process File: YOLO Model Weights
+    - Process File → D2: Annotated Output File
+    - D2 → Display/Download Result: Annotated Output File
+    - Display/Download Result → User: Annotated Image/Video
