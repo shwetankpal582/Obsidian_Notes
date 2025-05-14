@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MPR/MPR.md",
+                "file": "MPR/MPR Backend Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MPR"
+              "title": "MPR Backend Code"
             }
           },
           {
@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MPR/MPR.md",
+                "file": "MPR/MPR Frontend Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MPR"
+              "title": "MPR Frontend Code"
             }
           }
         ],
@@ -289,8 +289,9 @@
   },
   "active": "00492b5a113febb7",
   "lastOpenFiles": [
+    "MPR/MPR Backend Code.md",
+    "MPR/MPR Frontend Code.md",
     "conflict-files-obsidian-git.md",
-    "MPR/MPR.md",
     "Images From Vault/Pasted image 20250514211836.png",
     "Deep Learning/Pratical File/4.md",
     "Dashboard.canvas",

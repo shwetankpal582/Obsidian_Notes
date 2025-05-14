@@ -1,7 +1,3 @@
-DIRECTORY STRUCTURE OF REACTJS APP
-![[Pasted image 20250514211836.png]]
-
-
 **Backend Code**
 
 1. Register
