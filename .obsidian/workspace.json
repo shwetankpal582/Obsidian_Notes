@@ -11,20 +11,32 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "content.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "content"
+            }
+          },
+          {
+            "id": "5cccb9ed8f94bca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dashboard"
+              "title": "Graph of conflict-files-obsidian-git"
             }
           }
         ]
@@ -240,55 +252,56 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5cccb9ed8f94bca7",
   "lastOpenFiles": [
-    "Dashboard.canvas",
+    "content.md",
     "conflict-files-obsidian-git.md",
-    "Images From Vault/Pasted image 20250413132221.png",
-    "Images From Vault/Pasted image 20250412233237.png",
-    "Deep Learning/2.0 Deep Learning.md",
+    "Untitled Kanban.md",
+    "Dashboard.canvas",
+    "Shivam Kanban.md",
+    "SQL/Untitled Kanban.md",
+    "SQL/SQL Syntax.md",
+    "SQL/SQL.md",
+    "SQL/1. SQL COMMANDS.md",
+    "SQL",
+    "MPR/MPR.md",
+    "MPR",
+    "Images From Vault/Pasted image 20250513141258.png",
+    "Images From Vault/Pasted image 20250513141101.png",
+    "Images From Vault/Pasted image 20250507140343.png",
+    "Images From Vault/Pasted image 20250507140148.png",
+    "Images From Vault/Pasted image 20250507135918.png",
+    "Images From Vault/Pasted image 20250507135326.png",
+    "Images From Vault/Pasted image 20250507135047.png",
+    "Images From Vault/Pasted image 20250507134454.png",
+    "Images From Vault/Pasted image 20250507134447.png",
+    "Images From Vault/Pasted image 20250429225814.png",
+    "Deep Learning/Pratical File/9.md",
+    "Deep Learning/Pratical File/8.md",
+    "Deep Learning/Pratical File/7.md",
+    "Deep Learning/Pratical File/6.md",
+    "Deep Learning/Pratical File/4.md",
+    "Deep Learning/Pratical File/5.md",
+    "Deep Learning/Pratical File/3.md",
+    "Deep Learning/Pratical File/18.md",
+    "Deep Learning/Pratical File/2.md",
+    "Deep Learning/Pratical File/13.md",
+    "Deep Learning/Pratical File/17.md",
+    "Deep Learning/Pratical File/16.md",
+    "Deep Learning/Pratical File/10.md",
+    "Deep Learning/Pratical File/15.md",
+    "Deep Learning/Pratical File/14.md",
+    "Deep Learning/Pratical File/12.md",
+    "Deep Learning/Pratical File/11.md",
+    "Deep Learning/Pratical File",
+    "Data_Structure/Love Babbar/output/01 Binary Search.exe",
+    "Data_Structure/Love Babbar/01 Binary Search.cpp",
+    "Data_Structure/Love Babbar/output",
+    "Data_Structure/Love Babbar",
     "React",
-    "Images From Vault/Pasted image 20250405221039.png",
-    "Images From Vault/Pasted image 20250405183835.png",
-    "Images From Vault/Pasted image 20250403210248.png",
-    "Images From Vault/Pasted image 20250403210142.png",
-    "Images From Vault/Pasted image 20250403204043.png",
-    "Images From Vault/Pasted image 20250403203908.png",
-    "Images From Vault/Pasted image 20250402060703.png",
-    "IOT/Unit 2/2 - Hardware of IoT.md",
-    "IOT/Unit 2/2 - Embedded Platform in IoT.md",
-    "IOT/Unit 2/1 - Hardware of IoT.md",
-    "IOT/Unit 2/1 - Embedded Platform in IoT.md",
-    "IOT/Unit 1/2 - Internet of Things.md",
-    "IOT/Unit 1/2 - Design Principles for Connected Device.md",
-    "IOT/Unit 1/1 - Internet of Things.md",
-    "IOT/Unit 1/1 - Design Principles for Connected Devices.md",
-    "Deep Learning/2.3 Convolution Neural Networks.md",
-    "Deep Learning/2.1 Deep VS Shallow.md",
-    "Deep Learning/1.1 Introduction to Artificial Neural Network (ANN).md",
     "Deep Learning",
-    "DWDM/1.6 Metadata in the data warehouse..md",
-    "DWDM/1.5 Three Tier  Architecture.md",
-    "DWDM/1.3 Data warehouse - The building Blocks.md",
-    "DWDM/1.4 Overview of the components.md",
-    "DWDM/1.1  Difference between Database System and Data Warehouse.md",
-    "DWDM/1.2 The Compelling Need for data warehousing.md",
-    "DWDM/1.0 Overview of DWDM.md",
     "DWDM",
     "Data_Structure/index.canvas",
-    "Operating System/Unit 1/Introduction to operating System.md",
-    "Operating System/Unit 1/Intro To Process Synchronization.md",
-    "Operating System/Unit 1/Inter Process.md",
-    "Operating System/Unit 1/Concurrency.md",
-    "Operating System/Unit 1/Threads.md",
-    "Operating System/Unit 1/Untitled",
-    "Images From Vault/Pasted image 20250323192837.png",
-    "IOT/Unit 3",
-    "Clippings",
-    "IOT/Unit 2",
-    "IOT/ONLINE CLIPPING",
-    "IOT/Unit 1",
-    "IOT",
     "Untitled.canvas"
   ]
 }
