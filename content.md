@@ -69,8 +69,10 @@ You can use an online tool like **Draw.io** or **Lucidchart** to create the diag
 
 **Textual Representation**:
 
+```
 
 `[User] ---- Image/Video File ----> [Gun & Weapon Detection System] <---- Annotated Image/Video ----|`
+```
 
 ### Level 1 DFD
 
@@ -91,3 +93,56 @@ You can use an online tool like **Draw.io** or **Lucidchart** to create the diag
     - Process File → D2: Annotated Output File
     - D2 → Display/Download Result: Annotated Output File
     - Display/Download Result → User: Annotated Image/Video
+
+### NOTES
+- **Purpose**: Include the DFD in your report to illustrate the data flow from user input to model processing to output display. Explain how the YOLO model annotates files, which are then served via Flask.
+- **Context Diagram**: Use the Level 0 diagram to introduce the system’s interaction with the user in your presentation.
+- **Level 1 DFD**: Use the Level 1 diagram to detail the internal processes, emphasizing the role of file storage and model processing.
+- **Presentation Tips**:
+    - Highlight the simplicity of the flow: user uploads → model processes → results displayed.
+    - Mention the YOLO model’s role in generating annotations, as seen in your test code (e.g., r.plot()).
+    - Use clear inputs (e.g., images with knives/pistols) to show the annotated outputs in your demo.
+- **Documentation**:
+    - Include both DFDs in your report with captions explaining each process.
+    - Note that the app uses file system storage (static/uploads/, static/outputs/) instead of a database, which simplifies the DFD.
+- **Extensions**:
+    - If you add a database (e.g., SQLite for file metadata), I can update the DFD to include it.
+    - For a Level 2 DFD, we could break down the “Process File with YOLO Model” into sub-processes (e.g., frame extraction for videos), but Level 1 is likely sufficient.
+
+If you need a specific tool format (e.g., Visio, Lucidchart), a simplified DFD, or help integrating the DFD into your project report, let me know! Also, if you want to revisit the FileNotFoundError for best.pt or add features to the app, I can assist further.
+
+
+---
+### Use Case Diagram Description
+
+The diagram will show the User and YOLO Model as actors, with use cases inside a system boundary labeled “Gun & Weapon Detection System.” Arrows will indicate interactions, with include/extend relationships to clarify dependencies.
+
+#### Actors
+
+1. **User**: Interacts with the web interface to upload files and view/download results.
+2. **YOLO Model**: External system component that processes files to detect knives and pistols.
+
+#### Use Cases
+
+1. **Upload Image**: User selects and uploads an image file.
+2. **Upload Video**: User selects and uploads a video file.
+3. **Process File**: YOLO model processes the file to generate annotations.
+4. **View Annotated Image**: User sees the annotated image on the result page.
+5. **Download Annotated Video**: User downloads the annotated video.
+6. **Handle Error**: System displays error messages (e.g., invalid file format).
+
+#### Relationships
+
+- **Include**:
+    - Upload Image → Process File: Uploading an image triggers processing.
+    - Upload Video → Process File: Uploading a video triggers processing.
+    - Process File → View Annotated Image: Processing an image leads to viewing.
+    - Process File → Download Annotated Video: Processing a video leads to downloading.
+- **Extend**:
+    - Upload Image → Handle Error: If the image is invalid, an error is shown.
+    - Upload Video → Handle Error: If the video is invalid, an error is shown.
+- **Actor Interactions**:
+    - User → Upload Image, Upload Video, View Annotated Image, Download Annotated Video, Handle Error.
+    - YOLO Model → Process File.
+
+
