@@ -145,4 +145,19 @@ The diagram will show the User and YOLO Model as actors, with use cases inside a
     - User → Upload Image, Upload Video, View Annotated Image, Download Annotated Video, Handle Error.
     - YOLO Model → Process File.
 
+### NOTES
+- **Purpose**: Include the Use Case Diagram in your report to show user interactions and system functionality, complementing the ER and DFD diagrams. Explain how users upload files, the YOLO model processes them, and results are displayed/downloaded.
+- **Presentation Tips**:
+    - Use the diagram to walk through a user’s journey: uploading a file, seeing annotations, or downloading a video.
+    - Highlight the YOLO model’s role as a secondary actor, emphasizing its pre-trained nature (mAP50: 0.915).
+    - Demo the app alongside the diagram to connect theory to practice.
+- **Documentation**:
+    - Include the diagram with a caption explaining each use case and actor.
+    - Note that the app is a web-based system using Flask, with no user authentication, keeping the User actor generic.
+    - Reference the model path issue (best.pt) and how you resolved it (e.g., updating MODEL_PATH to C:\MPR\...).
+- **Simplification**:
+    - If the diagram feels complex, you can omit “Handle Error” or merge “View Annotated Image” and “Download Annotated Video” into a single “View Result” use case, but the current version is clear and detailed.
+- **Extensions**:
+    - If you add features (e.g., user authentication, batch processing), I can update the diagram to include new use cases like “Login” or “Process Multiple Files”.
 
+If you need a specific tool format (e.g., StarUML, Lucidchart), a simplified diagram, or help integrating it into your report, let me know! Also, if you’re still facing issues with the FileNotFoundError for best.pt or want to enhance the app (e.g., video previews), I can assist further.
