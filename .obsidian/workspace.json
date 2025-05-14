@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MPR/MPR.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
+                }
               },
-              "icon": "lucide-file",
-              "title": "MPR"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -257,10 +260,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Images From Vault/Pasted image 20250513141258.png",
-    "Images From Vault/Pasted image 20250513141101.png",
+    "Deep Learning/Pratical File/18.md",
     "Dashboard.canvas",
     "MPR/MPR.md",
+    "Images From Vault/Pasted image 20250513141258.png",
+    "Images From Vault/Pasted image 20250513141101.png",
     "MPR",
     "Deep Learning/Pratical File/13.md",
     "Images From Vault/Pasted image 20250507140343.png",
@@ -270,7 +274,6 @@
     "Deep Learning/Pratical File/14.md",
     "Deep Learning/Pratical File/15.md",
     "Deep Learning/Pratical File/16.md",
-    "Deep Learning/Pratical File/18.md",
     "Images From Vault/Pasted image 20250507135326.png",
     "Images From Vault/Pasted image 20250507135047.png",
     "Images From Vault/Pasted image 20250507134454.png",
@@ -278,7 +281,6 @@
     "Deep Learning/Pratical File/12.md",
     "Deep Learning/Pratical File/8.md",
     "Images From Vault/Pasted image 20250429225814.png",
-    "Images From Vault/Pasted image 20250429225312.png",
     "Deep Learning/Pratical File/1.md",
     "Deep Learning/Pratical File/2.md",
     "Deep Learning/Pratical File/11.md",
