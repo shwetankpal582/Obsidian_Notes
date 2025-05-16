@@ -11,20 +11,32 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "1.1 Introduction to Artificial Neural Network (ANN)"
+            }
+          },
+          {
+            "id": "96ef3ea13eb25fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DWDM/1.0 Overview of DWDM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.0 Overview of DWDM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,10 +270,19 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "96ef3ea13eb25fd4",
   "lastOpenFiles": [
-    "MPR/Explanation.md",
+    "DWDM/1.3 Data warehouse - The building Blocks.md",
+    "DWDM/1.4 Overview of the components.md",
+    "DWDM/1.5 Three Tier  Architecture.md",
+    "DWDM/1.6 Metadata in the data warehouse..md",
+    "Deep Learning/Notes/3.0  Deep Belief Networks.md",
+    "Untitled",
+    "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
+    "Deep Learning/Pratical File/1.md",
+    "Deep Learning/Notes",
     "Dashboard.canvas",
+    "MPR/Explanation.md",
     "MPR/MPR Frontend Code.md",
     "MPR/MPR Backend Code.md",
     "conflict-files-obsidian-git.md",
@@ -286,26 +307,18 @@
     "Images From Vault/Pasted image 20250507134447.png",
     "Deep Learning/Pratical File/12.md",
     "Deep Learning/Pratical File/8.md",
-    "Deep Learning/Pratical File/1.md",
     "Deep Learning/Pratical File/2.md",
     "Deep Learning/Pratical File/11.md",
     "Deep Learning/Pratical File/10.md",
     "Deep Learning/Pratical File/9.md",
     "Deep Learning/Pratical File/7.md",
-    "Deep Learning/Pratical File/6.md",
-    "Deep Learning/Pratical File/5.md",
-    "Deep Learning/Pratical File/3.md",
     "100xdev/Week 1 Codes/a.py",
     "Deep Learning/Pratical File",
-    "Data_Structure/Sorting/Merge Sorting.md",
-    "Data_Structure/Sorting/Selection Sort.md",
     "Data_Structure/Love Babbar/output/01 Binary Search.exe",
     "Data_Structure/Love Babbar/01 Binary Search.cpp",
     "Data_Structure/Love Babbar/01 Binary Search Fixed.cpp",
     "Data_Structure/Love Babbar/output",
     "Data_Structure/Love Babbar/01 Binary Search",
-    "Data_Structure/Love Babbar",
-    "Shwetank DSA",
     "Untitled.canvas",
     "Data_Structure/index.canvas"
   ]
