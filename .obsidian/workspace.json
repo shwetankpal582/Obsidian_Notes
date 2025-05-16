@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,10 +282,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "5417209c3d464f6f",
+  "active": "96ef3ea13eb25fd4",
   "lastOpenFiles": [
-    "Dashboard.canvas",
+    "Images From Vault/Pasted image 20250517040328.png",
     "Excalidraw/Drawing 2025-05-17 03.58.52.excalidraw.md",
+    "Dashboard.canvas",
     "Deep Learning/Notes/3.1  Auto Encoders.md",
     "Images From Vault/Pasted image 20250517031617.png",
     "DWDM/1.0 Overview of DWDM.md",
