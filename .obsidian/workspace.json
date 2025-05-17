@@ -11,20 +11,60 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 2290.9226006191943,
-                  "zoom": -1.4932750736090914
-                }
+                "file": "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "1.1 Introduction to Artificial Neural Network (ANN)"
+            }
+          },
+          {
+            "id": "7b09768f5dfc61aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning/Notes/3.1  Auto Encoders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1  Auto Encoders"
+            }
+          },
+          {
+            "id": "009bac60f0e75c24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Introduction to Artificial Neural Network (ANN)"
+            }
+          },
+          {
+            "id": "1e1a075d4ee3823a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning/Notes/2.3 Convolution Neural Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3 Convolution Neural Networks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "right": {
     "id": "961abd7cc7f024ba",
@@ -123,6 +163,38 @@
             }
           },
           {
+            "id": "da2948d3514b995f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DWDM/1.0 Overview of DWDM.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.0 Overview of DWDM"
+            }
+          },
+          {
+            "id": "66d488b8379d178e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "81dd25e185bf8cec",
+        "type": "tabs",
+        "children": [
+          {
             "id": "d515bf26ce4832c5",
             "type": "leaf",
             "state": {
@@ -135,22 +207,13 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "da2948d3514b995f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Data_Structure/Sorting/Binary Search.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Binary Search"
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5862773a4783343c",
+        "type": "tabs",
+        "children": [
           {
             "id": "a0d8c8414bb9d12f",
             "type": "leaf",
@@ -165,22 +228,11 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "66d488b8379d178e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "7adbd2b5b537d732",
+        "id": "60565bb9dd57df3c",
         "type": "tabs",
         "children": [
           {
@@ -189,9 +241,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Data_Structure/Sorting/Binary Search.md",
+                "file": "DWDM/1.0 Overview of DWDM.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -212,24 +264,23 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4926162169190109,
-                  "close": true
+                  "scale": 0.2532289703248752,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Binary Search"
+              "title": "Graph of 1.0 Overview of DWDM"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -243,20 +294,40 @@
       "obsidian-projects:Open projects": false,
       "homepage:Open homepage": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "009bac60f0e75c24",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Dashboard.canvas",
-    "content.md",
+    "Deep Learning/Notes/3.1  Auto Encoders.md",
+    "Deep Learning/Notes/3.0  Deep Belief Networks.md",
     "Untitled 1.canvas",
+    "Excalidraw/IOT-Drawings.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-17 21.12.24.excalidraw.md",
+    "Dashboard.canvas",
+    "Excalidraw/Drawing 2025-05-17 21.10.48.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-17 21.09.47.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-17 03.58.52.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-06 17.55.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-11 14.28.50.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-08 13.51.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md",
+    "IOT/Unit 1/1 - Design Principles for Connected Devices.md",
+    "Images From Vault/Pasted image 20250517211331.png",
+    "Deep Learning/Notes/2.3 Convolution Neural Networks.md",
+    "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
+    "content.md",
+    "Work To Do.md",
     "MPR/MPR Frontend Code.md",
     "MPR/MPR Backend Code.md",
     "MPR/Explanation.md",
-    "MPR",
-    "Images From Vault/Pasted image 20250517211331.png",
+    "Deep Learning/Notes/2.0 Deep Learning.md",
+    "Deep Learning/Notes/2.1 Deep VS Shallow.md",
+    "Untitled Kanban.md",
+    "Untitled.canvas",
+    "Deep Learning/Notes/Untitled.md",
     "Images From Vault/Pasted image 20250517053712.png",
     "Images From Vault/Pasted image 20250517051728.png",
     "Images From Vault/Pasted image 20250517050951.png",
@@ -266,36 +337,17 @@
     "Images From Vault/Pasted image 20250517040906.png",
     "Images From Vault/Pasted image 20250517040328.png",
     "Images From Vault/Pasted image 20250517031617.png",
-    "Deep Learning/Pratical File/18.md",
-    "Deep Learning/Pratical File/17.md",
-    "Deep Learning/Pratical File/16.md",
-    "Deep Learning/Pratical File/15.md",
-    "Deep Learning/Pratical File/14.md",
-    "Deep Learning/Pratical File/13.md",
-    "Deep Learning/Notes/3.1  Auto Encoders.md",
-    "Deep Learning/Notes/3.0  Deep Belief Networks.md",
-    "Deep Learning/Notes/2.3 Convolution Neural Networks.md",
-    "Deep Learning/Notes/2.1 Deep VS Shallow.md",
-    "Deep Learning/Notes/2.0 Deep Learning.md",
-    "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
+    "DWDM/1.0 Overview of DWDM.md",
+    "Untitled",
     "Deep Learning/Notes",
-    "Untitled.md",
-    "Deep Learning/Pratical File/9.md",
-    "Deep Learning/Pratical File/8.md",
-    "Deep Learning/Pratical File/7.md",
-    "Deep Learning/Pratical File/6.md",
-    "Deep Learning/Pratical File/5.md",
-    "Deep Learning/Pratical File/4.md",
-    "Deep Learning/Pratical File/3.md",
+    "MPR",
+    "100xdev/Week 1 Codes/a.py",
     "Deep Learning/Pratical File",
     "Data_Structure/Love Babbar/output/01 Binary Search.exe",
-    "Data_Structure/Love Babbar/output",
     "Data_Structure/Love Babbar/01 Binary Search.cpp",
-    "Data_Structure/Love Babbar",
-    "100xdev/Week 1 Codes/a.py",
-    "SQL",
-    "DWDM",
-    "Data_Structure/index.canvas",
-    "Untitled.canvas"
+    "Data_Structure/Love Babbar/01 Binary Search Fixed.cpp",
+    "Data_Structure/Love Babbar/output",
+    "Data_Structure/Love Babbar/01 Binary Search",
+    "Data_Structure/index.canvas"
   ]
 }
