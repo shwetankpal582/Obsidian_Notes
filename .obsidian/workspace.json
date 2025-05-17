@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "Deep Learning/Notes/2.1 Deep VS Shallow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "2.1 Deep VS Shallow"
             }
           }
         ]
@@ -261,18 +258,24 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Deep Learning/Notes/2.3 Convolution Neural Networks.md",
+    "Deep Learning/Notes/2.1 Deep VS Shallow.md",
+    "Deep Learning/Notes/2.0 Deep Learning.md",
+    "content.md",
+    "Work To Do.md",
+    "Untitled Kanban.md",
+    "Untitled.canvas",
     "Deep Learning/Notes/3.1  Auto Encoders.md",
+    "Deep Learning/Notes/Untitled.md",
+    "Dashboard.canvas",
     "Images From Vault/Pasted image 20250517053712.png",
     "Images From Vault/Pasted image 20250517051728.png",
     "Images From Vault/Pasted image 20250517050951.png",
     "Images From Vault/Pasted image 20250517050941.png",
-    "Deep Learning/Notes/Untitled.md",
     "Images From Vault/Pasted image 20250517050521.png",
     "Images From Vault/Pasted image 20250517045632.png",
     "Images From Vault/Pasted image 20250517040906.png",
     "Images From Vault/Pasted image 20250517040328.png",
     "Excalidraw/Drawing 2025-05-17 03.58.52.excalidraw.md",
-    "Dashboard.canvas",
     "Images From Vault/Pasted image 20250517031617.png",
     "DWDM/1.0 Overview of DWDM.md",
     "DWDM/1.3 Data warehouse - The building Blocks.md",
@@ -290,16 +293,11 @@
     "conflict-files-obsidian-git.md",
     "Images From Vault/Pasted image 20250514211836.png",
     "Deep Learning/Pratical File/4.md",
-    "content.md",
     "Deep Learning/Pratical File/18.md",
     "MPR",
     "Deep Learning/Pratical File/13.md",
     "Deep Learning/Pratical File/17.md",
     "Deep Learning/Pratical File/14.md",
-    "Deep Learning/Pratical File/15.md",
-    "Deep Learning/Pratical File/16.md",
-    "Deep Learning/Pratical File/12.md",
-    "Deep Learning/Pratical File/8.md",
     "100xdev/Week 1 Codes/a.py",
     "Deep Learning/Pratical File",
     "Data_Structure/Love Babbar/output/01 Binary Search.exe",
@@ -307,7 +305,6 @@
     "Data_Structure/Love Babbar/01 Binary Search Fixed.cpp",
     "Data_Structure/Love Babbar/output",
     "Data_Structure/Love Babbar/01 Binary Search",
-    "Untitled.canvas",
     "Data_Structure/index.canvas"
   ]
 }
