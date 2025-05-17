@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Notes/3.1  Auto Encoders.md",
+                "file": "Deep Learning/Notes/2.3 Convolution Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1  Auto Encoders"
+              "title": "2.3 Convolution Neural Networks"
             }
           },
           {
@@ -284,12 +284,12 @@
   },
   "active": "96ef3ea13eb25fd4",
   "lastOpenFiles": [
+    "Deep Learning/Notes/3.1  Auto Encoders.md",
     "Images From Vault/Pasted image 20250517053712.png",
     "Images From Vault/Pasted image 20250517051728.png",
     "Images From Vault/Pasted image 20250517050951.png",
     "Images From Vault/Pasted image 20250517050941.png",
     "Deep Learning/Notes/Untitled.md",
-    "Deep Learning/Notes/3.1  Auto Encoders.md",
     "Images From Vault/Pasted image 20250517050521.png",
     "Images From Vault/Pasted image 20250517045632.png",
     "Images From Vault/Pasted image 20250517040906.png",
@@ -315,7 +315,6 @@
     "Deep Learning/Pratical File/4.md",
     "content.md",
     "Deep Learning/Pratical File/18.md",
-    "Images From Vault/Pasted image 20250513141258.png",
     "MPR",
     "Deep Learning/Pratical File/13.md",
     "Deep Learning/Pratical File/17.md",
