@@ -113,8 +113,7 @@
 			"y":1120,
 			"width":800,
 			"height":360
-		},
-		{"id":"a2426edc8d284358","x":-280,"y":2261,"width":565,"height":499,"type":"text","text":" "}
+		}
 	],
 	"edges":[],
 	"metadata":{}
