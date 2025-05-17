@@ -39,12 +39,17 @@
             "id": "009bac60f0e75c24",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md"
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -128.34000000000006,
+                  "zoom": 0
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-26 13.11.30.excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
             }
           },
           {
@@ -296,23 +301,24 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "e2c39698c76dbdc8",
+  "active": "009bac60f0e75c24",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
+    "Excalidraw/IOT-Drawings.excalidraw.md",
+    "Untitled 1.canvas",
+    "Excalidraw/Drawing 2025-05-17 21.12.24.excalidraw.md",
     "Dashboard.canvas",
+    "Excalidraw/Drawing 2025-05-17 21.10.48.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-17 21.09.47.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-17 03.58.52.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-06 17.55.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-11 14.28.50.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-08 13.51.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-15 09.39.12.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md",
     "IOT/Unit 1/1 - Design Principles for Connected Devices.md",
     "Deep Learning/Notes/3.0  Deep Belief Networks.md",
-    "Excalidraw/IOT-Drawings.excalidraw.md",
     "Deep Learning/Notes/3.1  Auto Encoders.md",
     "Images From Vault/Pasted image 20250517211331.png",
-    "Excalidraw/Drawing 2024-12-26 13.11.30.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-08 13.51.23.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-11 14.28.50.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-06 17.55.32.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-17 03.58.52.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-17 21.09.47.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-17 21.10.48.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-17 21.12.24.excalidraw.md",
     "Deep Learning/Notes/2.3 Convolution Neural Networks.md",
     "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
     "content.md",
