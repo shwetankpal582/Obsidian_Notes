@@ -22,7 +22,6 @@
 			"color":"4",
 			"label":"Backend"
 		},
-		{"id":"a2426edc8d284358","x":35,"y":2261,"width":250,"height":60,"type":"text","text":""},
 		{
 			"id":"2fa443819c4b759b",
 			"type":"text",
@@ -114,7 +113,8 @@
 			"y":1120,
 			"width":800,
 			"height":360
-		}
+		},
+		{"id":"a2426edc8d284358","x":-280,"y":2261,"width":565,"height":499,"type":"text","text":" "}
 	],
 	"edges":[],
 	"metadata":{}

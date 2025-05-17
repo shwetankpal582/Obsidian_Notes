@@ -50,3 +50,7 @@ unit: 1
 4. **Human to Human(H2H)**
 
 [[Types of Communications in IOT - GeeksforGeeks| Types of communication]]
+
+
+
+
