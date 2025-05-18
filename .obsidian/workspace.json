@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "4.0 RNN"
             }
+          },
+          {
+            "id": "42c5043eb6aa476d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/RNN & FNN.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "RNN & FNN"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,13 +256,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "42c5043eb6aa476d",
   "lastOpenFiles": [
+    "Images From Vault/Pasted Image 20250518195444_113.png",
     "Dashboard.canvas",
+    "Excalidraw/RNN & FNN.md",
     "Deep Learning/Notes/4.0 RNN.md",
-    "conflict-files-obsidian-git.md",
     "content.md",
+    "Shivam Kanban.md",
+    "Untitled.canvas",
     "Untitled 1.canvas",
+    "Untitled Kanban.md",
+    "conflict-files-obsidian-git.md",
     "MPR/MPR Frontend Code.md",
     "MPR/MPR Backend Code.md",
     "MPR/Explanation.md",
@@ -281,9 +299,6 @@
     "Deep Learning/Pratical File/9.md",
     "Deep Learning/Pratical File/8.md",
     "Deep Learning/Pratical File/7.md",
-    "Deep Learning/Pratical File/6.md",
-    "Deep Learning/Pratical File/5.md",
-    "Deep Learning/Pratical File/4.md",
     "Deep Learning/Pratical File",
     "Data_Structure/Love Babbar/output/01 Binary Search.exe",
     "Data_Structure/Love Babbar/output",
@@ -292,7 +307,6 @@
     "100xdev/Week 1 Codes/a.py",
     "SQL",
     "DWDM",
-    "Data_Structure/index.canvas",
-    "Untitled.canvas"
+    "Data_Structure/index.canvas"
   ]
 }
