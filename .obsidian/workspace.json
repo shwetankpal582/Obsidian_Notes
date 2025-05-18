@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "42c5043eb6aa476d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "4.0 RNN"
             }
-          },
-          {
-            "id": "42c5043eb6aa476d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/RNN & FNN.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "RNN & FNN"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,10 +245,11 @@
   },
   "active": "42c5043eb6aa476d",
   "lastOpenFiles": [
-    "Images From Vault/Pasted Image 20250518195444_113.png",
-    "Dashboard.canvas",
+    "Images From Vault/Pasted image 20250518200416.png",
     "Excalidraw/RNN & FNN.md",
+    "Dashboard.canvas",
     "Deep Learning/Notes/4.0 RNN.md",
+    "Images From Vault/Pasted Image 20250518195444_113.png",
     "content.md",
     "Shivam Kanban.md",
     "Untitled.canvas",
@@ -281,7 +269,6 @@
     "Images From Vault/Pasted image 20250517045632.png",
     "Images From Vault/Pasted image 20250517040906.png",
     "Images From Vault/Pasted image 20250517040328.png",
-    "Images From Vault/Pasted image 20250517031617.png",
     "Deep Learning/Pratical File/18.md",
     "Deep Learning/Pratical File/17.md",
     "Deep Learning/Pratical File/16.md",
