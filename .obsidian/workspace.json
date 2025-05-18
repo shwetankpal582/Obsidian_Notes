@@ -16,8 +16,8 @@
                 "file": "Dashboard.canvas",
                 "viewState": {
                   "x": 160,
-                  "y": 2290.9226006191943,
-                  "zoom": -1.4932750736090914
+                  "y": 720,
+                  "zoom": -1.8861509229637765
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -248,9 +248,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.canvas",
     "Deep Learning/Notes/4.0 RNN.md",
     "conflict-files-obsidian-git.md",
-    "Dashboard.canvas",
     "content.md",
     "Untitled 1.canvas",
     "MPR/MPR Frontend Code.md",
@@ -287,7 +287,6 @@
     "Deep Learning/Pratical File/6.md",
     "Deep Learning/Pratical File/5.md",
     "Deep Learning/Pratical File/4.md",
-    "Deep Learning/Pratical File/3.md",
     "Deep Learning/Pratical File",
     "Data_Structure/Love Babbar/output/01 Binary Search.exe",
     "Data_Structure/Love Babbar/output",
