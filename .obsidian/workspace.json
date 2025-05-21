@@ -11,10 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -2.555549772901117
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -241,6 +248,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.canvas",
     "Deep Learning/Notes/2.0 Deep Learning.md",
     "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
     "Deep Learning/Notes/2.1 Deep VS Shallow.md",
@@ -253,7 +261,6 @@
     "Images From Vault/Pasted image 20250518202053.png",
     "Images From Vault/Pasted image 20250518200416.png",
     "Excalidraw/RNN & FNN.md",
-    "Dashboard.canvas",
     "Images From Vault/Pasted Image 20250518195444_113.png",
     "content.md",
     "Shivam Kanban.md",
@@ -281,7 +288,6 @@
     "Untitled.md",
     "Deep Learning/Pratical File/9.md",
     "Deep Learning/Pratical File/8.md",
-    "Deep Learning/Pratical File/7.md",
     "Deep Learning/Pratical File",
     "Data_Structure/Love Babbar/output/01 Binary Search.exe",
     "Data_Structure/Love Babbar/output",
