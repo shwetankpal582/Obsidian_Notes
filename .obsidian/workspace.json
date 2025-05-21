@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -2.555549772901117
-                }
+                "file": "Deep Learning/Notes/3.1  Auto Encoders.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "3.1  Auto Encoders"
             }
           }
         ]
@@ -249,12 +246,12 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.canvas",
+    "Deep Learning/Notes/3.1  Auto Encoders.md",
     "Deep Learning/Notes/2.0 Deep Learning.md",
     "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
     "Deep Learning/Notes/2.1 Deep VS Shallow.md",
     "Deep Learning/Notes/2.3 Convolution Neural Networks.md",
     "Deep Learning/Notes/3.0  Deep Belief Networks.md",
-    "Deep Learning/Notes/3.1  Auto Encoders.md",
     "Deep Learning/Notes/4.0 RNN.md",
     "Deep Learning/Notes/4.1.md",
     "Images From Vault/Pasted image 20250518202141.png",
