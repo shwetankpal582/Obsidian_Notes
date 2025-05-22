@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOT/Unit 4/IOT.md",
+                "file": "IOT/Unit 4/IOT Applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IOT"
+              "title": "IOT Applications"
             }
           }
         ]
@@ -246,7 +246,7 @@
   "active": "1f5a7583ee45befd",
   "lastOpenFiles": [
     "IOT/Unit 4/Challenges In IOT Design Challenges.md",
-    "IOT/Unit 4/IOT.md",
+    "IOT/Unit 4/IOT Applications.md",
     "Dashboard.canvas",
     "IOT/Unit 1/2 - Internet of Things.md",
     "IOT/Unit 1/2 - Design Principles for Connected Device.md",
