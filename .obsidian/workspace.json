@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "IOT/Unit 3/Network & Communication Aspects in IoT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Network & Communication Aspects in IoT"
             }
           }
         ]
@@ -246,11 +243,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e2c39698c76dbdc8",
   "lastOpenFiles": [
+    "IOT/Untitled",
+    "Dashboard.canvas",
     "IOT/Unit 1/1 - Design Principles for Connected Devices.md",
     "Deep Learning/Notes/4.0 RNN.md",
-    "Dashboard.canvas",
     "Deep Learning/Notes/3.1  Auto Encoders.md",
     "Deep Learning/Notes/2.0 Deep Learning.md",
     "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
@@ -288,7 +286,6 @@
     "Deep Learning/Notes",
     "Untitled.md",
     "Deep Learning/Pratical File/9.md",
-    "Deep Learning/Pratical File/8.md",
     "Deep Learning/Pratical File",
     "Data_Structure/Love Babbar/output/01 Binary Search.exe",
     "Data_Structure/Love Babbar/output",
