@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOT/Unit 3/Network & Communication Aspects in IoT.md",
+                "file": "IOT/Unit 4/Challenges In IOT Design Challenges.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network & Communication Aspects in IoT"
+              "title": "Challenges In IOT Design Challenges"
             }
           }
         ]
@@ -243,9 +243,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e2c39698c76dbdc8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "IOT/Untitled",
+    "IOT/Unit 3/Network & Communication Aspects in IoT.md",
+    "IOT/Unit 4/Challenges In IOT Design Challenges.md",
+    "IOT/Unit 4",
     "Dashboard.canvas",
     "IOT/Unit 1/1 - Design Principles for Connected Devices.md",
     "Deep Learning/Notes/4.0 RNN.md",
@@ -285,7 +287,6 @@
     "Deep Learning/Pratical File/13.md",
     "Deep Learning/Notes",
     "Untitled.md",
-    "Deep Learning/Pratical File/9.md",
     "Deep Learning/Pratical File",
     "Data_Structure/Love Babbar/output/01 Binary Search.exe",
     "Data_Structure/Love Babbar/output",
@@ -293,7 +294,6 @@
     "Data_Structure/Love Babbar",
     "100xdev/Week 1 Codes/a.py",
     "SQL",
-    "DWDM",
     "Data_Structure/index.canvas"
   ]
 }
