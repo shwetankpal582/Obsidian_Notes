@@ -83,7 +83,7 @@ unit: 4
 
 ---
 
-### ⚖️ **8. Cost and ROI**
+### **8. Cost and ROI**
 
 - **High Initial Investment**: Cost of sensors, gateways, and platforms can be high.
     
@@ -92,7 +92,7 @@ unit: 4
 
 ---
 
-### 👨‍💼 **9. Talent and Expertise**
+### **9. Talent and Expertise**
 
 - **Skill Shortages**: Need for professionals skilled in embedded systems, cybersecurity, cloud platforms, and data analytics.
     
