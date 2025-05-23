@@ -11,10 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -241,8 +248,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "IOT/Unit 4/Challenges In IOT Design Challenges.md",
     "IOT/Unit 4/IOT Applications.md",
+    "IOT/Unit 4/Challenges In IOT Design Challenges.md",
     "Dashboard.canvas",
     "IOT/Unit 1/2 - Internet of Things.md",
     "IOT/Unit 1/2 - Design Principles for Connected Device.md",
