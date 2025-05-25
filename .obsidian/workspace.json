@@ -11,17 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -248,9 +241,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.canvas",
     "IOT/Unit 4/IOT Applications.md",
     "IOT/Unit 4/Challenges In IOT Design Challenges.md",
-    "Dashboard.canvas",
     "IOT/Unit 1/2 - Internet of Things.md",
     "IOT/Unit 1/2 - Design Principles for Connected Device.md",
     "IOT/Unit 1/1 - Internet of Things.md",
@@ -288,7 +281,6 @@
     "Images From Vault/Pasted image 20250517050521.png",
     "Deep Learning/Pratical File/18.md",
     "Deep Learning/Pratical File/17.md",
-    "Deep Learning/Pratical File/16.md",
     "Deep Learning/Notes",
     "Deep Learning/Pratical File",
     "Data_Structure/Love Babbar/output/01 Binary Search.exe",
