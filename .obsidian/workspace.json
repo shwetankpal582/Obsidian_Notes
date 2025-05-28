@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "DWDM/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -248,8 +245,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "DWDM/OLTP.md",
+    "DWDM/2.6 Participatory Sensing Technology.md",
+    "DWDM/Untitled.md",
+    "DWDM/2.5 Wireless Sensor Networks.md",
+    "DWDM/2.4 RFID Technology.md",
+    "DWDM/2.3 Actuators.md",
+    "DWDM/2.2 Digital Sensors.md",
+    "DWDM/2.1 Sensors.md",
     "Dashboard.canvas",
+    "DWDM/OLTP.md",
     "DWDM/1.0 Overview of DWDM.md",
     "DWDM/1.1  Difference between Database System and Data Warehouse.md",
     "DWDM/1.2 The Compelling Need for data warehousing.md",
@@ -269,16 +273,10 @@
     "Deep Learning/Notes/3.1  Auto Encoders.md",
     "Deep Learning/Notes/2.0 Deep Learning.md",
     "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
-    "Deep Learning/Notes/2.1 Deep VS Shallow.md",
-    "Deep Learning/Notes/2.3 Convolution Neural Networks.md",
-    "Deep Learning/Notes/3.0  Deep Belief Networks.md",
-    "Deep Learning/Notes/4.1.md",
     "Images From Vault/Pasted image 20250518202141.png",
     "Images From Vault/Pasted image 20250518202053.png",
     "Images From Vault/Pasted image 20250518200416.png",
-    "Excalidraw/RNN & FNN.md",
     "Images From Vault/Pasted Image 20250518195444_113.png",
-    "content.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "MPR",
