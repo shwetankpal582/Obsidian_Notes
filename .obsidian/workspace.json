@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DWDM/1.1 Introducation.md",
+                "file": "DWDM/olap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Introducation"
+              "title": "olap"
             }
           }
         ]
@@ -245,8 +245,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "DWDM/weka.md",
     "DWDM/1.1 Introducation.md",
+    "DWDM/olap.md",
+    "DWDM/weka.md",
     "Dashboard.canvas",
     "DWDM/2.2  2 Overview of IOT hardware Supported Hardware.md",
     "DWDM/2.2  1 Embedded Computing Basics.md",
@@ -272,7 +273,6 @@
     "IOT/Unit 1/1 - Design Principles for Connected Devices.md",
     "IOT/Unit 3/Network & Communication Aspects in IoT.md",
     "IOT/Unit 4",
-    "Deep Learning/Notes/4.0 RNN.md",
     "Images From Vault/Pasted image 20250518202141.png",
     "Images From Vault/Pasted image 20250518202053.png",
     "Images From Vault/Pasted image 20250518200416.png",
