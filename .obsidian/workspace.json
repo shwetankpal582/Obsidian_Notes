@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DWDM/2.2  2 Overview of IOT hardware Supported Hardware.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
+                }
               },
-              "icon": "lucide-file",
-              "title": "2.2  2 Overview of IOT hardware Supported Hardware"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -245,8 +248,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "DWDM/2.2  1 Embedded Computing Basics.md",
     "DWDM/2.2  2 Overview of IOT hardware Supported Hardware.md",
+    "DWDM/2.2  1 Embedded Computing Basics.md",
     "DWDM/2.1 1 Sensors.md",
     "DWDM/2.1  6 Participatory Sensing Technology.md",
     "DWDM/2.1  5 Wireless Sensor Networks.md",
