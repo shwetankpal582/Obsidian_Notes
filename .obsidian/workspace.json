@@ -11,17 +11,18 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
+                "file": "Untitled/Swhetank.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-trello",
+              "title": "Swhetank"
             }
           }
         ]
@@ -248,11 +249,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "content.md",
+    "Untitled/Swhetank.md",
+    "Shivam Kanban.md",
+    "Dashboard.canvas",
     "DWDM/olap operation.md",
     "DWDM/olap.md",
     "DWDM/1.1 Introducation.md",
     "DWDM/weka.md",
-    "Dashboard.canvas",
     "DWDM/2.2  2 Overview of IOT hardware Supported Hardware.md",
     "DWDM/2.2  1 Embedded Computing Basics.md",
     "DWDM/2.1 1 Sensors.md",
@@ -272,9 +276,6 @@
     "IOT/Unit 4/IOT Applications.md",
     "IOT/Unit 4/Challenges In IOT Design Challenges.md",
     "IOT/Unit 1/2 - Internet of Things.md",
-    "IOT/Unit 1/2 - Design Principles for Connected Device.md",
-    "IOT/Unit 1/1 - Internet of Things.md",
-    "IOT/Unit 1/1 - Design Principles for Connected Devices.md",
     "IOT/Unit 4",
     "Images From Vault/Pasted image 20250518202141.png",
     "Images From Vault/Pasted image 20250518202053.png",
