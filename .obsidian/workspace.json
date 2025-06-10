@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Notes/3.1  Auto Encoders.md",
+                "file": "Deep Learning/Notes/4.0 RNN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1  Auto Encoders"
+              "title": "4.0 RNN"
             }
           }
         ]
@@ -245,6 +245,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Deep Learning/Notes/3.1  Auto Encoders.md",
     "Deep Learning/Notes/3.0  Deep Belief Networks.md",
     "Deep Learning/Notes/2.3 Convolution Neural Networks.md",
     "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
@@ -271,7 +272,6 @@
     "DWDM/1.0 Overview of DWDM.md",
     "DWDM/1.1  Difference between Database System and Data Warehouse.md",
     "DWDM/1.2 The Compelling Need for data warehousing.md",
-    "DWDM/1.3 Data warehouse - The building Blocks.md",
     "IOT/Unit 4",
     "Images From Vault/Pasted image 20250518202141.png",
     "Images From Vault/Pasted image 20250518202053.png",
