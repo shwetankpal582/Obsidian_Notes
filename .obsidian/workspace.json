@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Notes/1.8 Stotastic gradiend decent.md",
+                "file": "Deep Learning/Notes/2.3 Convolution Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.8 Stotastic gradiend decent"
+              "title": "2.3 Convolution Neural Networks"
             }
           }
         ],
@@ -260,9 +260,13 @@
   },
   "active": "50a9875cfc0755dc",
   "lastOpenFiles": [
+    "Deep Learning/Notes/2.1 Deep VS Shallow.md",
+    "Deep Learning/Notes/2.0 Deep Learning.md",
+    "Deep Learning/Notes/1.10 Batch  normalization,.md",
+    "Deep Learning/Notes/1.9 Backpropagation and regularization.md",
+    "Deep Learning/Notes/1.8 Stotastic gradiend decent.md",
     "Deep Learning/Notes/1.7 Gradient Decent.md",
     "Deep Learning/Notes/1.6 Hyperparameter.md",
-    "Deep Learning/Notes/1.8 Stotastic gradiend decent.md",
     "Deep Learning/Notes/1.4 Activation Function.md",
     "Deep Learning/Notes/1.5 Loss Function.md",
     "Deep Learning/Notes/1.2 Perceptron.md",
@@ -273,8 +277,6 @@
     "Deep Learning/Notes/3.0  Deep Belief Networks.md",
     "Deep Learning/Notes/2.3 Convolution Neural Networks.md",
     "Dashboard.canvas",
-    "Deep Learning/Notes/2.0 Deep Learning.md",
-    "Deep Learning/Notes/2.1 Deep VS Shallow.md",
     "Untitled/Swhetank.md",
     "content.md",
     "Shivam Kanban.md",
@@ -285,8 +287,6 @@
     "DWDM/2.2  2 Overview of IOT hardware Supported Hardware.md",
     "DWDM/2.2  1 Embedded Computing Basics.md",
     "DWDM/2.1 1 Sensors.md",
-    "DWDM/2.1  6 Participatory Sensing Technology.md",
-    "DWDM/2.1  5 Wireless Sensor Networks.md",
     "IOT/Unit 4",
     "Images From Vault/Pasted image 20250518202141.png",
     "Images From Vault/Pasted image 20250518202053.png",
