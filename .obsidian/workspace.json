@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Notes/4.1.md",
+                "file": "Deep Learning/Notes/4.2 Sequence Prediction and Time Series Forecasting with LSTM,.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1"
+              "title": "4.2 Sequence Prediction and Time Series Forecasting with LSTM,"
             }
           }
         ],
@@ -260,7 +260,10 @@
   },
   "active": "50a9875cfc0755dc",
   "lastOpenFiles": [
+    "Deep Learning/Notes/4.1 LSTM.md",
+    "Deep Learning/Notes/4.2 Sequence Prediction and Time Series Forecasting with LSTM,.md",
     "Deep Learning/Notes/4.0 RNN.md",
+    "Deep Learning/Notes/3.2 Reinforcement Learning.md",
     "Deep Learning/Notes/3.1  Auto Encoders.md",
     "Deep Learning/Notes/3.0  Deep Belief Networks.md",
     "Deep Learning/Notes/2.3 Convolution Neural Networks.md",
@@ -284,9 +287,6 @@
     "DWDM/olap operation.md",
     "DWDM/olap.md",
     "DWDM/1.1 Introducation.md",
-    "DWDM/weka.md",
-    "DWDM/2.2  2 Overview of IOT hardware Supported Hardware.md",
-    "DWDM/2.2  1 Embedded Computing Basics.md",
     "IOT/Unit 4",
     "Images From Vault/Pasted image 20250518202141.png",
     "Images From Vault/Pasted image 20250518202053.png",
