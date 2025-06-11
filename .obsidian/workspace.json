@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "100xdev/Week 1/JS Foundation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "JS Foundation"
             }
           }
         ]
@@ -248,6 +245,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "100xdev/Week 1 Codes/a.py",
     "Dashboard.canvas",
     "Deep Learning/Notes/1.8 Stotastic gradiend decent.md",
     "Deep Learning/Notes/1.0 ML.md",
@@ -294,7 +292,6 @@
     "Data_Structure/Love Babbar/output",
     "Data_Structure/Love Babbar/01 Binary Search.cpp",
     "Data_Structure/Love Babbar",
-    "100xdev/Week 1 Codes/a.py",
     "SQL",
     "Data_Structure/index.canvas"
   ]
