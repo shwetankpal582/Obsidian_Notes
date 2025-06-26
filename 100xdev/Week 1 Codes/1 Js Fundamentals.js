@@ -160,7 +160,18 @@ const alluser = [{
     gender : "female"
 },
 {
-    
+    firstname : "Rahul",
+    age : 20,
+    gender : "male"
+}
+{
+    firstname : "Rahul",
+    age : 20,
+    gender : "male"
 }]
 
-console.log(alluser);
+for(let i = 0; i<alluser.length; i++){
+    if(alluser[i]["gender"]=="male"){
+        console.log(alluser[i]["firstname"])
+    }
+}
