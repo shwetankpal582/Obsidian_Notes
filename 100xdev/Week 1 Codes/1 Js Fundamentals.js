@@ -144,8 +144,20 @@
 // console.log(user1.firstname);
 
 // Array of obj
-const user1 = [{
-    firstname : "Shwetank",
+
+const user0 = ["Shwetank", "Haru"]
+const user1 = [20,19]
+
+// another way to write arrays in object format
+const alluser = [{
+    firstname : "Shwetank", 
     age : 20,
     gender : "male"
+},
+{
+    firstname : "Haru",
+    age : 19,
+    gender : "female"
 }]
+
+console.log(alluser);
