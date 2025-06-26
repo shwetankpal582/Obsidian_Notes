@@ -1,6 +1,8 @@
-function sum(a, b){
-    return a + b;
-}
+// function sum(a, b){
+//     return a + b;
+// }
 
-const sumval = sum(5,8);
-console.log(sumval);
+// const sumval = sum(5,8);
+// console.log(sumval);
+
+let sum = ;
