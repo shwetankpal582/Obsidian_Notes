@@ -158,6 +158,9 @@ const alluser = [{
     firstname : "Haru",
     age : 19,
     gender : "female"
+},
+{
+    
 }]
 
 console.log(alluser);
