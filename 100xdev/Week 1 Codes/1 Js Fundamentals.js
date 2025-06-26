@@ -163,11 +163,16 @@ const alluser = [{
     firstname : "Rahul",
     age : 20,
     gender : "male"
-}
+},
 {
-    firstname : "Rahul",
-    age : 20,
+    firstname : "manish",
+    age : 25,
     gender : "male"
+},
+{
+    firstname : "supriya",
+    age : 22,
+    gender : "female"
 }]
 
 for(let i = 0; i<alluser.length; i++){
