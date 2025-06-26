@@ -137,3 +137,9 @@
 
 // Object
 
+const user1 = {
+    firstname : "Shwetank",
+    age : 20
+}
+
+console.log(user1.frstname);
