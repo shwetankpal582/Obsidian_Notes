@@ -1,1 +1,2 @@
-// Map, Filter,
+// Map, Filter, Find, Sort
+ 
