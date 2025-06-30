@@ -7,9 +7,12 @@
 
 function CutIt(str, startIndex, endIndex) {
     let newStr = "Shwetank";
-    for(let i = 0; i<str.length;i++){
-        if( i >= startIndex && i <= endIndex ){
-            newstr = newstr
+    for (let i = 0; i < str.length; i++) {
+        if (i >= startIndex && i <= endIndex) {
+            newStr = newStr + str[i];
         }
     }
 }
+
+console.log(CutIt);
+console.log("this is cutit");
