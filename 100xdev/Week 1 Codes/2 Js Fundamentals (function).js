@@ -5,9 +5,11 @@
 // const sumval = sum(5,8);
 // console.log(sumval);
 
-let sum = 0;
-
-for(let i = 0; i< 100000000000000; i++){
-    sum+=i;
+function CutIt(str, startIndex, endIndex) {
+    let newStr = "Shwetank";
+    for(let i = 0; i<str.length;i++){
+        if( i >= startIndex && i <= endIndex ){
+            newstr = newstr
+        }
+    }
 }
-console.log(sum)
