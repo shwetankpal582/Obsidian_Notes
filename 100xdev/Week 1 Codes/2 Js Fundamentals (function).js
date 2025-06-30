@@ -12,7 +12,7 @@ function CutIt(str, startIndex, endIndex) {
             newStr = newStr + str[i];
         }
     }
+    return newStr;
 }
-
-console.log(CutIt);
-console.log("this is cutit");
+const value = "Shwetank";
+console.log(CutIt(value,2,5 ));
