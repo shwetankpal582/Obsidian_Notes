@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -246,7 +246,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e2c39698c76dbdc8",
   "lastOpenFiles": [
     "Data_Structure/array/Operations in Array.md",
     "React/Course",
