@@ -233,4 +233,5 @@ a = {
 | These variables are hoisted.                                                                                    | These variables are hoisted but stay in the temporal dead zone untill the initialization.        | These variables are hoisted but stays in the temporal dead zone until the initialization.            |
 
 ## Data Types
-	strings, numbers and booleans
+	
+Strings, numbers and booleans

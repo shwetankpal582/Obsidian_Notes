@@ -128,9 +128,55 @@
 //     prop2: 9
 // }
 
-const ages = [21,22,23,24,25];
-for(let i=0;i<=ages.length;i++){
-    if (ages[i]%2==0){
-        console.log(ages[i]);
+// const ages = [21,22,23,24,25];
+// for(let i=0;i<=ages.length;i++){
+//     if (ages[i]%2==0){
+//         console.log(ages[i]);
+//     }
+// }
+
+// Object
+
+// const user1 = {
+//     firstname : "Shwetank",
+//     age : 20
+// }
+// console.log(user1.firstname);
+
+// Array of obj
+
+const user0 = ["Shwetank", "Haru"]
+const user1 = [20,19]
+
+// another way to write arrays in object format
+const alluser = [{
+    firstname : "Shwetank", 
+    age : 20,
+    gender : "male"
+},
+{
+    firstname : "Haru",
+    age : 19,
+    gender : "female"
+},
+{
+    firstname : "Rahul",
+    age : 20,
+    gender : "male"
+},
+{
+    firstname : "manish",
+    age : 25,
+    gender : "male"
+},
+{
+    firstname : "supriya",
+    age : 22,
+    gender : "female"
+}]
+
+for(let i = 0; i<alluser.length; i++){
+    if(alluser[i]["gender"]=="male"){
+        console.log(alluser[i]["firstname"])
     }
 }
