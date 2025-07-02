@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Data_Structure/array/Operations in Array.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.4932750736090914
+                }
               },
-              "icon": "lucide-file",
-              "title": "Operations in Array"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -245,10 +248,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Data_Structure/array/Operations in Array.md",
     "Dashboard.canvas",
     "Data_Structure/DP/Intro.md",
     "Data_Structure/DP/Memoization.md",
-    "Data_Structure/array/Operations in Array.md",
     "Deep Learning/Notes/4.0 RNN.md",
     "conflict-files-obsidian-git.md",
     "content.md",
