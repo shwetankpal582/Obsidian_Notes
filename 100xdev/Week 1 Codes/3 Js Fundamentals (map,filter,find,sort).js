@@ -1,7 +1,7 @@
 // Map, Filter, Find, Sort
  
 const dog = {
-    name : "dog"
-    legcount : 4
+    name : "dog",
+    legcount : 4,
     
 }
