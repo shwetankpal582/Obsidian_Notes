@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100xdev/Week 1/1.3 Basic JS APIs.md",
+                "file": "100xdev/Week 1/1.4 Loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Basic JS APIs"
+              "title": "1.4 Loops"
             }
           }
         ]
@@ -245,6 +245,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "100xdev/Week 1/1.3 Basic JS APIs.md",
+    "100xdev/Week 1/1.4 Loops.md",
+    "100xdev/Week 1 Codes/5 Loops.js",
     "100xdev/Week 1 Codes/4 Js Foundation (date).js",
     "100xdev/Week 1 Codes/4 Js Foundation (date),js",
     "100xdev/Week 1 Codes/tempCodeRunnerFile.js",
@@ -255,8 +258,6 @@
     "React/Course/01basicreact/node_modules/tsconfig-paths/src/__tests__/data/match-path-data.ts",
     "React/Course/01basicreact/node_modules/tsconfig-paths/lib/__tests__/data/match-path-data.d.ts",
     "React/Course/01basicreact/node_modules/tsconfig-paths/lib/__tests__/data/match-path-data.js.map",
-    "React/Course/01basicreact/node_modules/tsconfig-paths/lib/__tests__/data/match-path-data.js",
-    "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/json5/lib/util.js",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/strip-bom/readme.md",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/json5/README.md",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/json5/LICENSE.md",
@@ -281,7 +282,6 @@
     "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-unassigned-import.md",
     "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-restricted-paths.md",
     "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-named-as-default-member.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-relative-parent-imports.md",
     "React/Course/01basicreact/public/logo512.png",
     "React/Course/01basicreact/public/logo192.png",
     "React/Course/01basicreact/src/logo.svg",
