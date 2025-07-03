@@ -6,11 +6,17 @@
 
 function calculatesum() {
     let a = 0;
-    for (let i = 0; i < 100000000; i++) {
+    for (let i = 0; i < 10000000000; i++) {
         a += i[i];
     }   
     return a;
 }
 
 const beforedate = new Date();
-const BeforeTimeInMs
+const BeforeTimeInMs = beforedate.getTime();
+calculatesum();
+
+const afterdate = new Date();
+const AfterTimeInMs = afterdate.getTime();  
+const timeDiff = AfterTimeInMs - BeforeTimeInMs;
+console.log("Time taken to execute the function: " + timeDiff + " milliseconds");
