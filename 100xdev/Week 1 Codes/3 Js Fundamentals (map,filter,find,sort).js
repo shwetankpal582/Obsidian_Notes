@@ -12,5 +12,9 @@ const cat = {
     speak : "meow meow",
 }
 
+
+function printani(){
+    
+}
 console.log("animal" + " " + dog["name"])  // method 1
 console.log("animal" + " " + dog.name)  // method 2
