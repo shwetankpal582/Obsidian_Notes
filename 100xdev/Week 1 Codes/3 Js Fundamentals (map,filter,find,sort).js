@@ -3,5 +3,13 @@
 const dog = {
     name : "dog",
     legcount : 4,
-    
+    speak : "bhow bhow",
 }
+
+const cat = {
+    name : "cat",
+    legcount : 4,
+    speak : "meow meow",
+}
+
+console.log("animal" )
