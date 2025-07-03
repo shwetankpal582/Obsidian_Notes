@@ -21,5 +21,18 @@
 // printani(cat);
 
 class Animal {
-    
+    constructor(name, LegCount, speak) {
+        this.name = name;
+        this .LegCount = LegCount;
+        this.speak = speak;
+    }
 }
+
+let dog1 = {
+    name : "dog",
+    LegCount : 4,
+    speak : "bhow bhow",
+}
+
+let dog = new Animal("dog", 4, "Bhow bhow" );
+let dat = new Animal("cat", 4, "meow meow" );
