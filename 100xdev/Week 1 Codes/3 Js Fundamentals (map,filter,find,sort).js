@@ -23,18 +23,18 @@
 class Animal {
     constructor(name, LegCount, speak) {
         this.name = name;
-        this .LegCount = LegCount;
+        this.LegCount = LegCount;
         this.speak = speak;
     }
     name() {
         console.log("hi there " + this.name);
-    }
+    };
     LegCount() {
         console.log("hi there " + this.LegCount);
-    }
+    };
     speak() {
         console.log("hi there " + this.speak);
-    }
+    };
 }
 
 // let dog1 = {
