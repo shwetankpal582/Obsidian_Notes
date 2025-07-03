@@ -12,4 +12,5 @@ const cat = {
     speak : "meow meow",
 }
 
-console.log("animal" + " " + dog.name)
+console.log("animal" + " " + dog["name"])  // method 1
+console.log("animal" + " " + dog.name)  // method 2
