@@ -26,13 +26,23 @@ class Animal {
         this .LegCount = LegCount;
         this.speak = speak;
     }
+    name() {
+        console.log("hi there " + this.name);
+    }
+    LegCount() {
+        console.log("hi there " + this.LegCount);
+    }
+    speak() {
+        console.log("hi there " + this.speak);
+    }
 }
 
-let dog1 = {
-    name : "dog",
-    LegCount : 4,
-    speak : "bhow bhow",
-}
+// let dog1 = {
+//     name : "dog",
+//     LegCount : 4,
+//     speak : "bhow bhow",
+// }
 
 let dog = new Animal("dog", 4, "Bhow bhow" );
-let dat = new Animal("cat", 4, "meow meow" );
+let cat = new Animal("cat", 4, "meow meow" );
+dog.LegCount();
