@@ -248,6 +248,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "100xdev/Week 1 Codes/reset_vscode_settings.ps1",
     "100xdev/Week 1/1.4 Loops.md",
     "100xdev/Week 1/1.3 Basic JS APIs.md",
     "100xdev/Week 1 Codes/5 Loops.js",
@@ -284,7 +285,6 @@
     "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-self-import.md",
     "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-unassigned-import.md",
     "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-restricted-paths.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-named-as-default-member.md",
     "React/Course/01basicreact/public/logo512.png",
     "React/Course/01basicreact/public/logo192.png",
     "React/Course/01basicreact/src/logo.svg",
