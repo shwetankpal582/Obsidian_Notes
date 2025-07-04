@@ -6,6 +6,8 @@
   },
   "editor.suggestOnTriggerCharacters": false,
   "editor.suggest.showWords": false,
+  "editor.wordBasedSuggestions": false,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
   "editor.parameterHints.enabled": false,
   "editor.hover.enabled": false
 }
