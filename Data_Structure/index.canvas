@@ -12,16 +12,6 @@
 			"label":"Datastructure Index"
 		},
 		{
-			"id":"a963031982d91dde",
-			"type":"text",
-			"text":"# Page count\n```dataviewjs\nconst folders = {\n    'array': 0,\n    'HashTable': 0,\n    'LinkedList': 0,\n    'Recursion': 0,\n    'Sorting': 0,\n    'SpaceAndTime': 0\n};\n\n// Get all files with #datastructure tag and count them by folder\ndv.pages('#datastructure').forEach(page => {\n    const folderPath = page.file.folder;\n    // Get the last part of the folder path\n    const folderName = folderPath.split('/').pop();\n    if (folders.hasOwnProperty(folderName)) {\n        folders[folderName]++;\n    }\n});\n\n// Convert the data to the format needed for the chart\nconst chartData = {\n    type: 'line',\n    data: {\n        labels: Object.keys(folders),\n        datasets: [{\n            label: 'Number of Files',\n            data: Object.values(folders),\n            backgroundColor: 'rgba(54, 162, 235, 0.2)',\n            borderColor: 'rgba(54, 162, 235, 1)',\n            borderWidth: 1\n        }]\n    },\n    options: {\n        scales: {\n            y: {\n                beginAtZero: true,\n                ticks: {\n                    stepSize: 1\n                }\n            }\n        }\n    }\n};\n\nwindow.renderChart(chartData, this.container);\n```",
-			"styleAttributes":{},
-			"x":380,
-			"y":-600,
-			"width":980,
-			"height":585
-		},
-		{
 			"id":"5220f0faf45d22b3",
 			"type":"text",
 			"text":"# Array\n```dataview\ntable date as Date, Topics as Topic from \"Data_Structure/array\"\n```",
@@ -59,6 +49,16 @@
 			"width":800,
 			"height":355,
 			"color":"4"
+		},
+		{
+			"id":"a963031982d91dde",
+			"type":"text",
+			"text":"# Page count\n```dataviewjs\nconst folders = {\n    'array': 0,\n    'HashTable': 0,\n    'LinkedList': 0,\n    'Recursion': 0,\n    'Sorting': 0,\n    'SpaceAndTime': 0\n};\n\n// Get all files with #datastructure tag and count them by folder\ndv.pages('#datastructure').forEach(page => {\n    const folderPath = page.file.folder;\n    // Get the last part of the folder path\n    const folderName = folderPath.split('/').pop();\n    if (folders.hasOwnProperty(folderName)) {\n        folders[folderName]++;\n    }\n});\n\n// Convert the data to the format needed for the chart\nconst chartData = {\n    type: 'line',\n    data: {\n        labels: Object.keys(folders),\n        datasets: [{\n            label: 'Number of Files',\n            data: Object.values(folders),\n            backgroundColor: 'rgba(54, 162, 235, 0.2)',\n            borderColor: 'rgba(54, 162, 235, 1)',\n            borderWidth: 1\n        }]\n    },\n    options: {\n        scales: {\n            y: {\n                beginAtZero: true,\n                ticks: {\n                    stepSize: 1\n                }\n            }\n        }\n    }\n};\n\nwindow.renderChart(chartData, this.container);\n```",
+			"styleAttributes":{},
+			"x":-400,
+			"y":-760,
+			"width":980,
+			"height":585
 		}
 	],
 	"edges":[],
