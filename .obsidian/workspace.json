@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "Deep Learning/Notes/1.4 Activation Function.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "1.4 Activation Function"
             }
           }
         ]
@@ -248,8 +245,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "100xdev/Week 2 Codes",
+    "Deep Learning/Notes/1.1 Introduction to Artificial Neural Network (ANN).md",
+    "Deep Learning/Notes/1.2 Perceptron.md",
+    "Deep Learning/Notes/1.0 ML.md",
+    "Operating System/Unit 1/Concurrency.md",
+    "Operating System/Unit 1/Inter Process.md",
+    "SQL/Untitled Kanban.md",
+    "SQL/SQL Syntax.md",
+    "SQL/SQL.md",
+    "SQL/1. SQL COMMANDS.md",
     "Dashboard.canvas",
+    "100xdev/Week 2 Codes",
     "100xdev/Week 1 Codes/reset_vscode_settings.ps1",
     "100xdev/Week 1/1.4 Loops.md",
     "100xdev/Week 1/1.3 Basic JS APIs.md",
@@ -261,7 +267,6 @@
     "React/Course/01basicreact/node_modules/@rtsao/scc/package.json",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/json5/lib/require.js",
     "React/Course/01basicreact/node_modules/tsconfig-paths/src/__tests__/data/match-path-data.ts",
-    "React/Course/01basicreact/node_modules/tsconfig-paths/lib/__tests__/data/match-path-data.d.ts",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/strip-bom/readme.md",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/json5/README.md",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/json5/LICENSE.md",
@@ -277,14 +282,6 @@
     "React/Course/01basicreact/node_modules/eslint-plugin-import/node_modules/debug/CHANGELOG.md",
     "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/unambiguous.md",
     "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/prefer-default-export.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-webpack-loader-syntax.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/order.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-useless-path-segments.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-unused-modules.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-unresolved.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-self-import.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-unassigned-import.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/docs/rules/no-restricted-paths.md",
     "React/Course/01basicreact/public/logo512.png",
     "React/Course/01basicreact/public/logo192.png",
     "React/Course/01basicreact/src/logo.svg",
