@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": -288.80260802163474,
-                  "y": 1003.5800579356994,
-                  "zoom": -1.0332638510363876
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -248,6 +248,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.canvas",
     "100xdev/Week 1 Codes/reset_vscode_settings.ps1",
     "100xdev/Week 1/1.4 Loops.md",
     "100xdev/Week 1/1.3 Basic JS APIs.md",
@@ -255,13 +256,11 @@
     "100xdev/Week 1 Codes/4 Js Foundation (date).js",
     "100xdev/Week 1 Codes/4 Js Foundation (date),js",
     "100xdev/Week 1 Codes/tempCodeRunnerFile.js",
-    "Dashboard.canvas",
     "React/Course/01basicreact/node_modules/@rtsao/scc/index.js",
     "React/Course/01basicreact/node_modules/@rtsao/scc/package.json",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/json5/lib/require.js",
     "React/Course/01basicreact/node_modules/tsconfig-paths/src/__tests__/data/match-path-data.ts",
     "React/Course/01basicreact/node_modules/tsconfig-paths/lib/__tests__/data/match-path-data.d.ts",
-    "React/Course/01basicreact/node_modules/tsconfig-paths/lib/__tests__/data/match-path-data.js.map",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/strip-bom/readme.md",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/json5/README.md",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/json5/LICENSE.md",
