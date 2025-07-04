@@ -10,4 +10,4 @@ function sumofaquare(a, b) {
 }
 console.log(sumofaquare(2, 3)); 
 
-ar
+arr 
