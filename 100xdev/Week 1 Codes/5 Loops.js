@@ -9,3 +9,5 @@ function sumofaquare(a, b) {
     return val1 + val2;
 }
 console.log(sumofaquare(5, 3)); 
+
+arr
