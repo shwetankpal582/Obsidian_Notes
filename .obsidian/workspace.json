@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "961abd7cc7f024ba",
@@ -245,6 +246,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "React/Course/Code",
+    "React/Course/New folder",
     "React/Course/1.3 Problems with JavaScript.md",
     "React/Course/1.4 Working of React.md",
     "React/Course/1.2 Working Of DOM.md",
@@ -272,7 +275,6 @@
     "100xdev/Week 1 Codes/4 Js Foundation (date),js",
     "100xdev/Week 1 Codes/tempCodeRunnerFile.js",
     "React/Course/01basicreact/node_modules/@rtsao/scc/index.js",
-    "React/Course/01basicreact/node_modules/@rtsao/scc/package.json",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/strip-bom/readme.md",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/json5/README.md",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/json5/LICENSE.md",
@@ -282,7 +284,6 @@
     "React/Course/01basicreact/node_modules/eslint-module-utils/node_modules/debug/CHANGELOG.md",
     "React/Course/01basicreact/node_modules/eslint-module-utils/CHANGELOG.md",
     "React/Course/01basicreact/node_modules/eslint-plugin-import/node_modules/semver/README.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/node_modules/doctrine/README.md",
     "React/Course/01basicreact/public/logo512.png",
     "React/Course/01basicreact/public/logo192.png",
     "React/Course/01basicreact/src/logo.svg",
