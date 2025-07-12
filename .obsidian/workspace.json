@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Course/Untitled.md",
+                "file": "React/Course/INTRODUCTION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "INTRODUCTION"
             }
           }
         ]
@@ -246,7 +246,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.canvas",
-    "React/Course/Untitled.md",
+    "React/Course/INTRODUCTION.md",
     "Data_Structure/index.canvas",
     "100xdev/Week 2 Codes/1 Await sync promise.js",
     "100xdev/Week 2 Codes/1 Await sync promise,js",
