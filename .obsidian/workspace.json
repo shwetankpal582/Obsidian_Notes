@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "React/Course/1.5 JS VS React.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "1.5 JS VS React"
             }
           }
         ]
@@ -249,6 +246,9 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "React/Course/1.4 Working of React.md",
+    "React/Course/Code/1.5 JS VS React.md",
+    "React/Course/1.5 JS VS React.md",
+    "Dashboard.canvas",
     "React/Course/Code/a.js",
     "React/Course/Code/output/a.exe",
     "React/Course/Code/output",
@@ -260,7 +260,6 @@
     "React/Course/New folder",
     "React/Course/1.2 Working Of DOM.md",
     "React/Course/1.1 INTRODUCTION.md",
-    "Dashboard.canvas",
     "Data_Structure/index.canvas",
     "100xdev/Week 2 Codes/1 Await sync promise.js",
     "100xdev/Week 2 Codes/1 Await sync promise,js",
@@ -284,7 +283,6 @@
     "React/Course/01basicreact/node_modules/eslint-module-utils/node_modules/debug/README.md",
     "React/Course/01basicreact/node_modules/eslint-module-utils/node_modules/debug/CHANGELOG.md",
     "React/Course/01basicreact/node_modules/eslint-module-utils/CHANGELOG.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/node_modules/semver/README.md",
     "React/Course/01basicreact/public/logo512.png",
     "React/Course/01basicreact/public/logo192.png",
     "React/Course/01basicreact/src/logo.svg",
