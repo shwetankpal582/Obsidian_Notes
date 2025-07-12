@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Course/1.3 Problems with JavaScript.md",
+                "file": "React/Course/1.4 Working of React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Problems with JavaScript"
+              "title": "1.4 Working of React"
             }
           }
         ]
@@ -245,8 +245,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "React/Course/1.2 Working Of DOM.md",
     "React/Course/1.3 Problems with JavaScript.md",
+    "React/Course/1.4 Working of React.md",
+    "React/Course/1.2 Working Of DOM.md",
     "React/Course/1.1 INTRODUCTION.md",
     "Dashboard.canvas",
     "Data_Structure/index.canvas",
@@ -282,7 +283,6 @@
     "React/Course/01basicreact/node_modules/eslint-module-utils/CHANGELOG.md",
     "React/Course/01basicreact/node_modules/eslint-plugin-import/node_modules/semver/README.md",
     "React/Course/01basicreact/node_modules/eslint-plugin-import/node_modules/doctrine/README.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/node_modules/doctrine/CHANGELOG.md",
     "React/Course/01basicreact/public/logo512.png",
     "React/Course/01basicreact/public/logo192.png",
     "React/Course/01basicreact/src/logo.svg",
