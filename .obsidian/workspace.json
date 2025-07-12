@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Course/Code/1.10 File Extensions.md",
+                "file": "React/Course/1.11 Component.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.10 File Extensions"
+              "title": "1.11 Component"
             }
           }
         ]
@@ -243,8 +243,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e2c39698c76dbdc8",
   "lastOpenFiles": [
+    "Images From Vault/Pasted image 20250713015025.png",
+    "React/Course/1.10 File Extensions.md",
+    "React/Course/1.11 Component.md",
     "React/Course/Code/second-react-component/node_modules/react-dom/cjs/react-dom-server.edge.development.js",
     "React/Course/Code/second-react-component/node_modules/react-dom/cjs/react-dom.react-server.production.js",
     "React/Course/Code/second-react-component/node_modules/react-dom/cjs/react-dom.production.js",
@@ -255,13 +258,11 @@
     "React/Course/Code/second-react-component/node_modules/react-dom/cjs/react-dom-test-utils.development.js",
     "React/Course/Code/second-react-component/node_modules/react-dom/cjs/react-dom-server.node.development.js",
     "React/Course/Code/second-react-component/node_modules/react-dom/cjs/react-dom-server.edge.production.js",
-    "React/Course/Code/second-react-component/node_modules/react-dom/cjs/react-dom-server.bun.production.js",
     "React/Course/Code/second-react-component/node_modules/isexe/README.md",
     "React/Course/Code/second-react-component/src/assets/react.svg",
     "React/Course/Code/second-react-component/public/vite.svg",
     "React/Course/Code/second-react-component/README.md",
     "React/Course/1.6 React Components.md",
-    "React/Course/Code/1.10 File Extensions.md",
     "React/Course/Code/first-react-app/node_modules/@esbuild/win32-x64/README.md",
     "React/Course/Code/first-react-app/node_modules/caniuse-lite/README.md",
     "React/Course/Code/first-react-app/node_modules/ajv/lib/dotjs/README.md",
@@ -286,7 +287,6 @@
     "Deep Learning/Notes/1.0 ML.md",
     "Operating System/Unit 1/Concurrency.md",
     "Operating System/Unit 1/Inter Process.md",
-    "SQL/Untitled Kanban.md",
     "React/Course/01basicreact/public/logo512.png",
     "React/Course/01basicreact/public/logo192.png",
     "React/Course/01basicreact/src/logo.svg",
