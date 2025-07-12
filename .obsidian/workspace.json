@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "React/Course/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -249,6 +246,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Dashboard.canvas",
+    "React/Course/Untitled.md",
     "Data_Structure/index.canvas",
     "100xdev/Week 2 Codes/1 Await sync promise.js",
     "100xdev/Week 2 Codes/1 Await sync promise,js",
@@ -284,7 +282,6 @@
     "React/Course/01basicreact/node_modules/eslint-plugin-import/node_modules/doctrine/README.md",
     "React/Course/01basicreact/node_modules/eslint-plugin-import/node_modules/doctrine/CHANGELOG.md",
     "React/Course/01basicreact/node_modules/eslint-plugin-import/node_modules/debug/README.md",
-    "React/Course/01basicreact/node_modules/eslint-plugin-import/node_modules/debug/CHANGELOG.md",
     "React/Course/01basicreact/public/logo512.png",
     "React/Course/01basicreact/public/logo192.png",
     "React/Course/01basicreact/src/logo.svg",
