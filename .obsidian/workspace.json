@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "React/Course/1.4 Working of React.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
+                }
               },
-              "icon": "lucide-file",
-              "title": "1.4 Working of React"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -245,6 +248,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "React/Course/1.4 Working of React.md",
     "React/Course/Code/a.js",
     "React/Course/Code/output/a.exe",
     "React/Course/Code/output",
@@ -252,7 +256,6 @@
     "React/Course/Code/a.cpp",
     "React/Course/Code/index.html",
     "React/Course/1.3 Problems with JavaScript.md",
-    "React/Course/1.4 Working of React.md",
     "React/Course/Code",
     "React/Course/New folder",
     "React/Course/1.2 Working Of DOM.md",
@@ -271,7 +274,6 @@
     "SQL/SQL Syntax.md",
     "SQL/SQL.md",
     "SQL/1. SQL COMMANDS.md",
-    "100xdev/Week 2 Codes",
     "100xdev/Week 1/1.4 Loops.md",
     "100xdev/Week 1/1.3 Basic JS APIs.md",
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/strip-bom/readme.md",
