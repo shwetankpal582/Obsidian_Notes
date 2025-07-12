@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "React/Course/1.6 React Components.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "1.6 React Components"
             }
           }
         ]
@@ -248,12 +245,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Dashboard.canvas",
     "React/Course/1.5 JS VS React.md",
     "React/Course/Code/1.6 React Components.md",
     "React/Course/1.6 React Components.md",
     "React/Course/1.4 Working of React.md",
     "React/Course/Code/1.5 JS VS React.md",
-    "Dashboard.canvas",
     "React/Course/Code/a.js",
     "React/Course/Code/output/a.exe",
     "React/Course/Code/output",
@@ -285,7 +282,6 @@
     "React/Course/01basicreact/node_modules/tsconfig-paths/node_modules/json5/LICENSE.md",
     "React/Course/01basicreact/node_modules/tsconfig-paths/README.md",
     "React/Course/01basicreact/node_modules/tsconfig-paths/CHANGELOG.md",
-    "React/Course/01basicreact/node_modules/eslint-module-utils/node_modules/debug/README.md",
     "React/Course/01basicreact/public/logo512.png",
     "React/Course/01basicreact/public/logo192.png",
     "React/Course/01basicreact/src/logo.svg",
