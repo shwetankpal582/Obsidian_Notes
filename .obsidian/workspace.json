@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "React/Course/1.5 JS VS React.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
+                }
               },
-              "icon": "lucide-file",
-              "title": "1.5 JS VS React"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -245,9 +248,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "React/Course/1.5 JS VS React.md",
     "React/Course/Code/1.6 React Components.md",
     "React/Course/1.6 React Components.md",
-    "React/Course/1.5 JS VS React.md",
     "React/Course/1.4 Working of React.md",
     "React/Course/Code/1.5 JS VS React.md",
     "Dashboard.canvas",
