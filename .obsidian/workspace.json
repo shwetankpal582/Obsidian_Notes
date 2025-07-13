@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Course/1.15 Dynamic Component.md",
+                "file": "React/Course/1.16 Reusable Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.15 Dynamic Component"
+              "title": "1.16 Reusable Components"
             }
           }
         ]
@@ -245,11 +245,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Images From Vault/Pasted image 20250713134614.png",
+    "React/Course/1.15 Dynamic Component.md",
+    "React/Course/1.16 Reusable Components.md",
     "React/Course/Code/second-react-app/Components/Hello.jsx",
     "React/Course/Code/second-react-app/Components/Dynamic.jsx",
     "Images From Vault/Pasted image 20250713131015.png",
     "React/Course/1.14 Other Important Point.md",
-    "React/Course/1.15 Dynamic Component.md",
     "Images From Vault/Pasted image 20250713130946.png",
     "React/Course/1.13 Export Components.md",
     "React/Course/1.12 JSX.md",
@@ -262,7 +264,6 @@
     "React/Course/Code/second-react-app/node_modules/eslint/lib/languages/js/source-code/token-store/skip-cursor.js",
     "React/Course/Code/second-react-app/node_modules/eslint/lib/languages/js/source-code/token-store/index.js",
     "React/Course/Code/second-react-app/node_modules/eslint/lib/languages/js/source-code/token-store/utils.js",
-    "React/Course/Code/second-react-app/node_modules/eslint/lib/languages/js/source-code/token-store/limit-cursor.js",
     "React/Course/Code/second-react-app/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/README.md",
     "React/Course/Code/second-react-app/node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys/README.md",
     "React/Course/Code/second-react-app/node_modules/@eslint/eslintrc/node_modules/globals/readme.md",
@@ -283,7 +284,6 @@
     "React/Course/Code/second-react-app/node_modules/@jridgewell/gen-mapping/README.md",
     "React/Course/Code/second-react-app/node_modules/@humanwhocodes/retry/README.md",
     "React/Course/Code/second-react-app/node_modules/@humanwhocodes/module-importer/README.md",
-    "React/Course/Code/second-react-app/node_modules/@humanwhocodes/module-importer/CHANGELOG.md",
     "React/Course/Code/second-react-app/src/assets/react.svg",
     "React/Course/Code/second-react-app/public/vite.svg",
     "Dashboard.canvas",
