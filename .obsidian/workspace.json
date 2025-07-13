@@ -248,6 +248,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "React/Course/Code/Project/1-to-do-list/src/components/task2.jsx",
     "React/Course/Code/Project/1-to-do-list/src/components/Task1.jsx",
     "React/Course/Notes/1.15 Dynamic Component.md",
     "React/Course/Notes/1.16 Reusable Components.md",
@@ -273,7 +274,6 @@
     "React/Course/Code/Project/1-to-do-list/node_modules/@esbuild/win32-x64/esbuild.exe",
     "React/Course/Code/Code/third bootstrap-l/node_modules/eslint/lib/languages/js/source-code/token-store/limit-cursor.js",
     "React/Course/Code/Code/third bootstrap-l/node_modules/eslint/lib/languages/js/source-code/token-store/backward-token-cursor.js",
-    "React/Course/Code/Code/third bootstrap-l/node_modules/eslint/lib/languages/js/source-code/token-store/utils.js",
     "React/Course/Code/Code/third bootstrap-l/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/README.md",
     "React/Course/Code/Code/second-react-app/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/README.md",
     "React/Course/Code/Code/first-react-app/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/README.md",
