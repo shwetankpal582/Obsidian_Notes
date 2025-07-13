@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "React/Course/Notes/Main.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "Main"
             }
           }
         ]
@@ -248,11 +245,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "React/Course/Notes/1.17 Including Bootstrap.md",
+    "React/Course/Notes/Main.md",
+    "Dashboard.canvas",
     "React/Course/Code/Project/1-to-do-list/src/components/task2.jsx",
     "React/Course/Code/Project/1-to-do-list/src/components/Task1.jsx",
     "React/Course/Notes/1.15 Dynamic Component.md",
     "React/Course/Notes/1.16 Reusable Components.md",
-    "React/Course/Notes/1.17 Including Bootstrap.md",
     "React/Course/Notes/1.5 JS VS React.md",
     "React/Course/Notes/1.4 Working of React.md",
     "React/Course/Notes/1.6 React Components.md",
@@ -261,7 +260,6 @@
     "React/Course/Notes/1.12 JSX.md",
     "React/Course/Notes/1.13 Export Components.md",
     "React/Course/Notes/1.14 Other Important Point.md",
-    "Dashboard.canvas",
     "React/Course/1.15 Dynamic Component.md",
     "React/Course/1.16 Reusable Components.md",
     "React/Course/1.17 Including Bootstrap.md",
@@ -273,7 +271,6 @@
     "React/Course/Code/Project/1-to-do-list/src/Components",
     "React/Course/Code/Project/1-to-do-list/node_modules/@esbuild/win32-x64/esbuild.exe",
     "React/Course/Code/Code/third bootstrap-l/node_modules/eslint/lib/languages/js/source-code/token-store/limit-cursor.js",
-    "React/Course/Code/Code/third bootstrap-l/node_modules/eslint/lib/languages/js/source-code/token-store/backward-token-cursor.js",
     "React/Course/Code/Code/third bootstrap-l/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/README.md",
     "React/Course/Code/Code/second-react-app/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/README.md",
     "React/Course/Code/Code/first-react-app/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/README.md",
