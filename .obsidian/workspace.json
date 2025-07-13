@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "React/Course/Notes/1.15 Dynamic Component.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
+                }
               },
-              "icon": "lucide-file",
-              "title": "1.15 Dynamic Component"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -245,6 +248,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "React/Course/Notes/1.15 Dynamic Component.md",
     "React/Course/Notes/1.16 Reusable Components.md",
     "React/Course/Notes/1.17 Including Bootstrap.md",
     "React/Course/Notes/1.5 JS VS React.md",
@@ -255,7 +259,6 @@
     "React/Course/Notes/1.12 JSX.md",
     "React/Course/Notes/1.13 Export Components.md",
     "React/Course/Notes/1.14 Other Important Point.md",
-    "React/Course/Notes/1.15 Dynamic Component.md",
     "Dashboard.canvas",
     "React/Course/1.15 Dynamic Component.md",
     "React/Course/1.16 Reusable Components.md",
