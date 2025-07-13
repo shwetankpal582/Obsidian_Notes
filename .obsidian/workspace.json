@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Course/1.12 JSX.md",
+                "file": "React/Course/1.12 Export Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.12 JSX"
+              "title": "1.12 Export Components"
             }
           }
         ]
@@ -245,6 +245,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Images From Vault/Pasted image 20250713125700.png",
+    "React/Course/1.12 JSX.md",
+    "React/Course/1.12 Export Components.md",
     "React/Course/Code/second-react-app/Components/btbutton.jsx",
     "React/Course/Code/second-react-app/Components/btbutton",
     "React/Course/Code/second-react-app/Components",
@@ -255,7 +258,6 @@
     "React/Course/Code/second-react-app/node_modules/eslint/lib/languages/js/source-code/token-store/limit-cursor.js",
     "React/Course/Code/second-react-app/node_modules/eslint/lib/languages/js/source-code/token-store/padded-token-cursor.js",
     "React/Course/Code/second-react-app/node_modules/eslint/lib/languages/js/source-code/token-store/decorative-cursor.js",
-    "React/Course/Code/second-react-app/node_modules/eslint/lib/languages/js/source-code/token-store/forward-token-cursor.js",
     "React/Course/Code/second-react-app/node_modules/@humanfs/node/node_modules/@humanwhocodes/retry/README.md",
     "React/Course/Code/second-react-app/node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys/README.md",
     "React/Course/Code/second-react-app/node_modules/@eslint/eslintrc/node_modules/globals/readme.md",
@@ -279,8 +281,6 @@
     "React/Course/Code/second-react-app/node_modules/@humanwhocodes/module-importer/CHANGELOG.md",
     "React/Course/Code/second-react-app/node_modules/@humanfs/node/README.md",
     "React/Course/Code/second-react-app/node_modules/@humanfs/core/README.md",
-    "React/Course/Code/second-react-app/node_modules/@eslint-community/regexpp/README.md",
-    "React/Course/Code/second-react-app/node_modules/@eslint-community/eslint-utils/README.md",
     "React/Course/Code/second-react-app/src/assets/react.svg",
     "React/Course/Code/second-react-app/public/vite.svg",
     "Dashboard.canvas",
