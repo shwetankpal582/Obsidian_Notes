@@ -11,14 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "React/Course/1.12 JSX.md",
-                "mode": "source",
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": 720,
+                  "zoom": -1.8861509229637765
+                }
               },
-              "icon": "lucide-file",
-              "title": "1.12 JSX"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -245,6 +248,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "React/Course/1.12 JSX.md",
     "React/Course/Code/second-react-component/src/btbutton.jsx",
     "React/Course/Code/second-react-component/node_modules/@babel/compat-data/native-modules.js",
     "React/Course/Code/second-react-component/node_modules/@babel/compat-data/data/plugin-bugfixes.json",
@@ -255,11 +259,9 @@
     "React/Course/Code/second-react-component/node_modules/@babel/compat-data/data/corejs2-built-ins.json",
     "React/Course/Code/second-react-component/node_modules/@babel/compat-data/data",
     "React/Course/Code/second-react-component/node_modules/@babel/compat-data/plugins.js",
-    "React/Course/Code/second-react-component/node_modules/@babel/compat-data/package.json",
     "React/Course/Code/second-react-component/node_modules/@babel/core/README.md",
     "Images From Vault/Pasted image 20250713015455.png",
     "React/Course/1.11 Component.md",
-    "React/Course/1.12 JSX.md",
     "Images From Vault/Pasted image 20250713015025.png",
     "React/Course/1.10 File Extensions.md",
     "React/Course/Code/second-react-component/node_modules/isexe/README.md",
