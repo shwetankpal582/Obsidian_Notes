@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Course/Untitled.md",
+                "file": "React/Course/1.15 Dynamic Component.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "1.15 Dynamic Component"
             }
           }
         ]
@@ -245,8 +245,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "React/Course/Code/second-react-app/Components/Dynamic.jsx",
+    "Images From Vault/Pasted image 20250713131015.png",
+    "React/Course/1.14 Other Important Point.md",
+    "React/Course/1.15 Dynamic Component.md",
+    "Images From Vault/Pasted image 20250713130946.png",
     "React/Course/1.13 Export Components.md",
-    "React/Course/Untitled.md",
     "React/Course/1.12 JSX.md",
     "React/Course/Code/second-react-app/Components/BtButton.jsx",
     "Images From Vault/Pasted image 20250713125700.png",
@@ -280,8 +284,6 @@
     "React/Course/Code/second-react-app/node_modules/@humanwhocodes/retry/README.md",
     "React/Course/Code/second-react-app/node_modules/@humanwhocodes/module-importer/README.md",
     "React/Course/Code/second-react-app/node_modules/@humanwhocodes/module-importer/CHANGELOG.md",
-    "React/Course/Code/second-react-app/node_modules/@humanfs/node/README.md",
-    "React/Course/Code/second-react-app/node_modules/@humanfs/core/README.md",
     "React/Course/Code/second-react-app/src/assets/react.svg",
     "React/Course/Code/second-react-app/public/vite.svg",
     "Dashboard.canvas",
@@ -290,9 +292,7 @@
     "React/Course/Code/second-react-component/src/assets/react.svg",
     "React/Course/Code/second-react-component/public/vite.svg",
     "React/Course/Code/first-react-app/src/assets/react.svg",
-    "React/Course/Code/first-react-app/public/vite.svg",
     "Data_Structure/index.canvas",
-    "React/Course/01basicreact/public/logo512.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
