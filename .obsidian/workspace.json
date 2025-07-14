@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Course/Notes/1.10 File Extensions.md",
+                "file": "React/Course/Notes/1.18 Fragments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.10 File Extensions"
+              "title": "1.18 Fragments"
             }
           }
         ]
@@ -245,6 +245,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "React/Course/Notes/1.10 File Extensions.md",
+    "React/Course/Notes/1.18 Fragments.md",
     "React/Course/Notes/1.6 React Components.md",
     "React/Course/Notes/1.11 Component.md",
     "React/Course/Notes/1.12 JSX.md",
@@ -259,7 +261,6 @@
     "React/Course/Code/Project/1-to-do-list/src/components/Task1.jsx",
     "React/Course/Notes/1.5 JS VS React.md",
     "React/Course/Notes/1.4 Working of React.md",
-    "React/Course/Notes/1.10 File Extensions.md",
     "React/Course/1.15 Dynamic Component.md",
     "React/Course/1.16 Reusable Components.md",
     "React/Course/1.17 Including Bootstrap.md",
