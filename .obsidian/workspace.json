@@ -11,17 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 720,
-                  "zoom": -1.8861509229637765
-                }
+                "file": "React/Course/Notes/1.10 File Extensions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "1.10 File Extensions"
             }
           }
         ]
@@ -248,21 +245,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "React/Course/Notes/Main.md",
-    "React/Course/Notes/1.17 Including Bootstrap.md",
-    "Dashboard.canvas",
-    "React/Course/Code/Project/1-to-do-list/src/components/task2.jsx",
-    "React/Course/Code/Project/1-to-do-list/src/components/Task1.jsx",
-    "React/Course/Notes/1.15 Dynamic Component.md",
-    "React/Course/Notes/1.16 Reusable Components.md",
-    "React/Course/Notes/1.5 JS VS React.md",
-    "React/Course/Notes/1.4 Working of React.md",
     "React/Course/Notes/1.6 React Components.md",
-    "React/Course/Notes/1.10 File Extensions.md",
     "React/Course/Notes/1.11 Component.md",
     "React/Course/Notes/1.12 JSX.md",
     "React/Course/Notes/1.13 Export Components.md",
     "React/Course/Notes/1.14 Other Important Point.md",
+    "React/Course/Notes/1.15 Dynamic Component.md",
+    "React/Course/Notes/1.17 Including Bootstrap.md",
+    "React/Course/Notes/1.16 Reusable Components.md",
+    "Dashboard.canvas",
+    "React/Course/Notes/Main.md",
+    "React/Course/Code/Project/1-to-do-list/src/components/task2.jsx",
+    "React/Course/Code/Project/1-to-do-list/src/components/Task1.jsx",
+    "React/Course/Notes/1.5 JS VS React.md",
+    "React/Course/Notes/1.4 Working of React.md",
+    "React/Course/Notes/1.10 File Extensions.md",
     "React/Course/1.15 Dynamic Component.md",
     "React/Course/1.16 Reusable Components.md",
     "React/Course/1.17 Including Bootstrap.md",
@@ -284,7 +281,6 @@
     "React/Course/Code/Code/first-react-app/node_modules/@eslint-community/eslint-utils/node_modules/eslint-visitor-keys/README.md",
     "React/Course/Code/Code/first-react-app/node_modules/@eslint/eslintrc/node_modules/globals/readme.md",
     "React/Course/Code/Code/third bootstrap-l/node_modules/ajv/lib/dotjs/README.md",
-    "React/Course/Code/Code/second-react-app/node_modules/ajv/lib/dotjs/README.md",
     "React/Course/Code/Code/third bootstrap-l/src/assets/react.svg",
     "React/Course/Code/Code/second-react-app/src/assets/react.svg",
     "React/Course/Code/Code/first-react-app/src/assets/react.svg",
